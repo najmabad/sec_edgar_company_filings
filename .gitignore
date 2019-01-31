@@ -108,3 +108,6 @@ venv.bak/
 
 # 10K files
 ./10K_files/
+
+# Pipfile lock
+Pipfile.lock
