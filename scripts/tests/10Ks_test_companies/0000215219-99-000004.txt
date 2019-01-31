@@ -1,0 +1,3411 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ UYVRW5uZWxKrCt6A5luInxUUeVr0gfVAj5tg+Dv2R2+oLRBI3wLHfAcecdVf17AV
+ N+CS21Q2FrVySA8eER1d8w==
+
+<SEC-DOCUMENT>0000215219-99-000004.txt : 19990317
+<SEC-HEADER>0000215219-99-000004.hdr.sgml : 19990317
+ACCESSION NUMBER:		0000215219-99-000004
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	19990102
+FILED AS OF DATE:		19990316
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BELL & HOWELL CO/
+		CENTRAL INDEX KEY:			0000215219
+		STANDARD INDUSTRIAL CLASSIFICATION:	OFFICE MACHINES, NEC [3579]
+		IRS NUMBER:				363580106
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0103
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		
+		SEC FILE NUMBER:	001-07680
+		FILM NUMBER:		99565412
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5215 OLD ORCHARD RD
+		CITY:			SKOKIE
+		STATE:			IL
+		ZIP:			60077-1076
+		BUSINESS PHONE:		8474707100
+
+	MAIL ADDRESS:	
+		STREET 1:		5215 OLD ORCHARD RD
+		CITY:			SKOKIE
+		STATE:			IL
+		ZIP:			60077
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BELL & HOWELL OPERATING CO
+		DATE OF NAME CHANGE:	19960430
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BELL & HOWELL CO /DE/
+		DATE OF NAME CHANGE:	19940906
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<DESCRIPTION>BELL & HOWELL COMPANY FORM 10-K, 01/02/99
+<TEXT>
+
+                 SECURITIES AND EXCHANGE COMMISSION
+
+                      Washington, D.C. 20549
+
+                            FORM 10-K
+
+          ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d)
+              OF THE SECURITIES EXCHANGE ACT OF 1934
+
+
+For the fiscal year ended                       Commission file number
+    January 2, 1999                                      1-3246
+
+                         Bell & Howell Company
+        (Exact Name of Registrant as Specified in its Charter)
+
+                Delaware                                36-3580106
+    (State or Other Jurisdiction of                 (I.R.S. Employer
+     Incorporation or Organization)                Identification No.)
+
+5215 Old Orchard Road, Skokie, Illinois                 60077-1076
+(Address of Principal Executive Offices)                (Zip Code)
+
+
+   Registrant's telephone number, including area code (847) 470-7100
+
+      Securities registered pursuant to Section 12(b) of the Act:
+
+                                                Name of each exchange
+         Title of each class                     on which registered
+         -------------------                   -----------------------
+         Common Stock, $.001                   New York Stock Exchange
+         par value per share
+<PAGE>
+      Securities registered pursuant to Section 12(g) of the Act:
+
+                                  None
+
+     Indicate by check mark whether the Registrant (1) has filed
+all reports required to be filed by Section 13 or 15(d) of the
+Securities Exchange Act of 1934 during the preceding 12 months
+(or for such shorter period that the registrant was required to
+file such reports), and (2) has been subject to such filing
+requirements for the past 90 days.   Yes  X       No
+
+     Indicate by check mark if disclosure of delinquent filers
+pursuant to Item 405 of Regulation S-K is not contained herein,
+and will not be contained, to the best of registrant's knowledge,
+in definitive proxy or information statements incorporated by
+reference in Part III of this Form 10-K or any amendment to this
+Form 10-K.    X
+
+     The aggregate market value of the Registrant's voting stock
+held by non-affiliates (based upon the per share closing price of
+$32 11/16 on March 5, 1999, and for purposes of this calculation
+only, the assumption that all Registrant's directors and
+executive officers are affiliates) was approximately $691
+million.
+
+    The number of shares of the Registrant's Common Stock, $.001
+par value, outstanding as of March 5, 1999 was 23,364,502.
+
+              DOCUMENTS INCORPORATED BY REFERENCE
+(1) Portions of the Registrant's Proxy Statement related to the
+1999 Annual Meeting of Stockholders, to be filed subsequent to
+the date hereof - Part III.
+<PAGE>
+                            TABLE OF CONTENTS
+
+PART I                                                     Page
+
+ Item   1.   Business .....................................  1
+ Item   2.   Properties ...................................  7
+ Item   3.   Legal Proceedings ............................  8
+ Item   4.   Submission of Matters to a Vote of
+             Security Holders ............................  8
+             Executive Officers and Directors .............  9
+
+PART II
+
+ Item   5.   Market for Registrant's Common Equity
+             and Related Stockholder Matters ............. 13
+ Item   6.   Selected Consolidated Financial and
+             Operating Data .............................. 14
+ Item   7.   Management's Discussion and Analysis of
+             Financial Condition and Results of
+             Operations .................................. 16
+ Item  7a.   Quantitative and Qualitative Disclosures About
+              Market Risk ................................. 28
+ Item   8.   Financial Statements and Supplementary Data .. 28
+ Item   9.  Changes in and Disagreements with Accountants
+              on Accounting and Financial Disclosure ...... 56
+
+PART III
+
+ Item  10.   Directors and Executive Officers of
+              the Registrant .............................. 56
+ Item  11.   Executive Compensation ....................... 56
+ Item  12.   Security Ownership of Certain Beneficial
+              Owners and Management ....................... 56
+ Item  13.   Certain Relationships and Related
+              Transactions ................................ 56
+
+SIGNATURE PAGE ............................................ 57
+
+PART IV
+
+ Item  14.   Exhibits, Financial Statement Schedules,
+              and Reports on Form 8-K ..................... 59
+
+EXHIBITS
+<PAGE>
+                      Bell & Howell Company
+
+Item 1. Business
+- ------  --------
+
+     Bell & Howell Company and its Subsidiaries (collectively,
+the "Company") is a leading global information solutions and
+services provider.  In each of its businesses, the Company
+transforms information through software and services, helping its
+customers operate more effectively and efficiently.  Within its
+three business segments, Information Access, Mail and Messaging
+Technologies and Imaging, the Company focuses on well-defined
+market niches where it is or can become the leader, with an
+emphasis on adding value to information through software, and on
+providing world class service and support to create strong
+recurring revenue streams. Within its Information Access segment,
+Bell & Howell develops and markets information services and
+systems that are focused on the needs of its customers in select
+vertical niches, including libraries of all kinds (including
+college and university, and elementary and secondary schools as
+well as public) and transportation and vehicle dealers.  Within
+its Mail and Messaging Technologies segment, the Company develops
+and markets a complete range of high volume mail processing
+systems and services, which increasingly utilize the Company's
+proprietary software to expand the capabilities and improve the
+efficiency and effectiveness of customers' mailing operations.
+Within its Imaging segment, the Company develops and markets
+imaging systems and components that enable its customers to
+effectively file and access their documents and records, with a
+focus on financial institutions, governmental agencies and other
+paper intensive industries.
+
+Information Access
+- ------------------
+
+     Information Access unique databases, proprietary access
+tools, and value-added services are designed to meet customers'
+increasing information needs, which have evolved well beyond the
+mere availability of information.  Customers' demands for more
+efficient and effective access to relevant data for specific
+information requirements are being driven by their needs to
+reduce search time and cost while performing more focused yet
+comprehensive searches.  The Company's Information and Learning
+business and Publishing Services business, which together
+comprise Bell & Howell's Information Access segment, provide
+solutions to these customer needs.
+
+
+                               -1-
+<PAGE>
+     Information and Learning.  The Company's Information and
+Learning business is the world's leading value-add aggregator and
+provider of access to information from periodicals and
+newspapers, dissertations, out-of-print books and other scholarly
+collections.  This information can be accessed via the Internet,
+in other electronic media, such as CD-ROM and magnetic tape, or
+on microfilm and paper.  The Company aggregates the works of
+publishers and authors, adds value through the creation of
+proprietary abstracts and indices, software, editorial process,
+and by creating thematic collections for easy access by its
+customers and their library patrons.  The Company's comprehensive
+database consists of over 18,000 periodical titles, 7,000
+newspaper titles, as well as its unique content base including
+1.5 million dissertations, 140,000 out-of-print books, 300
+research collections, and over 15 million proprietary abstracts
+for on-line/other electronic retrieval.  The ability to provide
+its customers with the full image as originally published
+distinguishes the Company from other information providers which
+typically store and provide information in a text-only format,
+omitting essential charts, graphs, pictures and other images.
+Customers include libraries and information centers in elementary
+and secondary schools, colleges and universities, public,
+corporate and government libraries as well as a number of well
+known information providers that resell the Company's electronic
+content primarily within the corporate desktop user market.
+
+     Publishing Services.  The Company's Publishing Services
+business is a leading provider of turnkey systems (including
+software, information updates, service as well as hardware) used
+to manage the parts area of automotive dealerships and to provide
+total information systems for powersports (motorcycle and marine)
+and recreational vehicle dealerships.
+
+     The Company's automotive customer base consists principally
+of franchised dealerships, including General Motors, Chrysler,
+Ford, Mercedes Benz, Toyota, Land Rover, Porsche, Honda, Nissan,
+Volvo, Isuzu, Subaru, Hyundai, Kia, Suzuki, Western Star and more
+recently, Lexus.  For its automotive customers, the Company
+creates and markets turnkey systems consisting primarily of
+electronic parts catalogs which allow automotive dealerships to
+electronically access manufacturers' proprietary technical
+documentation (such as parts catalogs, parts and service
+bulletins and other reference materials) and to interface with
+
+
+                               -2-
+<PAGE>
+other important information systems (such as inventory management
+and billing) within the dealership.  In addition, the Company
+provides complete dealer management systems and electronic parts
+catalogs to powersports and recreational vehicle dealerships.
+Similar to automotive, the Company provides dealerships access to
+proprietary technical documentation for most major motorcycle
+manufacturers, including Harley Davidson, Honda, Suzuki, Yamaha,
+Kawasaki, Triumph, BMW, KTM and Ducati as well as the major
+marine manufacturers, including Mercury (Brunswick), Outboard
+Marine, Yamaha and Volvo-Penta.
+
+Mail and Messaging Technologies
+- -------------------------------
+
+     The Company's Mail and Messaging Technologies business is
+the leading provider of systems and services to high volume
+mailers.  These systems, which increasingly utilize proprietary
+software, automatically perform a broad range of mail processing
+functions, from collating, cutting, bursting, folding and
+inserting documents (at cycle speeds ranging up to 18,000
+envelopes per hour) to optical scanning, encoding and sorting of
+envelopes (at speeds up to 36,000 envelopes per hour).  These
+software-driven systems allow customers to more efficiently
+manage mail room operations as well as convert routine mailings
+(such as invoices or statements) into targeted communication and
+marketing programs by customizing the invoice or statement and
+including promotional inserts based on specific customer
+profiles.  Customers include financial institutions, insurance
+companies, utilities, service bureaus, credit card companies,
+direct mail marketers and other companies which generate high
+volumes of mail.  After-market service and support are an
+important feature of the comprehensive solutions provided to the
+Company's customers, and are a competitive differentiator for
+Bell & Howell, with service revenues representing 44% of the net
+sales of this segment.
+
+Imaging
+- -------
+
+  Bell & Howell's Imaging business is one of the leading
+manufacturers of technologically advanced production scanners
+which convert documents into electronic format. These production
+scanners represent approximately 25% of the sales of this
+business, and are primarily sold through distributors to
+specialized imaging value-added resellers which integrate these
+
+
+                               -3-
+<PAGE>
+scanners into customer specific solutions.  In addition, the
+Company is a leading developer, integrator and distributor of
+non-paper based systems and components that enable users to
+efficiently file and access their documents and records.  These
+systems and components are customized to the needs of select
+vertical markets, such as financial institutions and governmental
+agencies, in order to provide better customer service, enhance
+productivity, minimize storage costs and ensure the security and
+integrity of their records.  These systems, which utilize
+electronic or microfilm technology, consist of the software,
+hardware, accessories and supplies to capture, enhance,
+duplicate, store, index and retrieve a customer's data and
+documents.  Products include a full line of computer-aided
+electronic and microfilm retrieval systems and components, as
+well as other accessories and supplies.  Within this segment as
+well, after-market service and support are an important feature
+of the comprehensive solutions provided to the Company's
+customers.  In addition, the Company is increasingly servicing
+other manufacturers' electronic imaging systems and components
+through its global network of certified technicians, with service
+revenues representing approximately 30% of the net sales of this
+segment.
+
+     Financial information for each of the Company's business
+segments and operations by geographic area is contained in Note 2
+to the Consolidated Financial Statements.
+
+Methods of Distribution
+
+     Because of the diverse nature of its products, the Company
+utilizes several different methods of distribution.  Products are
+sold primarily through direct sales forces which are supported or
+supplemented by telemarketing, with agents and distributors
+utilized in selected geographic markets.
+
+Patents and Licenses
+
+     The Company owns a substantial number of patents and patent
+rights, but it does not consider any one patent or group of
+patents owned by it, or under which it is licensed, to be
+material to any of the Company's business segments.  Royalty
+income received from licensees is not material.
+
+
+                               -4-
+<PAGE>
+Seasonality
+
+     Although the Company in general is not affected by seasonal
+fluctuations, the buying patterns and funding availability for
+certain of its customers cause sales, profitability and cash flow
+to be higher in the fourth quarter of the year.  Due to this
+seasonal factor, the Company maintains a revolving credit
+facility to fund interim cash requirements.
+
+Competition
+
+     The markets in which the products of the Company are sold
+are highly competitive and, in certain instances, include
+competitors with substantially greater financial and other
+resources.
+
+Government Regulations
+
+     The Company is subject to various federal, state, local and
+foreign environmental laws and regulations limiting the
+discharge, storage, handling and disposal of a variety of
+substances.  The
+Company's operations are also governed by laws and regulations
+relating to equal employment opportunity, workplace safety and
+worker health, including the Occupational Safety and Health Act
+and regulations thereunder.  The Company believes that it has
+complied in all material respects with applicable laws and
+regulations, and that future compliance will not have a material
+adverse effect upon the consolidated operations or financial
+condition of the Company.
+
+Financing Subsidiary
+
+     Bell & Howell Financial Services Company ("BHFS"), the
+Company's financing subsidiary, provides lease financing for the
+Company's customers.  BHFS finances its leases on a stand-alone
+basis through separate financing arrangements.  In fiscal 1998,
+net interest income earned at BHFS was $9.5 million.
+
+Promotional Activities
+
+     The Company conducts a comprehensive marketing program,
+including advertising, promotional materials, direct mail and
+telemarketing.  The Company also participates frequently in
+industry trade shows which increase customer awareness of
+
+
+                               -5-
+<PAGE>
+Bell & Howell products and services.  The Company regards its
+customer service and support organization as an integral part of
+its marketing strategy.  Technical support and product
+development employees frequently participate in sales calls and
+product demonstrations.
+
+Sources and Availability of Raw Materials
+
+     The Company purchases a significant amount of microfilm from
+two vendors for its Information Access and Imaging business
+segments.  Other materials, including electronic components, are
+purchased from a number of suppliers.  Management believes that
+alternate sources of supply are available for substantially all
+raw materials and components.  The Company believes that it
+currently has an adequate supply of raw materials and component
+parts to meet its manufacturing requirements, and that the loss
+of any one of its suppliers would not have a material adverse
+effect on the Company.
+
+Backlog
+
+     Except in its Mail and Messaging Technologies segment, which
+includes customized products and assembly of complex mail
+processing systems, the Company fills substantially all customer
+orders within 30 days.  In the Mail and Messaging Technologies
+segment, backlog at the end of fiscal 1998 totaled $78.6 million
+as compared to $56.8 million at the end of fiscal 1997.
+
+Major Customers
+
+     The Company is not dependent upon any one customer or a few
+customers, the loss of which would have a material adverse effect
+on the Company's businesses.  In fiscal 1998, no single customer
+accounted for 5% or more of the consolidated net sales of the
+Company.
+
+Research and Development Expenses
+
+     The amounts charged to the Company's earnings for research
+and development expense in fiscal 1998, 1997 and 1996 were $37.9
+million, $38.3 million and $34.8 million, respectively.  New
+product offerings resulting from the Company's research and
+development efforts served to offset declines in certain other
+
+
+                               -6-
+<PAGE>
+product lines, as the Company continually seeks to take advantage
+of new product/technology opportunities (with an increased
+emphasis on internet capabilities and software solutions) in each
+of its businesses. The Company's research and development
+expenditures include expenses primarily for database and software
+development, information delivery systems, production scanners
+and other electronic devices for the Information Access and
+Imaging segments, as well as for new mail processing systems that
+are more electronic and software driven and stand-alone software
+solutions for the Mail and Messaging Technologies segment.
+
+Employees
+
+     At the end of fiscal 1998, the Company had 5,926 employees.
+Approximately 270 employees located at the Company's Allentown,
+Pennsylvania facility are represented by a labor union pursuant
+to an agreement effective January 1, 1997 between Bell & Howell
+Mail Processing Systems Company and IMMCO Employees Association,
+which expires on May 31, 2001.  Management believes that its
+relations with its employees are good.
+
+
+Item 2.  Properties.
+- ------   ----------
+
+     Bell & Howell's principal administrative office is located
+in Skokie, Illinois.  The office space has been leased through
+2009.  At the Company's option, the lease may be renewed for an
+additional five years.  The following table provides certain
+summary information in square feet with respect to the production
+and development facilities that the Company owns or leases in
+connection with its businesses:
+<TABLE>
+<CAPTION>
+                                                       Owned    Leased     Total
+                                                      -------   -------  ---------
+        <S>                                           <C>       <C>        <C>
+        Information Access .......................    284,000   191,000    475,000
+        Mail and Messaging Technologies ..........    592,000   142,000    734,000
+        Imaging ..................................     74,000   119,000    193,000
+                                                      -------   -------  ---------
+                                                      950,000   452,000  1,402,000
+                                                      =======   =======  =========
+</TABLE>
+
+    Bell & Howell also leases facilities in the United States,
+Canada, France, United Kingdom, Germany, The Netherlands, Japan,
+Singapore, Switzerland and Austria for sales, service and
+warehouse space.  The termination of any one of the leases, some
+of which are long-term, would not significantly affect the
+Company's operations.
+
+
+                               -7-
+<PAGE>
+     The Company deems the buildings, machinery and equipment
+used in its operations (whether owned or leased), generally to be
+in good condition and adequate for the purposes for which they
+are used.
+
+
+Item 3.  Legal Proceedings.
+- ------   -----------------
+
+     The Company is involved in various legal proceedings
+incidental to its business.   Management believes that the
+outcome of such proceedings will not have a material adverse
+effect upon the consolidated operations or financial condition of
+the Company.
+
+
+Item 4.  Submission of Matters to a Vote of Security Holders.
+- ------   ---------------------------------------------------
+
+     None.
+
+
+                               -8-
+<PAGE>
+Executive Officers and Directors
+
+     The following table sets forth the names, ages and positions
+held by the directors and executive officers of the Company:
+Name                       Age      Positions at the Company
+- --------------------       ---      ------------------------
+
+James P. Roemer             51      Chairman of the Board of
+                                    Directors, President and
+                                    Chief Executive Officer
+
+Nils A. Johansson           50      Director, Executive Vice
+                                    President and Chief
+                                    Financial Officer
+
+David Bonderman             56      Director
+
+David G. Brown              42      Director
+
+J. Taylor Crandall          45      Director
+
+Daniel L. Doctoroff         40      Director
+
+William E. Oberndorf        45      Director
+
+Gary L. Roubos              62      Director
+
+John H. Scully              54      Director
+
+William J. White            60      Director
+
+Todd W. Buchardt            39      Secretary and General Counsel
+
+Michael A. Dering           47      President and Chief Executive
+                                    Officer of Bell & Howell Mail
+                                    and Messaging Technologies
+
+Stuart T. Lieberman         47      Vice President, Finance and
+                                    Chief Accounting Officer
+
+Dwight A. Mater             41      Vice President, Investor
+                                    Relations and Business
+                                    Development
+
+Wayne E. Mickiewicz         47      President and Chief Executive
+                                    Officer of Bell & Howell
+                                    Publishing Services
+
+Joseph P. Reynolds          49      President and Chief Executive
+                                    Officer of Bell & Howell
+                                    Information and Learning
+
+Maria T. Rubly              44      Vice President, Human Resources
+
+
+                               -9-
+<PAGE>
+The business experience and certain other information relating to
+each director and executive officer of the Company is set forth
+below:
+
+     James P. Roemer has been Chairman of the Board since January
+1998 and has been a Director of the Company since February 1995.
+In February 1997 he was elected President and Chief Executive
+Officer of the Company.  From February 1995 to February 1997 he
+served as President and Chief Operating Officer of the Company.
+Prior to that, he served as President and Chief Executive Officer
+of UMI Company from January 1994 to June 1995.  Mr. Roemer joined
+Bell & Howell as Vice President and Bell & Howell Publication
+Systems Company ("PSC") as President and Chief Operating Officer
+in October 1991 and was promoted to President and Chief Executive
+Officer of PSC in September 1993.  Prior to joining Bell &
+Howell, Mr. Roemer was President of the Michie Group, Mead Data
+Central from December 1989 to October 1991.  From January 1982 to
+December 1989 he was Vice President and General Manager of Lexis,
+an on-line information service.  From April 1981 to December 1982
+he served as acting President of Mead Data Central.
+
+     Nils A. Johansson has been a Director of the Company since
+April 1990.  Since January 1994, he has held the office of
+Executive Vice President and Chief Financial Officer of the
+Company.  Mr. Johansson served as Senior Vice President, Finance
+and Chief Financial Officer of the Company from December 1991 to
+January 1994.  From May 1989 to December 1991, he was Vice
+President, Finance, Treasurer and Chief Financial Officer of the
+Company.  From February 1981 to May 1989 he held various
+executive positions with Bell & Howell, including Corporate
+Treasurer, and positions in financial planning, analysis and
+control, as well as business development.
+
+     David Bonderman has been a Director of the Company since
+December 1987.  He has been the Managing General Partner of TPG
+Partners L.P. (a private investment company) since December 1993.
+From August 1992 to December 1993, he was a private investor.
+From July 1983 through August 1992, he was Vice President and
+Chief Operating Officer of Keystone, Inc. (a private investment
+company).  He is also a Director of Beringer Wine Estates, Inc.,
+Continental Airlines, Inc., Denbury Resources, Inc., Oxford
+Health Plans, Inc., Ryanair Ltd., Realty Information Group and
+Washington Mutual Inc.
+
+
+                               -10-
+<PAGE>
+     David G. Brown has been a Director of the Company since
+January 1994.  He has been a principal in Arbor Investors LLC (a
+private investment company) since August 1995, Chief Financial
+Officer of Keystone Inc. since September 1998 and a Vice
+President of Keystone, Inc. since August 1993.  Prior to joining
+Keystone, Mr. Brown was a Vice President in the Corporate Finance
+Department of Salomon Brothers Inc. from August 1985 to July
+1993.  He is a Director of AER Energy Resources, Inc.
+
+     J. Taylor Crandall has been a Director of the Company since
+November 1990.  He has been President and Chief Operating Officer
+of Keystone Inc. since September 1998 and was Vice President and
+Chief Financial Officer of Keystone, Inc. from October 1986 to
+August 1998.  He was President, Director and sole stockholder of
+Acadia MGP, Inc. (managing general partner of Acadia Investment
+Partners, L.P., the sole general partner of Acadia Partners, L.P.
+(an investment partnership)) from January 1992 to September 1995.
+He is a Director of Integrated Orthopedics, Inc., Physicians
+Reliance Network, Quaker State Corporation, Signature Resorts,
+Inc., Specialty Foods, Inc. and Washington Mutual Inc.
+
+     Daniel L. Doctoroff has been a Director of the Company since
+June 1990.  He has served as Managing Director of Oak Hill
+Partners, Inc. (successor to Rosecliff, Inc., the investment
+advisor to Acadia Partners, L.P.) since August 1987 and has been
+a managing Partner of Oakhill Capital Management since November
+1998.  Since October 1992, he also has been a Vice President of
+Keystone, Inc. and since February 1994 he has been Managing
+Partner of Insurance Partners Advisory, L.P.  He is also a
+Director of Williams Scotsman, Inc., MeriStar Hospitality, Inc.
+and MeriStar Hotels and Resorts, Inc.
+
+     William E. Oberndorf has been a Director of the Company
+since July 1988.  He has served as Managing Director of SPO
+Partners & Co. (a private investment company) since March 1991.
+He is also a Director of Plum Creek Timber Co., L.P.
+
+     Gary L. Roubos has been a Director of the Company since
+February 1994.  He has been Chairman of the Board of Dover
+Corporation (a diversified equipment manufacturer) since August
+1989 and was President from May 1977 to May 1993.  He is also a
+Director of Omnicom Group, Inc.
+
+
+                               -11
+<PAGE>
+     John H. Scully has been a Director of the Company since July
+1988.  He has served as Managing Director of SPO Partners & Co.
+since March 1991.  He is also a Director of Plum Creek Timber
+Co., L.P.
+
+     William J. White has been a Director of the Company since
+February 1990 and was Chairman of the Board from February 1990 to
+January 1998.  He served as Chief Executive Officer of the
+Company from February 1990 to February 1997 and was President of
+the Company from February 1990 to February 1995.  He is also a
+Director of Ivex Packaging Corporation, Readers Digest
+Association, Inc. and TJ International, Inc.
+
+     Todd W. Buchardt was appointed General Counsel in April
+1998, and in September 1998 was elected to the additional office
+of Secretary.  Prior to joining Bell & Howell, he held various
+legal positions with First Data Corporation from 1986 to 1998.
+
+     Michael A. Dering has been President and Chief Executive
+Officer of Bell & Howell Mail and Messaging Technologies since
+February 1998.  From July 1996 to February 1998, he served as
+President and Chief Executive Officer of Bell & Howell Publishing
+Services.  Prior to joining Bell & Howell he was President and
+Chief Executive Officer of TAB Products Company (an office filing
+systems company) from February 1991 to July 1996.
+
+     Stuart T. Lieberman has been Vice President, Finance and
+Chief Accounting Officer of the Company since March 1998.  From
+February 1990 to February 1998, he served as Vice President,
+Controller and Chief Accounting Officer.  Prior to joining
+Bell & Howell, he spent 11 years with Baxter International Inc.
+("Baxter") where he held various financial positions, the most
+recent of which was as Vice President of Finance for Baxter's
+Global Renal Business.
+
+     Dwight A. Mater has been Vice President, Investor Relations
+and Business Development since March 1998.  From July 1996 to
+February 1998 he served as Vice President, Business Development
+and from February 1994 to June 1996, he served as Director of
+Business Development.  Prior to joining Bell & Howell, he held
+various marketing and business development positions with Baxter
+from 1988 to 1994.
+
+
+                               -12-
+<PAGE>
+     Wayne E. Mickiewicz has been President and Chief Executive
+Officer of Bell & Howell Publishing Services since June 1998.
+Prior to joining Bell & Howell, he was President of Prudential
+Service Bureau, Inc. (a benefits administrator) from January 1997
+to June 1998.  From May 1990 to June 1997 he held various
+positions as Vice President with the Brokerage Information
+Services Group at Automatic Data Processing in general
+management, product development and servicing.
+
+     Joseph P. Reynolds has been President and Chief Executive
+Officer of Bell & Howell Information and Learning since April
+1998.  Prior to joining Bell & Howell, he was Chief Executive
+Officer of the School and Career Education Group of Thomson
+Corporation from June 1997 to April 1998 and was Chief Operating
+Officer of that Group from June 1995 to June 1997.  From 1982 to
+June 1995 he held various positions in management, sales and
+marketing at Thomson and its Delmar Publishers subsidiary.
+
+     Maria T. Rubly has been Vice President, Human Resources of
+the Company since 1993.  Prior to joining the Company, she spent
+13 years with Baxter, including five years with American Hospital
+Supply Corporation until its merger with Baxter, where she held
+various human resource positions.
+
+
+Item 5.  Market for Registrant's Common Equity and Related
+- ------   -------------------------------------------------
+         Stockholder Matters.
+         -------------------
+
+     The Company's Common Stock is traded on the New York Stock
+Exchange under the symbol "BHW".
+
+     The Company has not declared or paid any cash dividends on
+its Common Stock.  The Company's Credit Agreement (as defined
+herein) contains certain restrictions on the payment of dividends
+on and repurchases of its Common Stock. (See Note 6 to the
+Consolidated Financial Statements).
+
+     The high and low closing prices of the Company's Common
+Stock were as follows:
+<TABLE>
+<CAPTION>
+                                                        1998                     1997
+                                                 ------------------      ------------------
+Quarter                                            High       Low          High       Low
+- -------                                          -------    -------      -------    -------
+<S>                                              <C>        <C>          <C>        <C>
+First .........................................  $29 5/16   $22 15/16    $24 3/8    $19 7/8
+Second ........................................   29 3/16    25 1/8       29 3/8     19 3/8
+Third .........................................   30 13/16   23           32 3/4     26 7/8
+Fourth ........................................   37 13/16   22           32 7/16    22 5/16
+</TABLE>
+
+
+                               -13-
+<PAGE>
+Item 6.  Selected Consolidated Financial and Operating Data.
+- ------   --------------------------------------------------
+
+     The following historical selected consolidated financial and
+operating data have been derived from the audited Consolidated
+Financial Statements as of the end of and for each of the fiscal
+years in the five-year period ended January 2, 1999.  The
+following financial data should be read in conjunction with the
+Consolidated Financial Statements and "Management's Discussion
+and Analysis of Financial Condition and Results of Operations"
+included elsewhere herein.
+<TABLE>
+<CAPTION>
+                                                                             Fiscal
+                                                        1998       1997       1996       1995        1994
+                                                      --------   --------   --------   ---------   --------
+                                                          (Dollars in thousands, except per share data)
+<S>                                                   <C>        <C>        <C>         <C>        <C>
+Continuing Operations Data (1):
+Net sales .........................................   $900,150   $856,971   $827,398    $771,891   $694,043
+Operating costs and expenses:
+Cost of sales .....................................    546,256    531,513    508,025     468,255    430,377
+Research and development ..........................     37,939     38,321     34,849      29,475     20,974
+Selling and administrative ........................    225,255    215,095    198,761     194,556    172,313
+Restructuring .....................................         --         --         --          --     32,893
+                                                       -------   --------    -------    --------    -------
+Total operating costs and expenses ................    809,450    784,929    741,635     692,286    656,557
+                                                       -------   --------    -------    --------    -------
+Operating income ..................................     90,700     72,042     85,763      79,605     37,486
+Net interest expense ..............................     24,400     40,592     43,051      48,525     46,679
+                                                       -------   --------    -------    --------    -------
+Earnings (loss) before income taxes ...............     66,300     31,450     42,712      31,080     (9,193)
+Income tax expense (benefit) ......................     26,520     12,580     17,863      12,811     (1,565)
+                                                       -------   --------    -------    --------    -------
+Earnings (loss) ...................................   $ 39,780   $ 18,870   $ 24,849    $ 18,269   $ (7,628)
+                                                       =======   ========    =======     =======    =======
+
+
+Earnings (loss) per common share - diluted ........   $   1.69   $    .95   $   1.34    $   1.10   $   (.58)
+                                                       =======   ========    =======     =======    =======
+
+
+Other Continuing Operations Data:
+EBITDA (2) ........................................   $142,705   $128,845   $129,070    $116,475   $102,984
+EBITDA as a percent of net sales ..................       15.9%      15.0%      15.6%       15.1%      14.8%
+Gross profit as a percent of net sales (3) ........       39.3%      38.0%      38.6%       39.3%      38.0%
+Depreciation and amortization (4) .................   $ 52,005   $ 50,207   $ 43,307    $ 36,870   $ 32,605
+Capital expenditures ..............................     36,403     36,380     41,484      41,138     38,051
+</TABLE>
+<TABLE>
+<CAPTION>
+                                                                        At the end of Fiscal
+                                                        1998       1997       1996       1995        1994
+                                                      --------   --------   --------   ---------   --------
+                                                                      (Dollars in thousands)
+<S>                                                   <C>       <C>        <C>         <C>        <C>
+Balance Sheet Data:
+Working capital ...................................   $  1,918  $  3,623   $(18,693)   $(50,389)  $(70,653)
+Total assets ......................................    836,293   799,854    766,391     652,821    598,256
+Long-term debt ....................................    445,240   497,252    548,281     465,230    518,687
+Total shareholders' equity (deficit) ..............    (29,222)  (64,548)  (166,892)   (189,472)  (278,728)
+</TABLE>
+
+                               -14-
+<PAGE>
+Footnotes to the Selected Consolidated Financial and Operating
+Data:
+
+(1)  In December 1997, the Company adopted a plan to divest its
+     postal contracting business, and accordingly the operating
+     results of this business have been segregated from the
+     Company's continuing operations, and are separately reported
+     as a discontinued operation in the financial statements.
+
+(2)  EBITDA is defined as operating income from continuing
+     operations before special charges (Mail and Messaging
+     Technologies charge in 1997 of $6.6 million related to
+     severance/inventory and a restructuring charge in 1994 of
+     $32.9 million) plus depreciation and amortization, and is
+     generally accepted as providing useful information
+     regarding a company's financial performance.  EBITDA
+     should not be considered an alternative to net income or
+     an alternative to the Company's cash flow from operating
+     activities as a measure of liquidity.
+
+(3)  Gross profit is defined as net sales less cost of sales.
+
+(4)  Excludes amortization/write-off of deferred financing
+     costs which were as follows for the specified fiscal years:
+     1998 - $.5 million; 1997 - $11.2 million; 1996 - $3.2
+     million; 1995 - $4.0 million; 1994 - $3.8 million.
+
+
+                               -15-
+<PAGE>
+Item 7.  Management's Discussion and Analysis of Financial
+- ------   -------------------------------------------------
+         Condition and Results of Operations
+         -----------------------------------
+
+     This section should be read in conjunction with the Selected
+Consolidated Financial and Operating Data and the Consolidated
+Financial Statements of Bell & Howell Company and Subsidiaries
+(collectively the "Company") and the notes thereto set forth
+elsewhere herein.
+
+     Except for the historical information and discussions
+contained herein, statements contained in this report may
+constitute "forward-looking statements" within the meaning of the
+Private Securities Litigation Reform Act of 1995.  These
+statements involve a number of risks, uncertainties and other
+factors, including without limitation, decreases in funding for
+Internet access as well as overall acceptance and usage of the
+Internet in the education and library markets, the willingness of
+parents to purchase educational products for home use, decreases
+or shifts in mail volumes, changes in the business services
+market, customer Year 2000 issues and concerns that could impact
+their purchase and investment decisions, and general economic
+conditions, all of which could impact future results.
+
+
+Results of Operations
+
+Fiscal 1998 Compared to Fiscal 1997
+
+     The Company's net sales increased $43.2 million, or 5%, to
+$900.2 million in 1998.  The increase primarily resulted from
+strong sales growth in both the Mail and Messaging Technologies
+segment as well as the Publishing Services business within the
+Information Access segment.
+
+     Information Access net sales increased $14.4 million, or 5%,
+to $320.5 million in 1998.  Net sales of the Information and
+Learning business increased $3.3 million, or 2%, to $187.0
+million due to a growing electronic subscription base, which
+continued to reflect strong sales of ProQuest Direct (the
+Company's internet-based product offering), and high renewal
+rates on existing products.  While the sales comparison to the
+
+
+                               -16-
+<PAGE>
+prior year is adversely impacted as the Company curtailed its
+direct sales efforts to the corporate market (and now more
+profitably serves corporate libraries through resellers like Dow
+Jones), sales of electronic content in the core library market
+increased 19% over the prior year, as customers increasingly
+demand electronic information solutions including on-line
+delivery.  Net sales of microfilm and paper products of the
+Information and Learning business increased modestly versus the
+prior year as increased pricing more than offset lower unit
+volumes.  Net sales of the Publishing Services business increased
+$11.1 million, or 9%, to $133.5 million due to increased sales of
+electronic parts catalogs and ancillary products to automotive
+dealerships.  In addition to new systems placements, the Company
+continued to experience strong sales of additional software
+applications and high contract renewal rates related to
+previously placed systems.
+
+     Mail and Messaging Technologies net sales increased $26.9
+million, or 7%, to $404.4 million in 1998, as increased sales of
+high volume inserting equipment and increased service revenues
+were partially offset by the impact of a U.S. Postal regulatory
+change which spurred sorting equipment sales in 1997.  Order
+intake increased 15%, which has resulted in the aforementioned
+sales growth and a substantial increase in the backlog of 38%
+from the beginning of the year.  Service revenues (which are
+primarily annuity-based and represent 44% of segment sales)
+increased $16.2 million, or 10%, to $177.4 million due to both an
+expanded customer base and increased pricing.
+
+     Imaging net sales increased $1.9 million, or 1% to $175.3
+million in 1998, as increased electronic service revenues were
+partially offset by lower sales of micrographic/optical equipment
+and related service revenues, and also reflected essentially
+constant sales of production scanners (related to a modified
+strategy with respect to the level of inventory maintained in the
+distribution channel).
+
+     The Company's cost of sales increased $14.7 million, or 3%,
+to $546.3 million in 1998, with the gross profit (net sales less
+cost of sales) percentage increasing by 1.3 percentage points to
+39.3%.  The higher gross profit percentage in 1998 resulted from
+a more profitable product mix, increased pricing, and improved
+manufacturing/service productivity.
+
+
+                               -17-
+<PAGE>
+     Research and development expense of $37.9 million in 1998
+approximated the prior year level as the Company continued to
+invest significantly in new product offerings.  The Company
+continually seeks to take advantage of new product/technology
+opportunities (with an increased emphasis on internet
+capabilities and software solutions) in each of its businesses.
+The Company's research and development expenditures include
+expenses primarily for database and software development,
+information delivery systems, production scanners and other
+electronic devices for the Information Access and Imaging
+segments, as well as for new mail processing systems that are
+more electronic and software driven and stand-alone software
+solutions for the Mail and Messaging Technologies segment.
+
+     Selling and administrative expense increased $10.2 million,
+or 5%, to $225.3 million in 1998 reflecting the Company's
+increased investment in sales and marketing resources (which
+reflects an increase in the sales force in the Information and
+Learning business to capitalize on the sales growth opportunities
+of internet-based products), as well as increased distribution
+costs associated with the higher sales volumes.
+
+     Operating income increased $18.7 million, or 26%, to $90.7
+million, while EBITDA increased $13.9 million, or 11%, to $142.7
+million in 1998.
+
+     Information Access operating income increased $2.4 million,
+or 5%, to $55.0 million in 1998, resulting from the higher sales
+volumes and an improved gross profit percentage (reflecting a
+more profitable product mix with a greater proportion of revenues
+related to software and publishing and a lower proportion related
+to the sale of hardware).  Information Access EBITDA increased
+$4.9 million, or 5%, to $94.4 million in 1998.
+
+     Mail and Messaging Technologies operating income increased
+$6.4 million, or 21%, to $36.4 million in 1998 (excluding the
+$6.6 million special charge in 1997), as the increased sales and
+improved gross profit percentage (also reflecting a more
+profitable product mix with an emphasis on software and service),
+drove the profitability improvement.  Mail and Messaging
+Technologies EBITDA increased $5.6 million, or 15%, to $42.8
+million in 1998.
+
+
+                               -18-
+<PAGE>
+     Imaging operating income increased $4.1 million, or 40%, to
+$14.5 million in 1998 reflecting the benefits of a lower cost
+infrastructure.  Imaging EBITDA increased $4.2 million, or 26%,
+to $20.2 million in 1998.
+
+     Corporate expenses increased $0.8 million, or 6%, to $15.2
+million in 1998 as productivity improvements were more than
+offset by inflationary/other cost increases.
+
+     Net interest expense decreased $16.2 million, or 40%, to
+$24.4 million in 1998, primarily reflecting the impact of the
+Company's public offering of 5.0 million shares of Common Stock
+in September 1997, the proceeds of which, together with
+borrowings under the Company's Credit Agreement, were used to
+redeem debt outstanding.  Net interest income of Bell & Howell
+Financial Services Company ("BHFS"), the Company's financing
+subsidiary, increased $.8 million to $9.5 million in 1998,
+primarily due to continued growth in the lease receivables
+portfolio.
+
+     Income tax expense increased in 1998 as a result of a higher
+level of pretax profit, with the income tax rate remaining
+constant with the prior year.
+
+     As a result of changing market and competitive dynamics
+within global government postal markets, as well as a review of
+its future strategic focus, in December 1997 the Company adopted
+a plan to divest its postal contracting business.  Accordingly,
+the operating results of this business have been segregated from
+the Company's continuing operations, and are separately reported
+as a discontinued operation in the consolidated financial
+statements.  Net sales for this business increased $16.7 million
+to $45.0 million in 1998, with a net loss of $2.7 million in 1998
+versus a net loss of $22.4 million in the prior year.
+
+     The extraordinary losses of $28.9 million ($42.7 million
+pretax) in 1997 were comprised of the debt repurchase premiums
+and write-off of unamortized debt issuance costs associated with
+the repurchases of the 11 1/2% Senior Discount Debentures, the
+9 1/4% Senior Notes and the 10 3/4% Senior Subordinated Notes.
+
+
+                               -19-
+<PAGE>
+Fiscal 1997 Compared to Fiscal 1996
+
+     The Company's net sales increased $29.6 million, or 4%, to
+$857.0 million in 1997.  The increase resulted from continued
+strong sales growth within each of the Information Access
+businesses, as well as the North American portion of the Mail and
+Messaging Technologies segment.  This was partially offset by the
+impact of divesting certain low margin product lines within the
+Imaging segment, and lower high volume mail processing systems
+sales in Europe resulting from both softer economies in Germany
+and France, and a stronger U.S. dollar.
+
+     Information Access net sales increased $23.6 million, or 8%,
+to $306.1 million in 1997.  Net sales of the Information and
+Learning business increased $11.1 million, or 7%, to $183.7
+million due to a growing electronic subscription base, which
+continued to reflect strong sales of ProQuest Direct(the
+Company's on-line product offering), high renewal rates on
+existing products, and the acquisition of DataTimes Corporation
+(in September 1996) which added complementary information
+content, technology and distribution to the Company's electronic
+product offerings.  Although the Company curtailed its direct
+sales efforts to the corporate market in 1997 (and now more
+profitably serves corporate libraries through resellers like Dow
+Jones), sales of electronic content increased 22% over the prior
+year as customers increasingly demand electronic information
+solutions, and its newer form of on-line delivery.  Net sales of
+microfilm and paper products of the Information and Learning
+business declined slightly versus the prior year as increased
+pricing was offset by lower unit volumes.  Information and
+Learning sales of lower margin electronic equipment continued to
+decline in 1997, as on-line delivery and the availability (from
+other sources) of standardized computer hardware have allowed the
+Company to focus on providing the more valuable information
+content and software.  Net sales of the Publishing Services
+business increased $12.5 million, or 11%, to $122.4 million due
+to increased sales of electronic parts catalogs and ancillary
+products to automotive dealerships, and continued strong sales of
+dealer management systems and electronic parts catalogs to
+powersports dealerships.  In addition to the increased new
+systems placements (which reflected significant growth in Europe
+as the Company is the exclusive provider of electronic parts
+catalogs to General Motors, Mercedes Benz, and Chrysler dealers),
+
+
+                               -20-
+<PAGE>
+the Company continued to experience strong sales of additional
+software applications and high contract renewal rates related to
+previously placed systems.
+
+     Mail and Messaging Technologies net sales increased $20.6
+million, or 6%, to $377.5 million in 1997 as a 14% increase in
+sales to high volume mailers in North America was partially
+offset by the impact of softer economies in Germany and France
+and a stronger U.S. dollar.  Excluding the impact of a stronger
+dollar in 1997, Mail and Messaging Technologies net sales
+increased 8%, reflecting strong market demand for inserting and
+sorting systems.  Sales of commercial sorting equipment (which
+represents 14% of equipment sales in this segment) increased $5.5
+million, or 22%, to $30.6 million as the U.S. Postal Service
+guidelines governing the operating requirements to qualify for
+certain financial incentives to properly address, bar code and
+presort mail created a need for customers to invest in advanced
+sorting technology.  Service revenues (which are primarily
+annuity-based and represent 42% of segment sales) increased $13.8
+million, or 10%, to $157.3 million, due to both an expanded
+customer base and increased pricing.
+
+     Imaging net sales decreased $14.6 million, or 8%, to $173.4
+million in 1997, as increased sales of imaging software systems
+were more than offset by the impact of divestitures at the end of
+1996 of certain low margin product lines in Canada and France,
+and lower sales of production scanners resulting from a modified
+strategy related to distributor inventory levels.  Excluding the
+impact of the divested product lines, Imaging net sales in 1997
+would have increased by 1%.
+
+     The Company's cost of sales increased $23.5 million, or 5%,
+to $531.5 million in 1997, with the gross profit (net sales less
+cost of sales) percentage decreasing by 0.6 percentage points to
+38.0% in the current year.  Although the Company benefitted from
+improved manufacturing productivity and increased pricing in
+1997, the lower gross profit rate resulted from a special charge
+for mail processing inventory exposures relating to the valuation
+of prior generation product lines.  Excluding such charge, the
+gross profit rate in 1997 would have been approximately equal
+with the prior year.
+
+
+                               -21-
+<PAGE>
+     Research and development expense increased $3.5 million, or
+10%, to $38.3 million in 1997 as the Company continued to
+increase its investment in new product offerings.  Such increase
+primarily related to increased costs to develop new electronic
+products for the Information and Learning business, a new
+technology platform for the Publishing Services business,
+enhanced versions of production scanners for the Imaging
+business, and new mail processing systems that are more
+electronic and software oriented.  The Company continually seeks
+to take advantage of new product/technology opportunities (with
+an increased emphasis on internet capabilities and software
+solutions) in each of its businesses.
+
+     Selling and administrative expense increased $16.3 million,
+or 8%, to $215.1 million in 1997 reflecting the Company's
+increased investment in sales and marketing resources as well as
+increased distribution costs associated with the higher sales
+volumes.
+
+     Operating income (excluding a $6.6 million special charge
+related to severance/inventory exposures in the Mail and
+Messaging Technologies segment) decreased $7.1 million, or 8%, to
+$78.6 million in 1997.  EBITDA of $128.8 million in 1997 was
+virtually equal to the prior year.
+
+     Information Access operating income increased $6.3 million,
+or 14%, to $52.6 million in 1997, resulting from the higher sales
+volumes, an improved gross profit percentage (reflecting a more
+profitable product mix with a greater proportion of revenues
+related to software and publishing and a lower proportion related
+to the sale of hardware), which more than offset increased
+research and development costs associated with new product
+offerings.  Information Access EBITDA increased $12.2 million, or
+16%, to $89.5 million in 1997.
+
+     Mail and Messaging Technologies operating income (excluding
+the aforementioned special charge) decreased $6.3 million, or
+17%, to $30.0 million in 1997 as a lower gross profit rate
+(related to a less profitable product mix), increased operating
+cost infrastructure, and increased investment in research and
+development costs for higher technology mail processing
+systems/software was only partially offset by the impact of the
+higher sales volumes.  Mail and Messaging Technologies EBITDA
+decreased $5.8 million, or 13%, to $37.2 million in 1997.
+
+
+                               -22-
+<PAGE>
+     Imaging operating income decreased $6.2 million, or 38%, to
+$10.4 million in 1997 reflecting decreased sales of production
+scanners and the aforementioned divestitures of certain low
+margin product lines.  Imaging EBITDA decreased by $5.7 million,
+or 26%, to $16.0 million in 1997.
+
+     Corporate expenses increased $.9 million, or 6%, to $14.4
+million in 1997, as productivity improvements were more than
+offset by inflationary/other cost increases.
+
+     In September 1997, the Company completed a public offering
+of 5.0 million shares of Common Stock (issued at $28.625 per
+share) and entered into a new Credit Agreement which provided a
+revolving credit facility of $600.0 million.  The net proceeds of
+the equity offering together with borrowings under the Company's
+credit facility during the year were used to repurchase $229.7
+million (accreted value) of the 11 1/2% Senior Discount
+Debentures, $80.0 million of the 9 1/4% Senior Notes, and $57.1
+million of the 10 3/4% Senior Subordinated Notes, and to repay
+the outstanding balance of the former Credit Agreement.  Net
+interest expense decreased $2.5 million, or 6%, to $40.6 million
+in 1997, primarily reflecting the impact of the aforementioned
+equity offering, which was partially offset by increased debt
+resulting from acquisitions.  Net interest income of BHFS, the
+Company's financing subsidiary, increased $1.9 million to $8.7
+million in 1997, primarily due to continued growth in the lease
+receivables portfolio.
+
+     Income tax expense decreased in 1997 as a result of a lower
+level of pretax profit in the current year, and a reduced income
+tax rate related to the favorable settlement of certain prior
+year tax exposures.
+
+     As a result of changing market and competitive dynamics
+within global government postal markets, in December 1997 the
+Company adopted a plan to divest its postal contracting business.
+Accordingly, the operating results of this business have been
+segregated from the Company's continuing operations, and are
+separately reported as a discontinued operation in the
+consolidated financial statements.  Net sales for this business
+decreased $47.1 million to $28.3 million in 1997 due to shipments
+of significant one-time contracts to postal authorities in 1996.
+The Company incurred a net loss for this business of $22.4
+million in 1997 versus net
+
+
+                               -23-
+<PAGE>
+income of $.8 million in the prior year.  The Company is a
+subcontractor to the same general contractor on two contracts to
+provide mail automation systems to foreign postal authorities,
+with the 1997 loss primarily resulting from additional loss
+reserves related to these two contracts.
+
+     The extraordinary losses of $28.9 million ($42.7 million
+pretax) in 1997 were comprised of the debt repurchase premiums
+and write-off of unamortized debt issuance costs associated with
+the aforementioned repurchases of the 11 1/2% Senior Discount
+Debentures, the 9 1/4% Senior Notes, and the 10 3/4% Senior
+Subordinated Notes.  The extraordinary losses of $2.6 million
+($4.0 million pretax) in 1996 were comprised of the debt
+repurchase premiums and write-off of unamortized debt issuance
+costs associated with the repurchases of $34.2 million (accreted
+value) of the 11 1/2% Senior Discount Debentures and $17.9
+million of the 10 3/4% Senior Subordinated Notes.
+
+International Operations
+
+     In fiscal 1998, 1997 and 1996, the Company had domestic net
+sales of $670.0 million, $633.2 million, and $587.0 million,
+respectively.  Foreign net sales in fiscal 1998, 1997 and 1996
+were $230.2 million, $223.8 million, and $240.4 million,
+respectively.  The Company's foreign currency hedging activities
+have not and are not anticipated to have a material impact on
+operations, and the Company has no significant investments
+denominated in foreign currencies.
+
+Liquidity and Capital Resources
+
+     As previously mentioned, in September 1997, the Company
+completed a public offering of 5.0 million shares of Common Stock
+(issued at $28.625 per share) and entered into a new Credit
+Agreement which provided a revolving credit facility of $600.0
+million.  The net proceeds of the equity offering together with
+borrowings under the credit facility were used to repurchase all
+of the Company's outstanding public indebtedness and repay the
+outstanding balance of the former Credit Agreement.  At the end
+of fiscal 1998, the Company had $156.1 million of additional
+credit available under the Credit Agreement and $18.1 million of
+cash and cash equivalents.  The Credit Agreement requires
+maintenance of a minimum fixed charge coverage ratio, a minimum
+
+
+                               -24-
+<PAGE>
+net worth level, and a maximum leverage ratio.  The Company is
+currently, and expects to continue to be through the term of the
+Credit Agreement, in compliance with all such covenants.
+
+     The Company's financing subsidiary, BHFS, funds its
+operations by selling its lease receivables on a non-recourse
+basis under a Receivables Purchase Agreement.  The agreement is
+renewable annually and includes the buyers' commitment to
+purchase new lease receivables.  During fiscal 1998 and 1997,
+BHFS sold lease receivables of $56.3 million and $47.0 million
+respectively.
+
+     Cash provided by continuing operations increased $50.6
+million to $92.7 million in 1998 resulting from the
+aforementioned EBITDA increase, the sale of BHFS receivables, and
+timing issues associated with receivable collections and vendor
+disbursements.  Cash provided by discontinued operations improved
+by $29.7 million to $8.6 million in 1998, resulting from
+increased collections from/lower costs incurred for international
+postal contracts.  As a result of the cash provided by operations
+which was partially offset by investments in acquisitions and
+capital expenditures, total debt (net of cash and cash
+equivalents) decreased by $54.1 million to $434.3 million in
+1998.
+
+     Cash provided by continuing operations was $42.0 million in
+1997 versus $97.7 million in 1996.  Although EBITDA in 1997 was
+virtually equal with the prior year, the Company sold a greater
+level of BHFS receivables in 1996, and the Company's working
+capital investment increased in the current year related to the
+timing of receivable collections and vendor disbursements.  Cash
+used by discontinued operations of $21.1 million in 1997
+approximated the prior year level.  As a result of the cash
+provided by operations and the aforementioned equity offering,
+which were partially offset by investments in acquisitions and
+capital expenditures, total debt (net of cash and cash
+equivalents) decreased by $54.4 million to $488.4 million in
+1997.
+
+     For the five years subsequent to fiscal 1998, annual
+maturities of long-term debt are: 1999 - $3.4 million;
+2000 - $.4  million; 2001 - $.3 million; 2002 - $.3 million; and
+2003 - $444.2 million.
+
+
+                               -25-
+<PAGE>
+Capital Expenditures
+
+     In fiscal 1998, 1997 and 1996, capital expenditures for the
+Company's continuing operations were $36.4 million, $36.4
+million, and $41.5 million, respectively, a significant portion
+of which consisted of expenditures for product masters and
+creation of databases for the Information and Learning business.
+
+Seasonality
+
+     Although the Company in general is not affected by seasonal
+fluctuations, the buying patterns and funding availability for
+certain of its customers cause sales, profitability and cash flow
+to be higher in the fourth quarter of the year.  Due to this
+seasonal factor, the Company maintains a revolving credit
+facility to fund interim cash requirements.
+
+Impact of the Year 2000
+
+     Over the past few years, the Company has been assessing the
+impact on its products and computer systems of Year 2000 (Y2K)
+related issues.  The Company's Y2K compliance plans include:
+inventorying affected technology and assessing the impact of the
+Y2K issue; developing resultant solution plans;
+modification/replacement and testing/certification of systems and
+software; and developing contingency plans as appropriate.
+
+    The Company relies on third party suppliers for systems,
+products and services.  The Company has a comprehensive supplier
+compliance program in place, as the Company could be adversely
+impacted if these suppliers do not make the necessary changes to
+their own systems/products in a timely manner.
+
+     The Company has identified its products and services that
+are not currently Y2K compliant, nor will be modified or upgraded
+to become Y2K compliant.  These products and services are at the
+end of their natural product life cycle and for most of the
+affected customers, newer Y2K compliant replacement products and
+services have been offered.  For those products and services that
+will not be Y2K compliant, the Company provided notice to
+customers of its intent not to provide ongoing support of such
+products or services after 1999.
+
+
+                               -26-
+<PAGE>
+     The Company has also identified its products and services
+that either are currently Y2K compliant or will be modified or
+upgraded to become Y2K compliant.  The Company has developed
+plans to provide its customers with such modifications and
+upgrades.  The completion of these plans could be adversely
+affected if these customers do not provide the Company with
+sufficient timeframes in which to make such modifications and
+upgrades.
+
+     A substantial portion of the Company's Y2K initiatives have
+been completed to date, with remaining project work expected to
+be completed in 1999.  Based on such initiatives, and assuming
+that remaining issues can be addressed as planned, management
+believes that future costs relating to Bell & Howell's Y2K issue
+will not have a material adverse impact upon the consolidated
+operations or financial condition of the Company.  However,
+preoccupation with Y2K initiatives in the market in general could
+potentially impact customer purchase decisions, which could
+adversely affect the Company's sales in fiscal 1999.
+
+EURO
+
+     On January 1, 1999, eleven of fifteen member countries of
+the European Union established fixed conversion rates between
+their existing currencies ("legacy currencies") and one common
+currency - the euro.  The euro trades on currency exchanges and
+may be used in business transactions.  The conversion to the euro
+will eliminate currency exchange rate risk between the member
+countries.  Beginning in January 2002, new euro-denominated bills
+and coins will be issued, and legacy currencies will be withdrawn
+from circulation.  The Company's operating subsidiaries affected
+by the euro conversion have established plans to address the
+issues raised by the euro currency conversion.  Management
+believes that future costs related to the euro conversion will
+not have a material adverse impact upon the consolidated
+operations or financial condition of the Company.
+
+Recently Issued Financial Accounting Standards
+
+     In June 1998, the Financial Accounting Standards Board
+issued Statement of Financial Accounting Standards No. 133,
+"Accounting for Derivative Instruments and Hedging Activities".
+This statement provides a comprehensive standard for the
+
+
+                               -27-
+<PAGE>
+recognition and measurement of derivatives and hedging
+activities.  The Company is currently evaluating the impact of
+this standard on its financial statements and is required to
+adopt this new standard beginning with its fiscal 2000 financial
+statements.
+
+
+Item 7a.  Quantitative and Qualitative Disclosures About
+- -------   ----------------------------------------------
+          Market Risk
+          -----------
+
+     The Company, as a result of its global operating and
+financing activities, is exposed to changes in foreign currency
+and interest rates which may adversely affect its results of
+operations and financial position.  In seeking to minimize such
+risks, the Company uses derivative financial instruments.  The
+Company periodically utilizes interest rate swaps, caps and
+collars in order to hedge its exposure to interest rate risk on
+debt outstanding.  The Company also periodically utilizes foreign
+currency forward or option contracts in order to hedge its
+exposure to changes in foreign currency rates.  The Company does
+not utilize financial derivatives for trading or other
+speculative purposes.
+
+
+Item 8.  Financial Statements and Supplementary Data
+- ------   -------------------------------------------
+
+
+                               -28-
+<PAGE>
+                   Independent Auditors' Report
+
+
+
+The Board of Directors
+Bell & Howell Company:
+
+
+We have audited the accompanying consolidated balance sheets of
+Bell & Howell Company and subsidiaries (the "Company") as of the
+end of fiscal years 1998 and 1997, and the related consolidated
+statements of operations, shareholders' equity, and cash flows
+for the fiscal years 1998, 1997 and 1996.  These consolidated
+financial statements are the responsibility of the Company's
+management.  Our responsibility is to express an opinion on these
+consolidated financial statements based on our audits.
+
+We conducted our audits in accordance with generally accepted
+auditing standards.  Those standards require that we plan and
+perform the audit to obtain reasonable assurance about whether
+the financial statements are free of material misstatement.  An
+audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements.  An
+audit also includes assessing the accounting principles used and
+significant estimates made by management, as well as evaluating
+the overall financial statement presentation.  We believe that
+our audits provide a reasonable basis for our opinion.
+
+In our opinion, the consolidated financial statements referred to
+above present fairly, in all material respects, the financial
+position of Bell & Howell Company and subsidiaries as of the end
+of fiscal years 1998 and 1997, and the results of their
+operations and their cash flows for the fiscal years 1998, 1997
+and 1996 in conformity with generally accepted accounting
+principles.
+
+                                            KPMG LLP
+
+
+Chicago, Illinois
+February 16, 1999
+
+
+                               -29-
+<PAGE>
+<TABLE>
+<CAPTION>
+                                   Bell & Howell Company and Subsidiaries
+                                    Consolidated Statements of Operations
+                                      Fiscal Years 1998, 1997 and 1996
+                           (Dollars and shares in thousands, except per share data)
+
+                                                                   1998          1997          1996
+                                                                 -------       -------       -------
+<S>                                                            <C>           <C>           <C>
+Net sales:
+Product ..................................................     $ 663,955     $ 650,296     $ 628,434
+Service ..................................................       236,195       206,675       198,964
+                                                                --------      --------      --------
+Total net sales ..........................................       900,150       856,971       827,398
+
+Operating costs and expenses:
+Cost of product ..........................................       392,697       388,644       374,622
+Cost of service ..........................................       153,559       142,869       133,403
+Research and development .................................        37,939        38,321        34,849
+Selling and administrative ...............................       225,255       215,095       198,761
+                                                                --------      --------      --------
+Total operating costs and expenses .......................       809,450       784,929       741,635
+Operating income .........................................        90,700        72,042        85,763
+Net interest expense:
+Interest income ..........................................       (24,518)      (22,252)      (18,759)
+Interest expense .........................................        48,918        62,844        61,810
+                                                                --------      --------      --------
+Net interest expense .....................................        24,400        40,592        43,051
+Earnings from continuing operations
+ before income taxes and extraordinary items .............        66,300        31,450        42,712
+Income tax expense .......................................        26,520        12,580        17,863
+                                                                --------      --------      --------
+Earnings from continuing operations before
+ extraordinary items .....................................        39,780        18,870        24,849
+Earnings (loss) from discontinued operations .............        (2,666)      (22,441)          806
+Extraordinary losses .....................................            --       (28,889)       (2,585)
+                                                                --------      --------      --------
+Net earnings (loss) ......................................     $  37,114     $ (32,460)    $  23,070
+                                                                ========      ========      ========
+Net earnings (loss) per common share:
+Basic:
+Earnings from continuing operations before
+ extraordinary items .....................................     $    1.70     $     .96     $    1.36
+Earnings (loss) from discontinued operations .............         (0.11)        (1.14)          .04
+Extraordinary losses .....................................            --         (1.46)         (.14)
+                                                                --------      --------      --------
+Net earnings (loss) per common share .....................     $    1.59     $   (1.64)    $    1.26
+                                                                ========      ========      ========
+Diluted:
+Earnings from continuing operations before
+ extraordinary items .....................................     $    1.69     $     .95     $    1.34
+Earnings (loss) from discontinued operations .............         (0.11)        (1.13)          .04
+Extraordinary losses .....................................            --         (1.45)         (.14)
+                                                                --------      --------      --------
+Net earnings (loss) per common share .....................     $    1.58     $   (1.63)    $    1.24
+                                                                ========      ========      ========
+Average number of common shares and equivalents outstanding:
+Basic ....................................................        23,388        19,756        18,312
+Diluted ..................................................        23,569        19,900        18,560
+
+                 The accompanying Notes to the Consolidated Financial Statements are
+                                an integral part of these statements.
+</TABLE>
+                               -30-
+<PAGE>
+<TABLE>
+<CAPTION>
+                                Bell & Howell Company and Subsidiaries
+                                     Consolidated Balance Sheets
+                               At the End of Fiscal Years 1998 and 1997
+                                        (Dollars in thousands)
+
+
+                                                Assets
+                                                ------
+
+                                                                       1998                1997
+                                                                     --------            --------
+<S>                                                                 <C>                 <C>
+Current assets:
+Cash and cash equivalents ....................................      $  18,074           $  13,339
+Accounts receivable ..........................................        233,667             198,228
+Inventory:
+Finished products ............................................         57,343              61,342
+Products in process and materials ............................         41,587              40,414
+                                                                     --------            --------
+Total inventory ..............................................         98,930             101,756
+Other current assets .........................................         11,803              11,825
+                                                                     --------            --------
+Total current assets .........................................        362,474             325,148
+
+Property, plant and equipment:
+Land .........................................................          4,168               4,291
+Buildings ....................................................         51,381              47,406
+Machinery and equipment ......................................        157,242             147,829
+Product masters ..............................................        210,691             191,783
+                                                                     --------            --------
+Total property, plant and equipment, at cost .................        423,482             391,309
+Accumulated depreciation .....................................       (275,277)           (241,655)
+                                                                     --------            --------
+Net property, plant and equipment ............................        148,205             149,654
+Long-term receivables ........................................         66,746              66,625
+Goodwill, net of accumulated amortization ....................        208,385             202,730
+Net assets of discontinued operations ........................          9,230              20,470
+Other assets .................................................         41,253              35,227
+                                                                     --------            --------
+Total assets .................................................      $ 836,293           $ 799,854
+                                                                     ========            ========
+
+
+                 The accompanying Notes to the Consolidated Financial Statements are
+                                an integral part of these statements.
+</TABLE>
+
+
+                               -31-
+<PAGE>
+<TABLE>
+<CAPTION>
+                                 Bell & Howell Company and Subsidiaries
+                                       Consolidated Balance Sheets
+                                At the End of Fiscal Years 1998 and 1997
+                                    (Dollars and shares in thousands)
+
+                                   Liabilities and Shareholders' Equity
+                                   ------------------------------------
+
+                                                                           1998           1997
+                                                                         --------       --------
+<S>                                                                     <C>            <C>
+Current liabilities:
+Notes payable ....................................................      $   3,776      $   3,567
+Current maturities of long-term debt .............................          3,365            919
+Accounts payable .................................................         79,553         75,089
+Accrued expenses .................................................         83,854         66,446
+Deferred income ..................................................        190,008        175,504
+                                                                         --------       --------
+Total current liabilities ........................................        360,556        321,525
+
+Long-term liabilities:
+Long-term debt ...................................................        445,240        497,252
+Other liabilities ................................................         59,719         45,625
+                                                                         --------       --------
+Total long-term liabilities ......................................        504,959        542,877
+
+Shareholders' equity:
+Common Stock, $0.001 par value, 23,516 shares issued
+ and 23,277 shares outstanding at the end of fiscal 1998,
+ and 23,425 shares issued and 23,415 shares
+ outstanding at the end of fiscal 1997 ...........................             24             23
+Capital surplus ..................................................        140,819        138,660
+Notes receivable from executives .................................         (2,523)        (1,707)
+Retained earnings (deficit) ......................................       (161,197)      (198,311)
+Cumulative foreign exchange translation adjustments ..............           (500)        (2,922)
+Treasury stock ...................................................         (5,845)          (291)
+                                                                         --------       --------
+Total shareholders' equity (deficit) .............................        (29,222)       (64,548)
+
+Commitments and contingencies ....................................             --             --
+                                                                         --------       --------
+Total liabilities and shareholders' equity .......................      $ 836,293      $ 799,854
+                                                                         ========       ========
+
+               The accompanying Notes to the Consolidated Financial Statements are
+                              an integral part of these statements.
+
+</TABLE>
+
+
+                               -32-
+<PAGE>
+<TABLE>
+<CAPTION>
+                                   Bell & Howell Company and Subsidiaries
+                                    Consolidated Statements of Cash Flows
+                                      Fiscal Years 1998, 1997 and 1996
+                                            (Dollars in thousands)
+
+
+                                                            1998             1997             1996
+                                                          --------         --------         --------
+<S>                                                      <C>              <C>              <C>
+Operating activities:
+Earnings from continuing operations
+ before extraordinary items ..........................   $  39,780        $  18,870        $  24,849
+Extraordinary losses .................................          --          (28,889)          (2,585)
+Depreciation and amortization ........................      52,482           61,366           46,481
+Debt accretion .......................................          --           18,038           23,903
+
+Changes in operating assets and liabilities:
+Accounts receivable ..................................     (32,453)         (15,585)          (7,268)
+Inventory ............................................       4,889               30          (12,139)
+Other current assets .................................         143             (501)            (331)
+Long-term receivables ................................        (121)         (11,918)           2,355
+Income taxes .........................................      22,171          (21,748)           6,003
+Accounts payable .....................................       3,457              178           11,621
+Accrued expenses .....................................       3,088           (5,559)          (6,163)
+Deferred income and other long-term liabilities ......      16,894            9,348           12,194
+Other, net ...........................................     (17,667)          18,400           (1,258)
+                                                          --------         --------         --------
+Cash provided by continuing operations ...............      92,663           42,030           97,662
+Cash provided (used) by discontinued operations ......       8,574          (21,083)         (20,971)
+                                                          --------         --------         --------
+Cash provided by operating activities ................     101,237           20,947           76,691
+
+Investing activities:
+Expenditures for property, plant and equipment .......     (36,403)         (36,380)         (41,484)
+Acquisitions .........................................      (7,020)         (18,638)         (65,314)
+                                                          --------         --------         --------
+Cash used by investing activities ....................     (43,423)         (55,018)        (106,798)
+
+Financing activities:
+Proceeds from short-term debt ........................      14,493            8,648           15,588
+Repayment of short-term debt .........................     (14,405)         (12,511)         (21,650)
+Proceeds from long-term debt .........................      54,616          383,673          237,432
+Repayment of long-term debt ..........................    (104,182)        (485,538)        (192,703)
+Proceeds from (purchases of) Common Stock, net .......      (4,081)         138,430               71
+                                                          --------         --------         --------
+Cash provided (used) by financing activities .........     (53,559)          32,702           38,738
+
+
+Effect of exchange rate changes on cash ..............         480             (792)            (393)
+                                                          --------         --------         --------
+Increase (decrease) in cash and cash equivalents .....       4,735           (2,161)           8,238
+
+Cash and cash equivalents, beginning of period .......      13,339           15,500            7,262
+                                                          --------         --------         --------
+Cash and cash equivalents, end of period .............   $  18,074        $  13,339        $  15,500
+                                                          ========         ========         ========
+
+                 The accompanying Notes to the Consolidated Financial Statements are
+                                an integral part of these statements.
+</TABLE>
+
+
+                                       -33-
+<PAGE>
+<TABLE>
+<CAPTION>
+                                   Bell & Howell Company and Subsidiaries
+                              Consolidated Statements of Shareholders' Equity
+                                      Fiscal Years 1998, 1997 and 1996
+                                      (Dollars and shares in thousands)
+
+                                                                        Notes                Accumulated
+                                           Common  Stock              Receivable   Retained     Other
+                                          ----------------  Capital     from       Earnings  Comprehensive
+                                          Issued  Treasury  Surplus   Executives   (Deficit)    Income       Total
+                                          ------  --------  --------  -----------  ---------  -----------  ----------
+<S>                                         <C>      <C>        <C>      <C>         <C>          <C>       <C>
+Balance, at the end of fiscal 1995
+ (Common Stock, 18,336 shares;
+ treasury stock, 7 shares) ..........       18       (30)       328     (2,054)     (188,921)     1,187     (189,472)
+Comprehensive Income:
+    Net earnings ....................                                                 23,070                  23,070
+    Foreign exchange
+     translation adjustments ........                                                              (571)        (571)
+                                                                                                             -------
+Total Comprehensive Income                                                                                    22,499
+
+Common Stock, 23 shares .............                         1,074                                            1,074
+Notes receivable from executives ....                                      610                                   610
+Treasury stock, net 43 shares .......             (1,603)                                                     (1,603)
+                                         -----    ------   --------    -------     ---------     ------      -------
+Balance, at the end of fiscal 1996
+ (Common Stock, 18,359 shares;
+ treasury stock, 50 shares) .........       18    (1,633)     1,402     (1,444)     (165,851)       616     (166,892)
+Comprehensive Income:
+    Net loss ........................                                                (32,460)                (32,460)
+    Foreign exchange
+     translation adjustments ........                                                            (3,538)      (3,538)
+                                                                                                             -------
+Total Comprehensive Income                                                                                   (35,998)
+
+Common Stock, 5,066 shares ..........        5              137,258                                          137,263
+Notes receivable from executives ....                                     (263)                                 (263)
+Treasury stock, net 40 shares .......              1,342                                                       1,342
+                                         -----    ------   --------    -------     ---------     ------      -------
+Balance, at the end of fiscal 1997
+ (Common Stock, 23,425 shares;
+ treasury stock, 10 shares) .........   $   23   $  (291)  $138,660    $(1,707)    $(198,311)   $(2,922)    $(64,548)
+Comprehensive Income:
+    Net earnings ....................                                                 37,114                  37,114
+    Foreign exchange
+     translation adjustments ........                                                             2,422        2,422
+                                                                                                             -------
+Total Comprehensive Income                                                                                    39,536
+
+Common Stock, 91 shares .............        1                2,159                                            2,160
+Notes receivable from executives ....                                     (816)                                 (816)
+Treasury stock, net 229 shares ......             (5,554)                                                     (5,554)
+                                         -----    ------   --------    -------     ---------     ------      -------
+Balance, at the end of fiscal 1998
+ (Common Stock, 23,516 shares;
+ treasury stock, 239 shares) ........   $   24   $(5,845)  $140,819    $(2,523)    $(161,197)   $  (500)    $(29,222)
+                                         =====    ======    =======    =======     =========     ======      =======
+
+                 The accompanying Notes to the Consolidated Financial Statements are
+                                     an integral part of these statements.
+</TABLE>
+
+                               -34-
+<PAGE>
+                Bell & Howell Company and Subsidiaries
+
+           Notes to the Consolidated Financial Statements
+
+      (Dollars and shares in thousands, except per share data)
+
+
+Note 1 - Significant Accounting Policies
+
+     Nature of Operations.  Bell & Howell Company and its
+Subsidiaries (collectively the "Company") is a leading global
+information solutions and services provider.  The Company
+consists of three business segments, Information Access, Mail and
+Messaging Technologies and Imaging.  Within its Information
+Access segment, Bell & Howell develops and markets information
+services and systems that are focused on the needs of its
+customers in select vertical niches, including libraries of all
+kinds (including college and university, and elementary and
+secondary schools as well as public) and transportation and
+vehicle dealers.  Within its Mail and Messaging Technologies
+segment, the Company develops and markets a complete range of
+high volume mail processing systems and services, which
+increasingly utilize the Company's proprietary software to expand
+the capabilities and improve the efficiency and effectiveness of
+customers' mailing operations.  Within its Imaging segment, the
+Company develops and markets imaging systems and components that
+enable its customers to effectively file and access their
+documents and records, with a focus on financial institutions,
+governmental agencies and other paper intensive industries.
+
+     Use of Estimates.  The preparation of financial statements
+in conformity with generally accepted accounting principles
+requires management to make estimates and assumptions that affect
+the reported amounts of assets and liabilities and the disclosure
+of contingent assets and liabilities at the date of the financial
+statements, and the reported amounts of revenues and expenses
+during the reporting period.  Subsequent actual results may
+differ from those estimates.
+
+     Principles of Consolidation.  The consolidated financial
+statements include the accounts of the Company and its
+subsidiaries.  In December 1997, the Company adopted a plan to
+divest its postal contracting business, and accordingly the
+
+
+                               -35-
+<PAGE>
+operating results and net assets of this business have been
+segregated from the Company's continuing operations, and are
+separately reported as discontinued operations in the
+consolidated financial statements, with the prior year financial
+statements correspondingly reclassified.  (See Note 4 to the
+Consolidated Financial Statements).
+
+     Fiscal Year.  The Company's fiscal year ends on the Saturday
+nearest to December 31.  References to fiscal 1998 are for the 52
+weeks ended January 2, 1999, references to fiscal 1997 are for
+the 53 weeks ended January 3, 1998, and references to fiscal 1996
+are for the 52 weeks ended December 28, 1996.
+
+     Revenue Recognition.  Product sales include sales of
+equipment, software and subscriptions.  Equipment and software
+license sales are recognized upon shipment, when all significant
+contractual obligations are satisfied and collection of the
+resulting receivable is reasonably assured.  Sales of customized
+mail automation equipment under long-term contracts are
+recognized at the time of shipment.  Revenues from subscriptions
+are deferred and recognized in the periods the subscriptions are
+fulfilled.  Service sales represent amounts earned by providing
+equipment maintenance services.  Where such services are provided
+under annual agreements, revenues are recognized on a pro rata
+basis over the periods of the agreements.  Other service revenues
+are recognized when the services are performed.  The Company
+periodically reviews its accounts receivable balances and
+estimates required allowances for doubtful accounts.  Allowances
+for doubtful accounts at the end of fiscal 1998 and 1997 were
+$15,910 and $7,068, respectively.
+
+     Foreign Currency Translation.  The financial position and
+results of operations of each of the Company's foreign
+subsidiaries are measured using the local currency as the
+functional currency.  Revenues and expenses are translated at
+average exchange rates prevailing during the respective fiscal
+periods.  Assets and liabilities are translated into U.S. dollars
+using the exchange rates at the end of the respective fiscal
+periods.  Balance sheet translation adjustments arising from
+differences in exchange rates from period to period are included
+as a separate component of shareholders' equity, and are included
+in the determination of the Company's comprehensive income.
+
+
+                               -36-
+<PAGE>
+     Net Earnings (Loss) per Common Share.  Basic net earnings
+(loss) per common share is computed by dividing net earnings
+(loss) by the weighted average number of common shares
+outstanding during the period.  Diluted net earnings (loss) per
+common share is computed by dividing net earnings (loss) by the
+weighted average number of common shares outstanding during the
+period, and assumes the issuance of additional common shares for
+all dilutive stock options outstanding during the period.  A
+reconciliation of the weighted average number of common shares
+and equivalents outstanding in the calculation of basic and
+diluted net earnings (loss) per common share is shown in the
+table below for the periods indicated:
+<TABLE>
+<CAPTION>
+                                                1998          1997          1996
+                                              ------        ------        ------
+     <S>                                      <C>           <C>           <C>
+     Basic .................................. 23,388        19,756        18,312
+     Dilutive effect of stock options........    181           144           248
+                                              ------        ------        ------
+     Diluted ................................ 23,569        19,900        18,560
+                                              ======        ======        ======
+</TABLE>
+
+     Cash and Cash Equivalents.  The Company considers all highly
+liquid investments with maturities of three months or less (when
+purchased) to be cash equivalents.  The carrying amount reported
+in the consolidated balance sheets approximates fair value.
+
+     Inventory.  Inventory is valued at cost determined by the
+last-in, first-out ("LIFO") and the first-in, first-out ("FIFO")
+methods, with the following balances at the end of fiscal 1998
+and 1997:
+<TABLE>
+<CAPTION>
+           Year end                          LIFO        FIFO         Total
+           --------                        --------    --------     --------
+           <S>                             <C>         <C>          <C>
+           1998 .........................  $ 66,477    $ 32,453     $ 98,930
+           1997 .........................    76,715      25,041      101,756
+</TABLE>
+
+      The Company uses the LIFO method of valuing the majority of
+domestic inventories.  The excess of replacement cost over the
+LIFO values of inventory was approximately $4,900 and $4,064 at
+the end of fiscal 1998 and 1997, respectively.  Inventory cost
+includes material, labor and overhead and is valued at the lower
+of cost or net realizable value.
+
+     Property, Plant and Equipment.  Property, plant and
+equipment is recorded at cost.  The straight-line method of
+depreciation is primarily used, except for Information Access
+product masters (which represent the cost to create electronic
+
+
+                               -37-
+<PAGE>
+and microform master document copies which are subsequently used
+in the production process to fulfill customers' information
+requirements), which are depreciated on the double declining
+balance method. Estimated lives range from 10 to 40 years for
+buildings and building improvements, 3 to 15 years for machinery
+and equipment and 10 years for product masters.
+
+     Goodwill.  Goodwill, which represents the excess of purchase
+price over the fair value of net assets of acquired businesses,
+is amortized on a straight-line basis over the expected future
+periods to be benefitted, which range from 15 to 40 years.  The
+Company periodically assesses the recoverability of this
+intangible asset by determining whether the amortization of the
+goodwill balance over its remaining life can be recovered through
+related forecasted future cash flows.  Accumulated amortization
+at the end of fiscal 1998 and 1997 was $47,873 and $39,990,
+respectively.
+
+     Stock Option Plan.  As permitted by Statement of Financial
+Accounting Standards ("SFAS") No. 123, "Accounting for Stock
+Based Compensation", the Company accounts for its stock option
+plan in accordance with the provisions of Accounting Principles
+Board ("APB") Opinion No. 25, "Accounting for Stock Issued to
+Employees" and related Interpretations.  As such, compensation
+expense would be recorded on the date of grant only if the
+current market price of the underlying stock exceeded the
+exercise price.  Pro forma net income and earnings per share
+disclosures for employee stock option grants based on the
+fair-value-based method (defined in SFAS No. 123), whereby the
+fair value of stock-based awards at the date of grant would be
+subsequently expensed over the related vesting periods, are
+included in Note 10 to the Consolidated Financial Statements.
+
+     Derivative Financial Instruments.  The Company does not
+invest in any derivatives for trading purposes.  The Company
+periodically utilizes interest rate swaps, caps and collars in
+order to hedge its exposure to interest rate risk on debt
+outstanding.  The Company also periodically utilizes foreign
+currency forward or option contracts in order to hedge its
+exposure to changes in foreign currency rates.  Amounts related
+to derivative contracts are recorded using the hedge accounting
+approach.  The Company currently does not recognize the fair
+values of these derivative financial investments or their changes
+in fair value in its consolidated financial statements.
+
+
+                               -38-
+<PAGE>
+Note 2 - Business Segments
+
+     The Company, which is organized on the basis of products and
+services, has three reportable business segments, Information
+Access, Mail and Messaging Technologies and Imaging. (Refer to
+Note 1 to the Consolidated Financial Statements for a detailed
+description of segment operations).  The Company evaluates the
+performance of and allocates resources to each of the segments
+based on their operating results excluding interest and taxes.
+The accounting policies for each of the segments are described in
+the summary of significant accounting policies in Note 1 to the
+Consolidated Financial Statements.
+
+
+                               -39-
+<PAGE>
+     Information concerning the Company's reportable business
+segments and operations by geographic area for fiscal 1998, 1997
+and 1996 for its continuing operations was as follows (dollars in
+millions):
+<TABLE>
+<CAPTION>
+                                                                          Earnings from Continuing
+                                                                       Operations Before Income Taxes
+                                           Net Sales                        and Extraordinary Items
+                                   ----------------------------      -----------------------------------
+Business Segments                   1998       1997       1996           1998        1997        1996
+- -----------------                  ------     ------     ------        --------    --------    --------
+<S>                                <C>        <C>        <C>            <C>         <C>         <C>
+Information Access ..............  $320.5     $306.1     $282.5         $ 55.0      $ 52.6      $ 46.3
+Mail and Messaging Technologies .   404.4      377.5      356.9           36.4        23.4        36.4
+Imaging .........................   175.3      173.4      188.0           14.5        10.4        16.6
+                                    -----      -----      -----          -----       -----       -----
+  Total .........................   900.2      857.0      827.4          105.9        86.4        99.3
+Interest expense, net ...........                                        (24.4)      (40.6)      (43.1)
+Corporate expenses ..............                                        (15.2)      (14.4)      (13.5)
+                                    -----      -----      -----          -----       -----       -----
+Consolidated ....................  $900.2     $857.0     $827.4         $ 66.3      $ 31.4      $ 42.7
+                                    =====      =====      =====          =====       =====       =====
+</TABLE>
+<TABLE>
+<CAPTION>
+                                      Capital Expenditures              Depreciation and Amortization (1)
+                                   ----------------------------        -------------------------------
+                                    1998       1997       1996           1998        1997        1996
+                                   ------     ------     ------         ------      ------      ------
+<S>                               <C>         <C>        <C>            <C>         <C>         <C>
+Information Access .............. $  29.6     $ 27.9     $ 27.5         $ 39.4      $ 36.9      $ 31.0
+Mail and Messaging Technologies .     4.4        4.7        7.6            6.4         7.2         6.6
+Imaging .........................     2.1        3.4        6.1            5.7         5.6         5.1
+                                    -----      -----      -----          -----       -----       -----
+  Total .........................    36.1       36.0       41.2           51.5        49.7        42.7
+Corporate .......................      .3         .4         .3             .5          .5          .6
+                                    -----      -----      -----          -----       -----       -----
+Consolidated .................... $  36.4     $ 36.4     $ 41.5         $ 52.0      $ 50.2      $ 43.3
+                                    =====      =====      =====          =====       =====       =====
+</TABLE>
+<TABLE>
+<CAPTION>
+                                       Identifiable Assets
+                                   ----------------------------
+                                    1998       1997       1996
+                                   ------     ------     ------
+<S>                                <C>        <C>        <C>
+Information Access ..............  $354.2     $358.9     $353.2
+Mail and Messaging Technologies .   270.3      225.5      199.4
+Imaging .........................   114.4      108.2      106.5
+                                    -----      -----      -----
+  Total .........................   738.9      692.6      659.1
+Corporate .......................    88.2       86.8       85.5
+                                    -----      -----      -----
+Consolidated ....................  $827.1     $779.4     $744.6
+                                    =====      =====      =====
+
+ (1)     Excludes amortization/write-off of deferred financing costs.
+</TABLE>
+
+                               -40-
+<PAGE>
+<TABLE>
+<CAPTION>
+                                            1998       1997       1996
+                                           ------     ------     ------
+<S>                                       <C>        <C>        <C>
+Geographic Area Data
+Net Sales (2):
+ United States .........................  $ 670.0    $ 633.2    $ 587.0
+ Europe ................................    168.8      162.7      175.4
+ Other .................................     61.4       61.1       65.0
+                                           ------     ------     ------
+Total ..................................  $ 900.2    $ 857.0    $ 827.4
+                                           ======     ======     ======
+
+Identifiable Assets:
+ United States .........................  $ 628.4    $ 602.6    $ 561.9
+ Europe ................................     95.2       76.0       81.2
+ Other .................................     15.3       14.0       16.0
+                                           ------     ------     ------
+   Total ...............................    738.9      692.6      659.1
+ Corporate .............................     88.2       86.8       85.5
+                                           ------     ------     ------
+Consolidated ...........................  $ 827.1    $ 779.4    $ 744.6
+                                           ======     ======     ======
+
+(2)  Revenue is classified according to its country of destination (including exports
+     to such areas).
+</TABLE>
+
+Note 3 - Income Taxes
+
+     The earnings from continuing operations, before income taxes
+and extraordinary items, on which income taxes were provided in
+fiscal 1998, 1997 and 1996 were:
+<TABLE>
+<CAPTION>
+                                                   1998            1997            1996
+                                                 --------        --------        --------
+<S>                                             <C>             <C>             <C>
+United States ................................  $  60,589       $  27,199       $  34,507
+Foreign ......................................      5,711           4,251           8,205
+                                                 --------        --------        --------
+Earnings from continuing operations before
+ income taxes and extraordinary items ........  $  66,300       $  31,450       $  42,712
+                                                 ========        ========        ========
+</TABLE>
+
+
+                               -41-
+<PAGE>
+     The provision for income taxes in fiscal 1998, 1997 and 1996
+included the following:
+<TABLE>
+<CAPTION>
+                                                 1998           1997           1996
+                                               --------       --------       --------
+<S>                                            <C>            <C>            <C>
+Current income tax expense (benefit):
+United States ...............................  $ 6,370        $ 5,977        $ 6,805
+State and local .............................      485             (7)         1,163
+Foreign .....................................    2,986          2,918          3,974
+                                                ------         ------         ------
+Current income tax expense ..................    9,841          8,888         11,942
+                                                ------         ------         ------
+Deferred income tax expense (benefit):
+United States ...............................   14,414          2,576          3,756
+State and local .............................    3,231          1,683          1,454
+Foreign .....................................     (966)          (567)           711
+                                                ------         ------         ------
+Deferred income tax expense .................   16,679          3,692          5,921
+                                                ------         ------         ------
+Income tax expense ..........................  $26,520        $12,580        $17,863
+                                                ======         ======         ======
+</TABLE>
+     The significant components of deferred income tax expense in
+fiscal 1998, 1997 and 1996 were as follows:
+<TABLE>
+<CAPTION>
+                                                      1998            1997           1996
+                                                    --------        --------       --------
+<S>                                                 <C>             <C>            <C>
+Deferred income tax expense (benefit),
+ exclusive of components listed below ............  $ 1,220         $(2,585)       $ 1,028
+Operating loss carryforwards .....................   20,761          13,636          5,082
+Tax credits ......................................   (5,302)         (7,359)          (189)
+                                                     ------          ------         ------
+Deferred income tax expense ......................  $16,679         $ 3,692        $ 5,921
+                                                     ======          ======         ======
+</TABLE>
+
+                               -42-
+<PAGE>
+     Deferred income taxes are primarily provided for temporary
+differences between the financial reporting bases and the tax
+bases of the Company's assets and liabilities.  The tax effects
+of the major temporary differences that gave rise to the deferred
+tax asset (liability) at the end of fiscal 1998 and 1997 were as
+follows:
+<TABLE>
+<CAPTION>
+                                                                 1998             1997
+                                                               --------         --------
+    <S>                                                        <C>              <C>
+    Deferred tax assets are attributable to:
+    Accrued expenses .......................................   $  9,232         $  8,220
+    Deferred compensation ..................................     11,475           10,249
+    Postretirement benefits ................................      3,703            3,493
+    Accounts receivable ....................................      5,872            2,625
+    Operating loss carryforwards ...........................      9,112           28,149
+    Tax credits ............................................     13,005              357
+    Other ..................................................      5,180              480
+                                                                 ------          -------
+    Total gross deferred tax assets ........................     57,579           53,573
+    Valuation allowance ....................................     (5,151)          (5,956)
+                                                                 ------          -------
+    Net deferred tax assets ................................     52,428           47,617
+
+    Deferred tax liabilities are attributable to:
+    Property, plant and equipment ..........................    (12,379)         (13,424)
+    Intangibles ............................................    (17,387)         (16,003)
+    Deferred income ........................................    (34,053)         (20,244)
+    Undistributed foreign earnings .........................     (3,157)          (3,025)
+                                                                -------          -------
+    Total gross deferred tax liabilities ...................    (66,976)         (52,696)
+                                                                -------          -------
+    Net deferred tax liabilities ...........................   $(14,548)        $ (5,079)
+                                                                =======          =======
+</TABLE>
+
+     Net deferred tax liabilities, including amounts related to
+discontinued operations, are classified as other long-term
+liabilities in the balance sheet.  Valuation allowances are
+established for certain foreign jurisdictions where the future
+realization of deferred tax assets have not been assumed.
+
+     At the end of fiscal 1998, the net deferred tax assets of
+$52,428 are expected to be realized through the reversal of
+taxable temporary differences which generate future taxable
+income.
+
+
+                               -43-
+<PAGE>
+    The differences between the Company's effective rate for
+income taxes and the statutory federal income tax rate in fiscal
+1998, 1997 and 1996 were as follows:
+<TABLE>
+<CAPTION>
+                                                          1998         1997         1996
+                                                        --------     --------     --------
+<S>                                                       <C>          <C>          <C>
+Statutory federal income tax rate ...................     35.0%        35.0%        35.0%
+Increase (reduction) in taxes resulting from:
+State income taxes, net of federal benefit ..........      5.3          5.3          5.7
+Foreign earnings ....................................       .6          2.6          4.4
+Amortization of intangibles .........................      1.5          3.2          2.1
+Repatriation of foreign earnings ....................       .2         (0.9)        (1.0)
+Other ...............................................     (2.6)        (5.2)        (4.4)
+                                                         -----        -----        -----
+Effective income tax rate ...........................     40.0%        40.0%        41.8%
+                                                         =====        =====        =====
+</TABLE>
+
+     At the end of fiscal 1998, the United States has a net
+operating loss ("NOL") carryforward of $12,347 which expires in
+2012.  Foreign NOL carryforwards of $10,565 expire as follows:
+$897 in 2000, $11 in 2001, $4,304 in 2002, $3,999 in 2003, $201
+in 2004, $358 in 2005 and $795 in 2006.
+
+     In the United States, the Company's current tax liability is
+the greater of its regular tax or alternative minimum tax
+("AMT").  To the extent that AMT exceeds regular tax, the Company
+is entitled to an AMT credit.  The Company has AMT credits of
+$12,792 that may be carried forward indefinitely and used as
+credits in future tax returns against regular tax in the event
+that the regular tax exceeds the AMT, or are available to offset
+future AMT-NOL's which can be carried back.
+
+     Net income taxes paid for fiscal 1998, 1997 and 1996 were
+$2,571, $5,533 and $10,943, respectively.
+
+
+Note 4 - Discontinued Operations
+
+     In December 1997, the Company adopted a plan to divest its
+postal contracting business, and accordingly the operating
+results and net assets of this business have been segregated from
+continuing operations.  The Consolidated Statements of Operations
+separately reflect the earnings (loss) of the postal contracting
+business, which includes an allocation of the Company's interest
+expense based on proportionate net assets.  The Consolidated
+Balance Sheets separately reflect the net assets of the postal
+contracting business as a non-current asset.
+
+
+                               -44-
+<PAGE>
+     Results from discontinued operations for fiscal years 1998,
+1997 and 1996 are as follows:
+<TABLE>
+<CAPTION>
+                                                           1998        1997        1996
+                                                         --------    --------    --------
+    <S>                                                  <C>         <C>         <C>
+    Net sales ......................................     $ 44,996    $ 28,256    $ 75,399
+
+    Earnings (loss) before income taxes ............       (4,444)    (37,401)      1,343
+    Income tax expense (benefit) ...................       (1,778)    (14,960)        537
+                                                          -------     -------     -------
+    Earnings (loss) from discontinued operations ...     $ (2,666)   $(22,441)   $    806
+                                                          =======     =======     =======
+</TABLE>
+
+     No provision has been made for future losses for the postal
+contracting business during the divestiture period or for losses
+to dispose of the business, as no such combined loss is currently
+projected.
+
+
+Note 5 - Extraordinary Losses
+
+     The fiscal 1997 extraordinary losses of $28,889 ($42,734
+pretax) were comprised of the debt repurchase premiums and
+write-off of unamortized debt issuance costs associated with the
+repurchases of $229,712 (accreted value) of the 11 1/2% Senior
+Discount Debentures, $80,000 of the 9 1/4% Senior Notes and
+$57,080 of the 10 3/4% Senior Subordinated Notes.
+
+      The fiscal 1996 extraordinary losses of $2,585 ($4,039
+pretax) were comprised of the debt repurchase premiums and
+write-off of unamortized debt issuance costs associated with the
+repurchases of $34,158 (accreted value) of the 11 1/2% Senior
+Discount Debentures and $17,920 of the 10 3/4% Senior
+Subordinated Notes.
+
+
+Note 6 - Debt and Lines of Credit
+
+     Debt at the end of fiscal 1998 and 1997 consisted of the
+following:
+<TABLE>
+<CAPTION>
+                                                                     1998        1997
+                                                                    -------     -------
+    <S>                                                            <C>         <C>
+    Notes payable ...........................................      $  3,776    $  3,567
+                                                                    =======     =======
+    Long-term debt:
+     Revolving Credit Agreement .............................      $441,100    $493,100
+     Other long-term debt ...................................         7,505       5,071
+                                                                    -------     -------
+    Long-term debt, including current maturities ............       448,605     498,171
+    Less: current maturities ................................         3,365         919
+                                                                    -------     -------
+    Long-term debt ..........................................      $445,240    $497,252
+                                                                    =======     =======
+</TABLE>
+
+                               -45-
+<PAGE>
+     The weighted average interest rates on short-term borrowings
+at the end of fiscal 1998 and 1997 were 7.07% and 6.85%,
+respectively.
+
+     At the end of fiscal 1998, the Company had foreign
+short-term lines of credit totaling $31,600, of which $27,800 was
+unused.  These short-term credit lines are denominated in foreign
+currencies and generally require no compensating balances or
+commitment fees.
+
+     In fiscal 1997, the Company entered into a $600,000
+revolving credit agreement ("Credit Agreement") which replaced
+the 1996 Bank Credit Agreement.  The final maturity date of the
+Credit Agreement is December 31, 2003, with no principal payments
+due until December 31, 2002, at which time the maximum amount of
+the credit facility is reduced to $500,000.  The interest rate on
+borrowings under the Credit Agreement is determined at the time
+of borrowing, and is based upon the Company's leverage ratio.  At
+the end of fiscal 1998, the interest rate in effect was (at the
+Company's option), either LIBOR + .75%, or the prime rate.  The
+Credit Agreement requires compliance with leverage, fixed charge
+and net worth covenants.  The Company and its domestic operating
+subsidiaries, excluding Bell & Howell Financial Services Company
+("BHFS"), are jointly and severally liable as guarantors under
+the Credit Agreement.  The Credit Agreement contains certain
+restrictions on the payment of dividends on and repurchases of
+the Company's Common Stock.  At the end of fiscal 1998, the
+Company had $156.1 million of additional credit available under
+the Credit Agreement.
+
+     The Company's financing subsidiary, BHFS, funds its
+operations by selling lease receivables on a non-recourse basis
+under a Receivable Purchase Agreement.  The agreement is
+renewable annually and includes the buyer's commitment to
+purchase new lease receivables.  During fiscal 1998 and 1997,
+BHFS sold lease receivables of $56,300 and $47,000, respectively.
+
+     For the five years subsequent to 1998, annual maturities of
+long-term debt are: 1999 - $3,365; 2000 - $413; 2001 - $349;
+2002 - $309; and 2003 - $444,169.
+
+     Interest paid for fiscal 1998, 1997 and 1996 was $48,426,
+$46,878 and $36,275, respectively.
+
+
+                               -46-
+<PAGE>
+Note 7 - Leases
+
+     Lessor.  The Company provides sales-type leases for its
+products and additionally leases products to customers under
+direct financing leases, primarily through BHFS.  The Company's
+net investment in sales-type and direct financing leases at the
+end of fiscal 1998 and 1997 were as follows:
+<TABLE>
+<CAPTION>
+                                                                1998            1997
+                                                               --------        --------
+    <S>                                                        <C>             <C>
+    Minimum lease payments receivable ....................     $ 94,068        $ 77,018
+    Estimated unguaranteed residual values ...............        8,553           5,912
+    Unearned income ......................................      (23,576)        (28,399)
+    Allowance for doubtful accounts ......................       (3,819)         (3,283)
+                                                                -------         -------
+    Net investment .......................................     $ 75,226        $ 51,248
+                                                                =======         =======
+
+     The scheduled maturities for sales-type and direct financing
+lease receivables at the end of fiscal 1998 were as follows:
+
+</TABLE>
+<TABLE>
+            <S>                                                          <C>
+            1999 .....................................................   $ 22,743
+            2000 .....................................................     23,616
+            2001 .....................................................     20,424
+            2002 .....................................................     16,541
+            2003 .....................................................     10,744
+                                                                          -------
+            Total minimum lease payments to be received ..............   $ 94,068
+                                                                          =======
+</TABLE>
+
+     Lessee.  The Company leases certain facilities and equipment
+for production, selling and administrative purposes.  Future
+minimum rental payments required under long-term noncancelable
+operating leases at the end of fiscal 1998 were as follows:
+<TABLE>
+            <S>                                                          <C>
+            1999 .....................................................   $ 17,266
+            2000 .....................................................     13,639
+            2001 .....................................................     10,997
+            2002 .....................................................      7,281
+            2003 .....................................................      5,092
+            Subsequent to 2003 .......................................     17,038
+                                                                          -------
+                                                                         $ 71,313
+                                                                          =======
+</TABLE>
+
+     Total rental expenses for fiscal 1998, 1997 and 1996 were
+$15,978, $14,657 and $16,007, respectively.
+
+
+                               -47-
+<PAGE>
+Note 8 - Profit-Sharing, Pension, and Other Postretirement
+         Benefit Plans
+
+     Eligible employees of the Company's domestic and Canadian
+operations who elect to do so participate in defined contribution
+profit-sharing retirement plans.  The amounts charged to earnings
+for fiscal 1998, 1997 and 1996 were $7,307, $7,025 and $5,819,
+respectively.
+
+    The Company also has defined benefit pension plans covering
+certain domestic and most foreign employees.  The benefits are
+primarily based on years of service and/or compensation during
+the years immediately preceding retirement.  The Company funds
+its foreign plans based on local statutes and funds its domestic
+plans in amounts that fulfill the funding requirements of the
+Employee Retirement Income Security Act of 1974.  Plan assets
+consist principally of common stocks, fixed income securities and
+cash equivalents.
+
+     In addition, the Company has contributory and
+non-contributory postretirement medical benefit plans and a
+non-contributory postretirement life insurance benefit plan
+covering certain domestic employees.  Each of these other
+postretirement benefit plans are unfunded.
+
+     The net cost of pension and other postretirement benefit
+plans for fiscal 1998, 1997 and 1996 were as follows:
+<TABLE>
+<CAPTION>
+                                                                            Other Postretirement
+                                                Pension Benefits                   Benefits
+                                            --------------------------    -------------------------
+                                             1998      1997      1996      1998      1997      1996
+                                            ------    ------    ------    ------    ------    ------
+<S>                                        <C>       <C>       <C>       <C>       <C>       <C>
+Service cost ...........................   $ 2,552   $ 2,413   $ 2,108   $   233   $   211   $    92
+Interest cost ..........................     5,286     5,143     4,602     1,014       985     1,033
+Expected return on plan assets .........    (6,502)   (5,948)   (5,502)       --        --        --
+Amortization of prior service cost .....       375       491       507        --        --        --
+Recognized net actuarial (gain)/loss ...      (538)     (398)   (1,555)      286       195       322
+                                            ------    ------    ------    ------    ------    ------
+Net pension and other postretirement
+ benefit cost...........................   $ 1,173   $ 1,701   $   160   $ 1,533   $ 1,391   $ 1,447
+</TABLE>
+
+
+                               -48-
+<PAGE>
+    The status of pension and other postretirement benefit plans
+at the end of fiscal 1998 and 1997 was as follows:
+<TABLE>
+<CAPTION>
+                                                                       Other Postretirement
+                                                 Pension Benefits            Benefits
+                                                ------------------      ------------------
+                                                 1998       1997         1998       1997
+                                                -------    -------      -------    -------
+<S>                                            <C>        <C>          <C>        <C>
+Change in Benefit Obligation
+Benefit obligation, beginning of year......    $ 71,769   $ 63,085     $ 12,896   $ 12,256
+
+Service cost .. ...........................       2,552      2,413          233        211
+Interest cost .............................       5,286      5,143        1,014        985
+Plan participants contributions ...........         584        509          209        203
+Plan amendments ...........................          --         55           --         --
+Actuarial (gain)/loss .....................       9,909      3,791          872        409
+Benefits paid .............................      (3,554)    (3,227)      (1,244)    (1,168)
+                                                -------    -------      -------    -------
+Benefit obligation, end of year ...........    $ 86,546   $ 71,769     $ 13,980   $ 12,896
+
+Change in Plan Assets
+Fair value, beginning of year .............    $ 71,239   $ 61,696     $     --   $     --
+Actual return on plan assets ..............      11,591     10,505           --         --
+Participant contributions .................         584        509          209        203
+Company contributions .....................       2,001      1,756        1,035        965
+Benefits paid .............................      (3,554)    (3,227)      (1,244)    (1,168)
+                                                -------    -------      -------    -------
+Fair value, end of year ...................    $ 81,861   $ 71,239     $     --   $     --
+
+Funded status .............................    $ (4,685)      (530)     (13,980)   (12,896)
+Unrecognized net actuarial (gain)/loss ....      (3,200)    (8,508)       4,763      4,177
+Unrecognized prior service cost ...........       1,520      1,880           --         --
+                                                -------    -------      -------    -------
+Prepaid (accrued) benefit cost ............    $ (6,365)  $ (7,158)    $ (9,217)  $ (8,719)
+
+Amounts Recognized in the Consolidated
+Balance Sheets
+Prepaid benefit cost ......................    $ 11,007   $  9,280     $     --   $     --
+Accrued benefit liability .................     (17,372)   (16,438)      (9,217)    (8,719)
+                                                -------    -------      -------    -------
+Net amount recognized .....................    $ (6,365)  $ (7,158)    $ (9,217)  $ (8,719)
+
+Weighted Average Assumptions as of End of Year
+Discount rate .............................        6.75%      7.50%        7.50%      8.00%
+Expected return on plan assets ............        9.00%      9.00%          --         --
+Rate of compensation increase .............        4.50%      4.50%          --         --
+Rate of healthcare benefit cost increase ..          --         --         4.50%      4.50%
+</TABLE>
+
+                               -49-
+<PAGE>
+     For the Company's unfunded pension plans, the projected
+benefit obligation and accumulated benefit obligation at the end
+of fiscal 1998 and 1997 were as follows:
+<TABLE>
+<CAPTION>
+                                                                1998            1997
+                                                               --------        --------
+    <S>                                                        <C>             <C>
+    Project benefit obligation ...........................     $ 22,289        $ 20,208
+    Accumulated benefit obligation .......................       20,621          19,016
+</TABLE>
+
+     Assumed future health care cost trend rates have a
+significant effect on postretirement medical benefit costs.  A
+one percentage point change in the assumed health care cost trend
+rates would have the following effects:
+<TABLE>
+<S>                                                       <C>
+1% Increase
+Benefit obligation, end of fiscal 1998 ...............    $  1,186
+Net postretirement benefit cost for fiscal 1998 ......    $    120
+
+1% Decrease
+Benefit obligation, end of fiscal 1998................    $ (1,093)
+Net postretirement benefit cost for fiscal 1998 ......    $   (109)
+</TABLE>
+
+Note 9 - Common Stock
+
+     The Company has 50,000 authorized shares of Common Stock,
+($.001 par value per share), 23,277 of which were outstanding at
+the end of fiscal 1998, which includes 5,026 shares issued in a
+public offering in September 1997.  The Company's Credit
+Agreement contains certain restrictions on the payment of
+dividends on and repurchases of its Common Stock.
+
+
+                               -50-
+<PAGE>
+Note 10 - Stock Compensation Plans
+
+Stock Option Plan
+
+     In May 1995, the Company completed its initial public equity
+offering of 5,000 shares of Common Stock (which were issued at
+$15.50 per share).  Coincident with the initial public equity
+offering, the Company adopted the 1995 Stock Option Plan (the
+"Option Plan"), under which 2,160 shares of Common Stock were
+reserved for issuance.  In May 1998, the Company increased the
+shares reserved for issuance under the Option Plan to 3,660.  The
+Option Plan is administered by the Compensation Committee of the
+Board of Directors which has authority to determine which
+officers and key employees of the Company will be granted
+options. All options are granted at not less than the fair market
+value on the date of the grant.
+
+     Additionally, coincident with the initial public equity
+offering, the Company granted options for 1,115 shares to Messrs.
+White, Roemer and Johansson (the "Senior Executive Grantees"),
+with a series of six option exercise prices (the first of which
+equaled the initial public equity offering price, with each
+subsequent exercise price set at 120% of the preceding exercise
+price).  The term for these options is six years, with the
+options vesting in installments commencing after year three.  In
+fiscal 1998, options for an additional 250 shares were granted to
+Mr. Roemer, which have a six year term and which vest after three
+years.  Options may be granted to other officers and key
+employees of the Company (the "Key Executive Grantees"), selected
+by the Compensation Committee.  At the end of fiscal 1998, the
+Company had options outstanding for 729 shares to the Key
+Executive Grantees.  The term for these options is ten years,
+vesting in equal annual increments over a five year period.
+
+     Per the provisions of SFAS No. 123, the Company has elected
+to continue to apply APB Opinion 25 and related Interpretations
+in accounting for the Option Plan, and accordingly, no
+compensation cost has been recognized.  Had compensation cost for
+the Option Plan been determined based on the fair value of
+options granted (consistent with SFAS No. 123), the Company's net
+income (loss) and earnings (loss) per share would have been the
+pro forma amounts indicated below:
+<TABLE>
+<CAPTION>
+                                                1998           1997           1996
+                                              --------       --------       --------
+     <S>                                      <C>            <C>            <C>
+     Net income (loss):
+      As reported ..........................  $ 37,114       $(32,460)      $ 23,070
+      Pro forma ............................    35,208        (33,610)        22,392
+
+     Basic earnings (loss) per share:
+      As reported ..........................  $   1.59       $  (1.64)      $   1.26
+      Pro forma ............................      1.51          (1.70)          1.22
+
+     Diluted earnings (loss) per share:
+      As reported ..........................  $   1.58       $  (1.63)      $   1.24
+      Pro forma ............................      1.51          (1.70)          1.22
+</TABLE>
+
+                               -51-
+<PAGE>
+     The fair value of each option grant is estimated on the date
+of grant using the Black-Scholes option pricing model with the
+following assumptions:  volatility of 20%; risk free interest
+rate of 6%; expected lives of 5 years; and no dividend yield.
+
+    A summary of the stock option transactions for fiscal 1996,
+1997, and 1998 are as follows:
+<TABLE>
+<CAPTION>
+                                        Senior Executive Grantees     Key Executive Grantees
+                                        -------------------------     -----------------------
+                                                  Weighted-                    Weighted-
+                                        Shares    Average             Shares   Average
+                                        (000)     Exercise Price      (000)    Exercise Price
+                                       ------    ---------------     ------   --------------
+   <S>                                   <C>          <C>                <C>      <C>
+      Balance at the end of
+       fiscal 1995 .................     1,115        $   27.30          170      $   16.03
+
+   1996:
+      Granted .....................         --               --          226          31.50
+      Exercised ...................         --               --           (2)         15.50
+      Forfeited ...................         --               --          (28)         18.09
+      Options outstanding at the        ------         --------       ------       --------
+       end of fiscal 1996 .........      1,115        $   27.30          366      $   25.42
+                                        ======         ========       ======       ========
+      Options exercisable at the
+       end of fiscal 1996 ..........        --        $      --           28      $   16.14
+                                        ------         --------       ------       --------
+      Weighted average fair value of
+       options granted during
+       fiscal 1996 .................   $    --                       $  9.78
+                                        ------                        ------
+   1997:
+      Granted ......................        --               --          305          23.49
+      Exercised ....................        --               --          (15)         15.62
+      Forfeited ....................        --               --          (91)         24.92
+      Options outstanding at            ------          -------       ------       --------
+       the end of fiscal 1997 ......     1,115        $   27.30          565      $   24.73
+                                        ======         ========       ======       ========
+      Options exercisable at the
+       end of fiscal 1997 ..........        --        $      --           72      $   23.75
+                                        ------         --------       ------       --------
+      Weighted average fair value of
+       options granted during
+       fiscal 1997 .................   $    --                       $  7.29
+                                        ------                        ------
+   1998:
+      Granted ......................       250            26.88          296          27.06
+      Exercised ....................        --               --          (26)         21.02
+      Forfeited ....................        --               --         (106)         26.34
+      Options outstanding at            ------         --------       ------       --------
+       the end of fiscal 1998 ......     1,365        $   27.22          729      $   25.55
+                                        ======         ========       ======       ========
+      Options exercisable at the
+       end of fiscal 1998 ..........       624        $   24.87          173      $   24.40
+                                        ------         --------       ------       --------
+      Weighted average fair value of
+       options granted during
+       fiscal 1998 .................   $  8.34                       $  8.40
+                                        ------                        ------
+</TABLE>
+
+                               -52-
+<PAGE>
+     The following table provides additional information with
+respect to stock options outstanding at the end of fiscal 1998:
+<TABLE>
+<CAPTION>
+                                             Options Outstanding                Options Exercisable
+                                   --------------------------------------       -----------------------
+                                                  Weighted
+                                                  Average        Weighted                      Weighted
+                                   Number         Remaining      Average        Number         Average
+                                   Outstanding    Contractual    Exercise       Exercisable    Exercise
+     Range of Exercise Price       (000)          Life (Years)   Price          (000)          Price
+     -----------------------       -----------    -----------    --------       -----------    --------
+     <S>                                <C>           <C>        <C>                  <C>      <C>
+     $15.01 - $20.00                    310           3.4        $ 16.58              274      $ 16.72
+      20.01 - $25.00                    386           4.8          21.81              163        21.99
+      25.01 - $30.00                    763           5.8          26.88              101        26.91
+      30.01 - $35.00                    412           4.8          31.84              167        31.84
+      35.01 - $40.00                    223           2.3          38.50               92        38.50
+                                     ------           ---         ------           ------       ------
+                                      2,094           4.7        $ 26.60              797      $ 24.77
+                                     ======           ===         ======           ======       ======
+</TABLE>
+Employee Stock Purchase Plan
+
+     In fiscal 1996, the Company's Board of Directors adopted the
+Associate Stock Purchase Plan (the "ASPP"), whereby employees are
+afforded the opportunity to purchase shares in the Company, by
+authorizing the sale of up to 500 shares of Common Stock.  The
+purchase price of the shares is 95% of the lower of the closing
+market price at the beginning or end of each quarter.  Under SFAS
+No. 123, the ASPP is a non-compensatory plan.
+
+
+Note 11 - Foreign Currency Transactions
+
+     The Company has entered into various contracts to buy or
+sell foreign currencies. The contracts have maturity dates
+extending through June 1999, and are for an aggregate amount of
+$26,753 (which approximates the fair value based on quoted market
+prices).  The Company is exposed to market risk in the event of
+nonperformance by the other parties (major international banks)
+to these contracts, however, such nonperformance is not
+anticipated.
+
+     Net foreign currency transaction gains(losses) for fiscal
+1998, 1997 and 1996 of $(319), $113 and $4, respectively, have
+been included in the earnings of the respective periods.
+
+
+                               -53-
+<PAGE>
+Note 12 - Contingent Liabilities
+
+      The Company is involved in various legal proceedings
+incidental to its business.  Management believes that the outcome
+of such proceedings will not have a material adverse effect upon
+the consolidated operations or financial condition of the
+Company.
+
+
+Note 13 - Related Party Transactions
+
+     The Company has made loans (the balance of which totaled
+$2,523 at the end of fiscal 1998) to certain key executives in
+connection with their purchases of the Company's Common Stock.
+Pursuant to the terms of such loans, the shares acquired are
+pledged as security.  The following individuals have loans in
+excess of $60 outstanding at the end of fiscal 1998:
+Nils Johansson ($267), Michael Dering ($226), Maria Rubly ($406),
+Brian Longe ($209), Wayne Mickiewicz ($209), Joseph Reynolds
+($225), Dwight Mater ($120), and Bruce Moeller ($175).  Each loan
+is evidenced by an installment note maturing five years from the
+date of the note and bearing interest at the Company's marginal
+rate of borrowing (approximately 6% in fiscal 1998).  Interest
+and principal may be deferred until the maturity date.
+
+
+                               -54-
+<PAGE>
+Note 14 -Interim Financial Information (unaudited)
+
+     The following table presents the Company's quarterly results
+of operations for fiscal 1998 and fiscal 1997:
+<TABLE>
+<CAPTION>
+                                               First      Second      Third       Fourth(1)
+                                              Quarter     Quarter     Quarter     Quarter       Year
+                                              --------    --------    --------    ---------    -------
+<S>                                          <C>         <C>         <C>         <C>         <C>
+1998
+Net Sales ................................   $201,374    $220,123    $216,653    $262,000    $900,150
+Gross profit..............................     77,567      86,363      84,647     105,317     353,894
+Earnings from continuing operations ......      3,973       9,017      11,294      15,496      39,780
+Earnings (loss) from discontinued
+ operations ..............................       (726)       (719)        (45)     (1,176)     (2,666)
+                                              -------     -------     -------     -------     -------
+  Net earnings ...........................   $  3,247    $  8,298    $ 11,249    $ 14,320    $ 37,114
+                                              =======     =======     =======     =======     =======
+Net earnings per basic share:
+ Earnings from continuing operations .....   $   0.17    $   0.38    $   0.48    $   0.67    $   1.70
+ Earnings (loss) from discontinued
+  operations .............................      (0.03)      (0.03)         --       (0.05)      (0.11)
+                                              -------     -------     -------     -------     -------
+ Net earnings per common share ...........   $   0.14    $   0.35    $   0.48    $   0.62    $   1.59
+                                              =======     =======     =======     =======     =======
+Net earnings per diluted share:
+ Earnings from continuing operations .....   $   0.17    $   0.38    $   0.48    $   0.66    $   1.69
+ Earnings (loss) from discontinued
+  operations .............................      (0.03)      (0.03)         --       (0.05)      (0.11)
+                                              -------     -------     -------     -------     -------
+ Net earnings per common share ...........   $   0.14    $   0.35    $   0.48    $   0.61    $   1.58
+                                              =======     =======     =======     =======     =======
+
+1997
+Net Sales ................................   $191,127    $214,968    $205,287    $245,589    $856,971
+Gross profit..............................     70,171      82,142      83,435      89,710     325,458
+Earnings from continuing operations
+ before extraordinary items ..............      1,980       4,281       6,572       6,037      18,870
+Earnings (loss) from discontinued
+ operations ..............................         70         329         (95)    (22,745)    (22,441)
+Extraordinary losses .....................       (905)        (67)     (9,678)    (18,239)    (28,889)
+                                              -------     -------     -------     -------     -------
+  Net earnings (loss) ....................   $  1,145    $  4,543     $(3,201)   $(34,947)   $(32,460)
+                                              =======     =======     =======     =======     =======
+Net earnings (loss) per basic share:
+ Earnings from continuing
+  operations before extraordinary items ..   $    .11    $    .23     $   .35    $    .26    $    .96
+ Earnings (loss) from discontinued
+  operations .............................         --         .02          --        (.97)      (1.14)
+ Extraordinary losses ....................       (.05)         --        (.52)       (.78)      (1.46)
+                                              -------     -------     -------     -------     -------
+ Net earnings (loss) per common share ....   $    .06    $    .25    $   (.17)   $  (1.49)   $  (1.64)
+                                              =======     =======     =======     =======     =======
+Net earnings (loss) per diluted share:
+ Earnings from continuing operations
+  before extraordinary items .............   $    .11    $    .23    $    .35    $    .26    $    .95
+ Earnings (loss) from discontinued
+  operations .............................         --         .02        (.01)       (.97)      (1.13)
+ Extraordinary losses ....................       (.05)         --        (.51)       (.77)      (1.45)
+                                              -------     -------     -------     -------     -------
+ Net earnings (loss) per common share ....   $    .06    $    .25    $   (.17)   $  (1.48)   $  (1.63)
+                                              =======     =======     =======     =======     =======
+
+(1) In the fourth quarter 1997 the Company recorded an additional loss reserve related to
+    the postal contracting business of $34,260 and a special charge for its Mail and
+    Messaging Technologies business of $6,596 related to severance/inventory exposures.
+</TABLE>
+
+                               -55-
+<PAGE>
+Item 9.  Changes in and Disagreements with Accountants on
+- ------   ------------------------------------------------
+         Accounting and Financial Disclosure.
+         -----------------------------------
+
+     None.
+
+
+Item 10.  Directors and Executive Officers of the Registrant.
+- -------   --------------------------------------------------
+
+     Information regarding Directors and Executive Officers of
+the Registrant is included at the end of Part I of this report.
+
+
+Item 11.  Executive Compensation.
+- -------   ----------------------
+
+     The information required by this Item is set forth in the
+Company's Proxy Statement for the Annual Meeting of Stockholders
+to be held on May 12, 1999 (under the captions "Compensation of
+Directors", "Executive Compensation", "Supplemental Retirement
+Plan", and "Compensation Committee Interlocks and Insider
+Participation"), and is hereby incorporated by reference.
+
+
+Item 12.  Security Ownership of Certain Beneficial Owners and
+- -------   ---------------------------------------------------
+          Management.
+          ----------
+
+     The information required by this Item is set forth in the
+Company's Proxy Statement for the Annual Meeting of Stockholders
+to be held on May 12, 1999 (under the captions "Security
+Ownership of Certain Beneficial Owners and Management", and
+"Information Relating to Directors and Executive Officers"), and
+is hereby incorporated by reference.
+
+
+Item 13.  Certain Relationships and Related Transactions.
+- -------   ----------------------------------------------
+
+     Information regarding Related Party Transactions is included
+in Note 13 of this report.  The remaining information required by
+this Item is set forth in the Company's Proxy Statement for the
+Annual Meeting of Stockholders to be held on May 12, 1999 (under
+the caption "Shareholders Agreement"), and is hereby incorporated
+by reference.
+
+
+                               -56-
+<PAGE>
+                            SIGNATURES
+
+     Pursuant to the requirements of Section 13 or 15(d) of the
+Securities Exchange Act of 1934, the Registrant has duly caused
+this report to be signed on its behalf by the undersigned,
+therefore duly authorized.
+
+Date: March 15, 1999                     Bell & Howell Company
+
+                                          By: /s/ James P. Roemer
+
+                                         -----------------------
+                                         James P. Roemer
+                                         Chairman of the Board of
+                                         Directors, President and
+                                         Chief Executive Officer
+
+     Pursuant to the requirements of the Securities Exchange Act
+of 1934, this report has been signed by the following persons on
+behalf of the Registrant and in the capacities and on the dates
+indicated.
+<TABLE>
+<CAPTION>
+           Signature                               Title                        Date
+- --------------------------------       ---------------------------        ----------------
+<S>                                     <C>                                <C>
+/s/ James P. Roemer                     Chairman of the Board of           March 15, 1999
+- --------------------------------         Directors, President and
+James P. Roemer                          Chief Executive Officer
+
+/s/ Nils A. Johansson                   Executive Vice President,          March 15, 1999
+- --------------------------------         Chief Financial Officer
+Nils A. Johansson                        and Director
+
+/s/ Stuart T. Lieberman                 Vice President, Finance            March 15, 1999
+- --------------------------------         and Chief Accounting
+Stuart T. Lieberman                      Officer
+
+/s/ Todd W. Buchardt                    General Counsel and                March 15, 1999
+- --------------------------------         Secretary
+Todd W. Buchardt
+
+/s/ David Bonderman                     Director                           March 15, 1999
+- --------------------------------
+David Bonderman
+
+/s/ David G. Brown                      Director                           March 15, 1999
+- --------------------------------
+David G. Brown
+
+/s/ J. Taylor Crandall                  Director                           March 15, 1999
+- --------------------------------
+J. Taylor Crandall
+</TABLE>
+
+                               -57-
+<PAGE>
+<TABLE>
+<CAPTION>
+           Signature                               Title                        Date
+- --------------------------------       ---------------------------        ----------------
+<S>                                     <C>                                <C>
+/s/ Daniel Doctoroff                    Director                           March 15, 1999
+- --------------------------------
+Daniel Doctoroff
+
+/s/ William E. Oberndorf                Director                           March 15, 1999
+- --------------------------------
+William E. Oberndorf
+
+/s/ Gary L. Roubos                      Director                           March 15, 1999
+- --------------------------------
+Gary L. Roubos
+
+/s/ John H. Scully                      Director                           March 15, 1999
+- --------------------------------
+John H. Scully
+</TABLE>
+
+                               -58-
+<PAGE>
+Item 14.  Exhibits, Financial Statement Schedules, and Reports
+- -------   ----------------------------------------------------
+          on Form 8-K.
+          -----------
+
+(a)  1.   Financial statements:
+          The following consolidated financial statements of
+          Bell & Howell Company are included in Part II, Item 8,
+          Financial Statements and Supplementary Data:
+
+          Independent Auditors' Report
+
+          Consolidated Statements of Operations -
+          Fiscal years 1998, 1997 and 1996
+
+          Consolidated Balance Sheets - At the end of fiscal
+          years 1998 and 1997
+
+          Consolidated Statements of Cash Flows -
+          Fiscal years 1998, 1997 and 1996
+
+          Consolidated Statements of Shareholders'
+          Equity - Fiscal years 1998, 1997 and 1996
+
+          Notes to Consolidated Financial Statements
+
+     2.   Financial statement schedule filed as a part of
+          this report:
+
+          Financial Statement Schedules are omitted as the
+          required information is either inapplicable or is
+          presented in the Company's Consolidated Financial
+          Statements or the Notes thereto.
+
+     3.   Exhibits and Financial Statement Schedules
+
+     (a)     Exhibits.
+
+
+                               -59-
+<PAGE>
+     Exhibit
+       No.     Description
+
+      *3.1     Form of Amended and Restated Certificate of
+               Incorporation of Bell & Howell Company (f/k/a
+               Bell & Howell Operating Company), Amended and
+               Restated Registration No. 333-59994
+      *3.2     By-laws of Bell & Howell Company (f/k/a Bell &
+               Howell Operating Company) Registration
+               No. 333-63556
+
+     *10.1     Amended and Restated Profit Sharing Retirement
+               Plan is incorporated herein by reference to
+               Exhibit 10.1 to Bell & Howell Company's
+               (f/k/a Bell & Howell Operating Company)
+               Registration Statement on Form S-1,
+               as amended, Registration No. 33-63556
+
+     *10.2     Amended and Restated Replacement Benefit Plan
+               is incorporated herein by reference to Exhibit
+               10.4 to Bell & Howell Company's
+               Registration Statement on Form S-1, as amended,
+               Registration No. 33-63556
+
+     *10.3     Supplemental Retirement Plan is incorporated
+               herein by reference to Exhibit 10.3 to
+               Bell & Howell Company's Registration
+               Statement on Form S-1, as amended, Registration
+               No. 33-63556
+
+     *10.4     Management Incentive Bonus Plan is incorporated
+               herein by reference to Exhibit 10.5 to
+               Bell & Howell Company's Registration
+               Statement on Form S-1, as amended, Registration
+               No. 33-63556
+
+     *10.5     Long Term Incentive Plan II, 1993-1996, is
+               incorporated herein by reference to Exhibit to
+               Bell & Howell Company's Registration Statement
+               on Form S-1, as amended, Registration No. 33-89992
+
+     *10.6     Deferred Benefit Trust is incorporated herein
+               by reference to Exhibit 10.10 to Bell & Howell
+               Company's Registration Statement on Form S-1, as
+               amended, Registration No. 33-63556
+
+
+                               -60-
+<PAGE>
+     *10.7     Shareholders Agreement dated May 10, 1988, as
+               amended, among certain Management Stockholders
+               (as defined therein) and Investor Shareholders
+               (as defined therein) is incorporated herein by
+               reference to Exhibit 10.17 to Bell & Howell
+               Company's Registration Statement on Form S-1,
+               as amended, Registration No. 33-59994
+     *10.8     Registration Rights Agreement dated as of
+               May 10, 1988 by and among Bell & Howell
+               Group, Inc. and each of the Purchasers referred
+               to therein is incorporated herein by reference
+               to Exhibit 10.1 to Bell & Howell Company's
+               Registration Statement on Form S-1,
+               as amended, Registration No. 33-63556
+
+     *10.9     Amended and Restated Credit Agreement, dated as of
+               September 4, 1996, among Bell & Howell Company
+               (f/k/a Bell & Howell Operating Company), the
+               Lenders listed therein and Bankers Trust Company,
+               as Agent, Registration No. 33-59994
+
+     *10.10    Supplement to Fourth Amendment to the
+               Shareholders Agreement dated May 10, 1988, as
+               amended, among certain Management Stockholders
+               (as defined therein) and Investor Shareholders
+               (as defined therein) Registration Statement on
+               Form S-1, as amended, Registration No. 33-89992
+
+     *10.11    Receivables Purchase Agreement dated May 1, 1996,
+               between Bell & Howell Financial Services Company
+               and the First National Bank of Chicago,
+               Registration No. 33-59994
+
+     *10.12    Bell & Howell Profit Sharing Retirement Plan and
+               Bell & Howell Associate Stock Purchase Plan,
+               Registration Statement on Form S-8,
+               Registration No. 33-99982
+
+     *10.13    Bell & Howell Company 1995 Stock Option Plan,
+               Registration Statement on Form S-8,
+               Registration No. 333-42425
+
+       21.1    Subsidiaries of Bell & Howell Company
+
+       23.1    Consent of KPMG LLP
+
+       27.1    Financial Data Schedule
+
+*   As previously filed
+
+
+                               -61-
+<PAGE>
+                      CONSENT OF INDEPENDENT
+                    CERTIFIED PUBLIC ACCOUNTANTS
+
+
+
+
+The Board of Directors
+Bell & Howell Company:
+
+We consent to incorporation by reference in the registration
+statements (Nos. 33-99982 and 333-48425) on Form S-8 of Bell &
+Howell Company of our report dated February 16, 1999, relating to
+the consolidated balance sheets of Bell & Howell Company and
+subsidiaries as of the end of fiscal years 1998 and 1997, and the
+related consolidated statements of operations, shareholders'
+equity, and cash flows for the fiscal years 1998, 1997 and 1996,
+which report appears in the fiscal 1998 annual report on Form
+10-K of Bell & Howell Company.
+
+                                        KPMG LLP
+
+
+
+Chicago, Illinois
+March 15, 1999
+
+                               -62-
+<PAGE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-21.1
+<SEQUENCE>2
+<DESCRIPTION>SUBSIDIARIES OF BELL & HOWELL COMPANY
+<TEXT>
+
+                         SUBSIDIARIES OF
+                BELL & HOWELL COMPANY (Delaware)
+                            March 1999
+
+        Bell & Howell Company subsidiaries are 100% owned by
+          Bell & Howell Company unless otherwise indicated
+
+
+Bell & Howell Company - Subsidiary                 Incorporation
+- ----------------------------------                 --------------
+
+Bell & Howell A-V Limited                          United Kingdom
+(100% owned by Bell & Howell Company;
+1 share held by a director for
+Bell & Howell Company)
+
+- - Information Publications International Limited   United Kingdom
+(100% owned by Bell & Howell A-V Limited)
+
+
+Bell & Howell Company (Nameholding)                Nevada
+
+
+Bell & Howell Cope Company                         Delaware
+
+
+Bell & Howell Document Management                  Delaware
+Products Company
+
+
+Bell & Howell Financial Services Company           Delaware
+(Formerly known as Bell & Howell Acceptance
+Corporation)
+
+- -  BHAC Leasing Corporation                        Delaware
+(100% owned by Bell & Howell Financial
+Services Company)
+
+
+Bell & Howell Foreign Sales Corporation            Barbados
+
+
+Bell & Howell France S.A.                          France
+(97% owned by Bell & Howell Company;
+ 3% owned by Bell & Howell GmbH;
+ 9 shares held by individuals as required by By-Laws)
+
+<PAGE>
+Bell & Howell Company - Subsidiary                 Incorporation
+- ----------------------------------                 --------------
+
+Bell & Howell GmbH                                 Germany
+
+- -  Bell & Howell AG                                Switzerland
+(100% owned by Bell & Howell GmbH)
+
+- -  Bell & Howell Ges.m.b.H.                        Austria
+(100% owned by Bell & Howell GmbH)
+
+
+Bell & Howell International Services Company       Delaware
+
+
+Bell & Howell Japan Ltd. Co.                       Japan
+
+
+Bell & Howell Limited                              United Kingdom
+(100% owned by Bell & Howell A-V Limited)
+
+- - Micromedia Limited                               United Kingdom
+(100% owned by Bell & Howell Limited;
+1 share held by a director for Bell & Howell Limited)
+
+- - Paragon Technical Services Limited               United Kingdom
+(100% owned by Bell & Howell Limited)
+
+- - International Imaging Limited                    United Kingdom
+(100% owned by Bell & Howell Limited)
+
+
+Bell & Howell Ltd                                  Canada
+
+- - Bell & Howell (Quebec) Ltd./Bell & Howell        Quebec
+ (Quebec) Ltee
+(100% owned by Bell & Howell Ltd; 5 shares held
+ by officers and directors for Bell & Howell Ltd)
+
+
+Bell & Howell Mail Processing Systems Company      Delaware
+(Formerly known as Bell & Howell
+Phillipsburg Company)
+
+- - Blue Lake Software, Inc.                         Alabama
+(100% owned by Bell & Howell Mail Processing
+Systems Company)
+
+<PAGE>
+Bell & Howell Company - Subsidiary                 Incorporation
+- ----------------------------------                 -------------
+
+Bell & Howell Mailmobile Company                   Delaware
+
+
+Bell & Howell Europa BV                            Netherlands
+(Formerly known as Bell & Howell Nederland BV)
+
+
+Bell & Howell Nederland B.V.
+(Formerly known as  Pretec Precisie Techniek BV)   Netherlands
+(100% owned by Bell & Howell Europa BV)
+
+
+Bell & Howell Postal Systems Inc.                  Delaware
+(Formerly known as Bell & Howell DocuMail
+Systems Company)
+
+
+Bell & Howell Publication Systems Company          Delaware
+
+- - Bell & Howell Publication Systems Company BV     Netherlands
+(100% owned by Bell & Howell Publication
+Systems Company)
+
+
+Bell & Howell Paperwise Company                    Delaware
+
+
+Bell & Howell PW Licensing Company                 Delaware
+
+
+Bell & Howell (Singapore) Pte Ltd.                 Singapore
+
+
+UMI Company                                        Delaware
+(Formerly known as University Microfilms, Inc.)
+
+- - DataTimes Corporation                            Oklahoma
+(100% owned by UMI Company)
+
+- - DataTimes Worldwide Corporation                  Delaware
+(100% owned by DataTimes Corporation)
+
+- - DataTimes Global Information Corporation          Delaware
+(100% owned by DataTimes Corporation)
+
+- - UMI Information Store, Inc.                       Delaware
+(100% owned by UMI Company)
+<PAGE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>3
+<DESCRIPTION>FDS FOR FISCAL YEAR 1998
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<LEGEND>
+THIS FINANCIAL DATA SCHEDULE CONTAINS SUMMARY FINANCIAL INFORMATION
+EXTRACTED FROM THE COMPANY'S BALANCE SHEET AND STATEMENT OF OPERATIONS
+AND IS QUALIFIED IN ITS ENTIRETY BY REFERENCE TO SUCH FINANCIAL
+STATEMENTS.
+</LEGEND>
+<RESTATED>
+       
+<MULTIPLIER> 1,000
+<S>                             <C>
+<PERIOD-TYPE>                   YEAR
+<FISCAL-YEAR-END>               JAN-02-1999
+<PERIOD-END>                    JAN-02-1999
+<CASH>                               18,074
+<SECURITIES>                              0
+<RECEIVABLES>                       249,577
+<ALLOWANCES>                         15,910
+<INVENTORY>                          98,930
+<CURRENT-ASSETS>                    362,474
+<PP&E>                              423,482
+<DEPRECIATION>                      275,277
+<TOTAL-ASSETS>                      836,293
+<CURRENT-LIABILITIES>               360,556
+<BONDS>                             445,240
+<PREFERRED-MANDATORY>                     0
+<PREFERRED>                               0
+<COMMON>                                 24
+<OTHER-SE>                          (29,246)
+<TOTAL-LIABILITY-AND-EQUITY>        836,293
+<SALES>                             900,150
+<TOTAL-REVENUES>                    900,150
+<CGS>                               546,256
+<TOTAL-COSTS>                       809,450
+<OTHER-EXPENSES>                          0
+<LOSS-PROVISION>                          0
+<INTEREST-EXPENSE>                   24,400
+<INCOME-PRETAX>                      66,300
+<INCOME-TAX>                         26,520
+<INCOME-CONTINUING>                  39,780
+<DISCONTINUED>                       (2,666)
+<EXTRAORDINARY>                           0
+<CHANGES>                                 0
+<NET-INCOME>                         37,114
+<EPS-PRIMARY>                          1.59
+<EPS-DILUTED>                          1.58
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----
