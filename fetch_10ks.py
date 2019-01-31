@@ -1,5 +1,5 @@
 import sys
-from multiprocessing.pool import Pool
+from multiprocessing.pool import Pool as Pool
 
 import requests
 
@@ -13,7 +13,7 @@ import multiprocessing
 def download_10ks(cik_list_path, output_path):
     adapter = HTTPAdapter(max_retries=10)
     s = requests.Session()
-    s.mount('https://www.sec.gov/', adapter)
+    #s.mount('https://www.sec.gov/', adapter)
     with open(cik_list_path, 'r') as cik_file:
         ciks = cik_file.read().split('\n')
     keys = sorted([(s, i, output_path) for i in ciks])
