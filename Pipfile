@@ -16,7 +16,6 @@ tqdm = "*"
 matplotlib = "*"
 openpyxl = "*"
 xlrd = "*"
-src = "*"
 python-decouple = "*"
 
 [requires]
