@@ -1,0 +1,2715 @@
+<SEC-DOCUMENT>0000040518-01-500011.txt : 20011026
+<SEC-HEADER>0000040518-01-500011.hdr.sgml : 20011026
+ACCESSION NUMBER:		0000040518-01-500011
+CONFORMED SUBMISSION TYPE:	10-K/A
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20000930
+FILED AS OF DATE:		20011018
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GENERAL DATACOMM INDUSTRIES INC
+		CENTRAL INDEX KEY:			0000040518
+		STANDARD INDUSTRIAL CLASSIFICATION:	TELEPHONE & TELEGRAPH APPARATUS [3661]
+		IRS NUMBER:				060853856
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		10-K/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-08086
+		FILM NUMBER:		1761719
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ROUTE 63
+		CITY:			MIDDLEBURY
+		STATE:			CT
+		ZIP:			06762
+		BUSINESS PHONE:		2035741118
+
+	MAIL ADDRESS:	
+		STREET 1:		P O BOX 1299
+		CITY:			MIDDLEBURY
+		STATE:			CT
+		ZIP:			06762-1299
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-K/A
+<SEQUENCE>1
+<FILENAME>oct10k.txt
+<DESCRIPTION>10-K/A
+<TEXT>
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                   FORM 10-K/A
+
+                  ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(D)
+                     OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the fiscal year ended September 30, 2000     Commission File number 1-8086
+
+                        GENERAL DATACOMM INDUSTRIES, INC.
+             (Exact name of registrant as specified in its charter)
+
+     Delaware                                          06-0853856
+     --------                                          ----------
+(State or other jurisdiction of                     (I.R.S. Employer
+ incorporation or organization)                     Identification No.)
+
+            Park Road Extension, Middlebury, Connecticut, 06762-1299
+            --------------------------------------------------------
+                    (Address of principal executive offices)
+
+                                 (203) 758-1811
+                                 --------------
+              (Registrant's telephone number, including area code)
+                           --------------------------
+     Securities registered pursuant to Section 12(b) of the Act:
+
+     Title of each Class             Name of each exchange on which registered
+ Common Stock, $.10 par value               New York Stock Exchange
+
+        Securities registered pursuant to Section 12(g) of the Act: None
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the  preceding 12 months (or for such  shorter  period that the  registrant  was
+required  to file  such  reports),  and  (2) has  been  subject  to such  filing
+requirements for the past 90 days.
+
+                                YES { X }     NO { }
+
+Indicate by check mark if disclosure of delinquent  filers  pursuant to Item 405
+of Regulation  S-K is not contained  herein,  and will not be contained,  to the
+best  of  the  registrant's   knowledge,  in  definitive  proxy  or  information
+statements  incorporated  by  reference  in Part  III of this  Form  10-K or any
+amendment to this Form 10-K. { X }
+
+The  aggregate  market  value  of the  voting  stock of the  Registrant  held by
+non-affiliates as of December 31, 2000:
+                                  $28,654,809.
+
+      Number                   of   shares   of   Common   Stock   and  Class  B
+                               Stockoutstanding as of December 31, 2000:
+                        27,516,096 Shares of Common Stock
+                        2,057,103 Shares of Class B Stock
+
+                      DOCUMENTS INCORPORATED BY REFERENCE:
+                       -----------------------------------
+Annual Report to  Stockholders  for the fiscal year ended September 30, 2000 for
+Part II,  Items 5, 6, 7 and 8.  Company's  Proxy  Statement  for the 2001 Annual
+Meeting of Stockholders for Part III, Items 10, 11, 12 and 13.
+
+<PAGE>
+
+PORTIONS AMENDED
+
+The  Registrant  hereby  amends  Part  II,  Items  7 and  8,  contained  in  the
+Registrant's  Report on Form 10-K for the fiscal year ended  September 30, 2000.
+The  Registrant   originally  classified  the  5%  Preferred  Stock  outstanding
+(discussed in Note 11, "Stockholders'  Equity") as permanent equity at September
+30, 2000.  However,  as a result of a conversion price  adjustment,  shareholder
+approval may be required in the future to authorize the listing and issuance of
+additional  shares of common  stock needed to convert  outstanding  5% Preferred
+Stock into common stock on July 31, 2002. Since such  shareholder  approval is a
+contingency outside of the registrant's  control,  the 5% Preferred Stock is now
+presented outside of permanent equity.
+
+In  addition:  (a) the footnote  disclosure  regarding  the 5%  Preferred  Stock
+included  in Note 11,  "Stockholders'  Equity,"  was  modified;  and (b) related
+discussion  areas in the  "Management's  Discussion  and  Analysis of  Financial
+Condition and Operations" section were modified as necessary.
+
+The referenced restatement of the fiscal 2000 financial statements had no affect
+on the Company's net loss, total assets or total liabilities.
+
+                                       2
+<PAGE>
+
+
+                                     PART II
+
+ITEM 7.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF RESULTS OF OPERATIONS  AND
+         FINANCIAL CONDITION
+
+The  information  required by this item is  incorporated  by reference  from the
+section entitled "Management's  Discussion and Analysis of Results of Operations
+and  Financial  Condition"  on pages 2 through 9 of the  Company's  2000  Annual
+Report to Stockholders. 1
+
+ITEM 8.  FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+
+The information required by this item is incorporated by reference from pages 10
+through 30 of the Company's  2000 Annual Report to  Stockholders  or is included
+elsewhere in this annual report on Form 10-K. 1
+
+------------------
+1 Such information  is also  included  in Exhibit 13 of this Form 10-K report as
+ filed with the Securities and Exchange Commission.
+
+
+                                       3
+<PAGE>
+
+
+                                   SIGNATURES
+
+         Pursuant to the  requirements  of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the Registrant has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly authorized.
+
+                                          GENERAL DATACOMM INDUSTRIES, INC.
+
+                                          By:  /S/ WILLIAM G. HENRY
+                                          ---------------------------------
+                                          William G. Henry
+                                          Vice President, Finance and
+                                          Principal Financial Officer
+
+
+
+Dated: October 18, 2001
+
+                                       4
+
+<PAGE>
+
+ITEM  14. EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS ON FORM  8-K
+
+                                  EXHIBIT INDEX
+
+
+Exhibit No.                         Description
+
+  3.1          Restated Certificate of Incorporation of the Corporation 1
+  3.2          Amended By-Laws of the Corporation
+  4.1          Certificate of the Powers, Designation, Preferences, Rights and
+               Limitations of 9% Cumulative Convertible Exchangeable Preferred
+               Stock 2
+  4.2          Indenture dated May 1, 1997 covering presently unissued 9%
+               Convertible Subordinated Debentures due 2006 3
+  4.3          Supplemental indenture, dated September 26, 1997, which amends
+               the May 1, 1997 Indenture covering presently unissued 9%
+               Convertible Subordinated Debentures due 2006 4
+  4.4          Indenture dated September 26, 1997 covering issued 7-3/4%
+               Convertible Senior Subordinated Debentures due 2002 5
+  4.5          Certificate of the Powers, Designation, Preferences, Rights and
+               Limitations of 5% Cumulative Convertible Exchangeable Preferred
+               Stock 6
+  4.6          Form of Warrant issued with 5% Cumulative Convertible Preferred
+               Stock7
+ 10.1          1979 Employee Stock Purchase Plan 8
+ 10.2          1983 Stock Option Plan 9
+ 10.3          1984 Incentive Stock Option Plan, and related amendments 10
+ 10.4          1985 Stock Option Plan 11
+ 10.5          1991 Stock Option Plan 12
+ 10.6          1998 Stock Option Plan 13
+ 10.7          Non-Statutory Stock Option Agreement Form - employee13
+ 10.8          Non-Statutory Stock Option Agreement Form - non-employee13
+ 10.9          Retirement Savings and Deferred Profit Sharing Plan, and related
+               amendments 14
+ 10.10         Credit Agreement between General DataComm Industries, Inc. and
+               The Chase Manhattan Bank 15
+ 10.11         Loan Agreement between General DataComm Industries, Inc., et al.,
+               and Foothill Capital Corporation, including First and Second
+               Amendments 16
+ 10.12         Outsource Manufacturing and Purchase Agreement between General
+               DataComm, Inc. and the Matco Electronics Group, Inc. 17
+ 10.13         Securities  Purchase  Agreement with respect to 5% Cumulative
+               Convertible Preferred Stock18
+ 10.14         Registration  Rights Agreement for 5% Preferred Stock19
+ 10.15         Share Purchase  Agreement with the State of Wisconsin
+               Investment  Board 20
+ 10.16         Transfer of Receivables Agreement between DataComm Leasing
+               Corporation and Sanwa Business Credit Corporation 21
+ 13.           Annual Report to  Stockholders  for the year ended  September 30,
+               2000.  Portions of the Annual Report to Stockholders for the year
+               ended  September  30,  2000  which  have  been   incorporated  by
+               reference  are deemed to be "filed"  (and are included as Exhibit
+               13 in our electronic  filing with the Commission).  All remaining
+               portions of the Annual Report to  Stockholders  will be furnished
+               for the information of the Commission and are not deemed
+               "filed" 22
+                                       5
+<PAGE>
+
+
+ITEM 14. EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS ON FORM 8-K(cont'd)
+
+                             EXHIBIT INDEX (cont'd)
+
+21.            Subsidiaries of the Registrant
+23.            Consent of Independent Accountants
+-----------------------
+1     Incorporated by reference from Exhibit 3.1 to Form 10-Q for quarter ended
+      June 30, 1999.
+2     Incorporated by reference from Exhibit 4 to Form 8-K dated October 8,1996.
+3     Incorporated by reference from Exhibit 4.1 to Form 10-Q for quarter ended
+      June 30, 1997.
+4     Incorporated by reference from Exhibit 4.3 to Form 10-K for the year ended
+      September 30, 1997.
+5     Incorporated by reference from Exhibit 4 to Form 8-K dated October 8, 1997
+6     Incorporated by reference to Exhibit 4.1 to Form 8-K dated July 31, 2000
+7     Incorporated by reference to Exhibit 4.2 to Form 8-K dated July 31, 2000
+8     Incorporated by reference from Part II of prospectus dated August 31,
+      1999, contained in Form S-8, Registration Statement No. 333-86229.
+9     Incorporated  by reference  from  Exhibit  1(c) to Form S-8,  Registration
+      Statement No. 2-92929.  Amendments  thereto are  incorporated by reference
+      and filed as Exhibit 10.3 to Form 10-Q for quarter ended December 31, 1987
+      and as Exhibit 10.3.1 to Form 10-Q for quarter ended June 30, 1991.
+10    Incorporated  by  reference  from  Exhibit  1(a),  Form S-8,  Registration
+      Statement No.2-92929. Amendments thereto are incorporated by reference and
+      filed as  Exhibit  10.2 to Form  10-Q for  quarter  ended  June 30,  1991,
+      Exhibit  10.19 to Form 10-K for year ended  September 30, 1987 and Exhibit
+      10.2 to Form 10-Q for quarter ended December 31, 1987.
+11    Incorporated  by  reference  from  Exhibit  10a,  Form  S-8,  Registration
+      Statement No. 33-21027.  Amendments  thereto are incorporated by reference
+      from Part II of prospectus  dated August 21, 1990,  contained in Form S-8,
+      Registration Statement No. 33-36351 and as Exhibit 10.3.2 to Form 10-Q for
+      quarter ended June 30, 1991.
+12    Incorporated by reference from Form S-8, Registration Statement No.
+      333-35299.
+13    Incorporated by reference from Form S-8, Registration Statement No.
+      333-52302.
+14    Incorporated by reference from Form S-8, Registration Statement No.
+      33-37266. Amendments thereto are  incorporated  by reference to Exhibit
+      10.16 to Form 10-Q for the quarter ended December 31, 1996.
+15    Incorporated by reference from Exhibit 10.21 to Form 10-K for the year
+      ended September 30, 1993.
+16    Incorporated by reference from Exhibit 10.1 to Form 8-K dated May 14, 1999
+      and Exhibit 10.11 to Form 10-K for the year ended September 30, 1999.
+17    Incorporated by reference to Exhibit 10.12 to Form 10-K for the year
+      ended September 30, 1999
+18    Incorporated by reference to Exhibit 10.1 to Form 8-K dated July 31, 2000
+19    Incorporated by reference to Exhibit 10.2 to Form 8-K dated July 31, 2000
+20    Incorporated by reference from Form S-3, Registration Statement No.
+      333-46478
+21    Incorporated by reference from Exhibit 10.1 to Form 10-Q for quarter
+      ended June 30, 1989
+22    Filed herewith
+
+                                       6
+<PAGE>
+
+                        General DataComm Industries, Inc.
+                                and Subsidiaries
+                   Index to Financial Statements and Schedules
+
+Financial Statements Incorporated by Reference
+
+The consolidated  financial statements of General DataComm Industries,  Inc. and
+Subsidiaries  and the Report of  Independent  Accountants  related  thereto  are
+incorporated  herein by  reference  from pages 10  through  30 of the  Company's
+Annual  Report to  Stockholders  for the year ended  September  30,  2000.  Such
+information  is also  included  in Exhibit 13 of this Form 10-K report (as filed
+with the Securities and Exchange  Commission).  The Company's 2000 Annual Report
+to  Stockholders  is not deemed to be  "filed" as part of this Form 10-K  report
+except for those portions thereof specifically incorporated by reference.
+
+Financial Statements and Schedule Included                          Page
+
+Report of Independent Accountants                                   F-2
+
+                                       F-1
+<PAGE>
+
+
+                        Report of Independent Accountants
+
+To the Stockholders and Board of Directors of General DataComm Industries, Inc.
+
+In our  opinion,  the  consolidated  balance  sheets  and  related  consolidated
+statements of operations and accumulated  deficit and cash flows present fairly,
+in all  material  respects,  the  consolidated  financial  position  of  General
+DataComm  Industries,  Inc. and Subsidiaries at September 30, 2000 and 1999, and
+the  consolidated  results of their  operations and their cash flows for each of
+the three years in the period ended  September  30,  2000,  in  conformity  with
+accounting  principles  generally accepted in the United States. These financial
+statements  are  the  responsibility  of  the  Corporation's   management;   our
+responsibility is to express an opinion on these financial statements based upon
+our audits.  We conducted  our audits of these  statements  in  accordance  with
+auditing  standards  generally  accepted in the United States.  Those  standards
+require that we plan and perform the audit to obtain reasonable  assurance about
+whether the financial  statements  are free of material  misstatement.  An audit
+includes  examining,  on a test  basis,  evidence  supporting  the  amounts  and
+disclosures in the financial  statements,  assessing the  accounting  principles
+used and  significant  estimates made by management,  and evaluating the overall
+financial  statement  presentation.   We  believe  that  our  audits  provide  a
+reasonable basis for our opinion expressed above.
+
+The  accompanying  financial  statements  have been  prepared  assuming that the
+Company  will  continue  as a  going  concern.  As  discussed  in  Note 1 to the
+financial  statements,  the  Company  has  suffered  recurring  losses  and cash
+deficits  from  operations  that raise  substantial  doubt  about its ability to
+continue as a going concern.  Management's  plans in regard to these matters are
+also  described in Note 1, and are dependent  upon,  among other things,  future
+profitable  operations,  the ability to generate sufficient cash from operations
+and to obtain  additional  financing  sources.  The financial  statements do not
+include  any   adjustments   that  might   result  from  the  outcome  of  these
+uncertainties.
+
+As discussed in Note 18 to the financial statements, the presentation of certain
+preferred  stock  amounts  included in  permanent  equity has been  reversed and
+presented as mandatorily  redeemable  preferred  stock in the September 30, 2000
+financial statements.
+
+
+
+                                    /S/ PRICEWATERHOUSECOOPERS LLP
+                                        PRICEWATERHOUSECOOPERS LLP
+
+
+Stamford, Connecticut
+November 9, 2000,  except for Notes 1, 8 and 17, as to which
+the date is January 9, 2001 and Note 18, as to which the date
+is May 21, 2001
+
+                                      F-2
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-13
+<SEQUENCE>3
+<FILENAME>ex13.txt
+<DESCRIPTION>FINANCIALS
+<TEXT>
+
+General DataComm Industries, Inc. and Subsidiaries
+
+
+                              Financial Highlights
+<TABLE>
+<CAPTION>
+
+Five-Year Selected Financial Data
+
+(In thousands except per share, ratio and employee data)
+<S>                               <C>            <C>             <C>           <C>          <C>
+
+Years ended September 30,            2000            1999           1998            1997        1996
+------------------------------------------------------------------------------------------------------
+
+ Revenues                         $ 167,162      $ 171,017       $ 194,255      $ 207,766   $235,129
+  Operating loss                   (24,649)        (23,700)        (26,740)       (38,419)   (14,726)
+------------------------------------------------------------------------------------------------------
+  Net loss                         (36,939) (1)    (22,606) (2)    (33,392)       (42,751)   (17,170)(3)
+  Basic and diluted loss
+    per share                     $  (1.51) (1)    $ (1.12) (2)  $   (1.64)     $  (2.11)   $   (.83)(3)
+-------------------------------------------------------------------------------------------------------
+ Total assets                      133,083         140,374         149,538        187,335     205,054
+ Long-term debt, including
+   current portion                  54,982          69,065          60,812         56,862      29,314
+-------------------------------------------------------------------------------------------------------
+</TABLE>
+
+
+(1) Fiscal 2000 net loss includes a charge of $1.5 million,  or $0.06 per share,
+    for  uncollectible lease receivables
+    and  related  costs attributable to a customer  bankruptcy,  a $0.5 million,
+    or $0.02 per share, charge for  restructuring  costs and non-cash  charges
+    of $2.4  million,  or $0.09 per share,  resulting  from the conversion and
+    exchange of convertible debentures for common stock.
+
+(2) Fiscal 1999 net loss  includes a gain of $9.0  million,  or $0.41 per share,
+    from the sale of a non-strategic  division and a $2.0 million,  or $0.09 per
+    share, charge for restructuring costs.
+
+(3)  Fiscal 1996 net loss includes a gain of $1.0  million,  or $0.05 per share,
+     on the sale of real estate and a $2.5 million,  or $0.12 per share,  charge
+     for restructuring of operations.
+
+                                       1
+<PAGE>
+
+                     Management's Discussion and Analysis of
+                  Results of Operations and Financial Condition
+
+Business Conditions and Financial Plans
+
+The  Company's   independent  auditors  have  expressed  uncertainty  about  the
+Company's  ability  to  continue  as a going  concern  in their  opinion  on the
+Company's  financial  statements.  On  January 5, 2001,  the  Company's  primary
+lenders served the Company with a notice of default under the Company's loan and
+security agreement ("Loan Agreement") as a result of the Company's  inability to
+provide such lenders with Company financial statements supported by an qualified
+opinion.  While such lenders have not  terminated  the revolving  line of credit
+portion of the Loan Agreement,  pursuant to which advances are still continuing,
+the lenders have  reserved  their right to declare such advances due and payable
+and/or limit the amount of such future advances, and have increased the interest
+rates on such advances and the outstanding term loans. There can be no assurance
+that the  lenders  will  continue  to make such  advances  or that they will not
+accelerate the maturity of amounts due under the Loan Agreement. Acceleration of
+such amounts may in turn result in the  acceleration of maturity of debt owed to
+other creditors.
+
+Since the Company does not currently have any  alternative  sources of operating
+funds,  these matters  raise  substantial  doubt about the Company's  ability to
+continue as a going concern.  Reference is made to Note 1, "Business  Conditions
+and Financial Plans," for more detailed discussions, including risks and Company
+plans.
+
+Summary Highlights
+
+The  company  did not  achieve  the  revenue  growth  in  fiscal  2000  that was
+anticipated  after the  reorganization  into business  units in fiscal 1999. The
+lower total  revenues  ($3.9 million)  occurred  primarily in product  revenues,
+which  declined  $3.2  million,  or 2.7%.  Most of this decline is the result of
+lower broadband product sales which is discussed below.
+
+In an effort to compensate for the reduced product revenues,  operating expenses
+for the  fiscal  year were  reduced  by $7.4  million,  or 8.5%.  The  resulting
+operating  loss was $24.6  million,  or $0.9 million worse than the prior fiscal
+year.
+
+Net cash consumed in operating and investing  activities  totaled $27.6 million.
+To fund  these  activities  and pay other  debt and  dividend  obligations,  the
+Company secured a term loan of $20 million and, in private transactions,  issued
+common stock for $15 million and redeemable  preferred stock for $5 million.  Of
+the common  stock  proceeds,  $5.3  million is targeted to redeem the  preferred
+stock in the  future  under  the  terms  of the  agreement  with  the  preferred
+stockholders.
+
+At September  30, 2000,  the Company had $3.6 million in cash and the ability to
+borrow  $15.6  million  under a  revolving  credit  line  ($5.3  million of such
+revolving  credit  line  is  being  reserved  for  potential  redemption  of the
+Company's 5%  redeemable  preferred  stock in January  2001).  In  addition,  in
+October 2000 the Company  settled a lawsuit for proceeds of $5.5 million (before
+expenses).  However,  the Company does not currently  have  sufficient  funds to
+sustain  operations  for an extended  period.  In order to obtain such funds the
+Company will be required to sell  additional  stock,  take on additional debt or
+sell assets,  such as a division.  The Company is actively  pursuing  additional
+sources of financing.  In addition,  the Company is  restructuring  its business
+units to generate operational  efficiencies  targeted to result in positive cash
+flows.  Although  the  Company  has  historically  been able to satisfy its cash
+requirements,  there can be no assurance that such efforts to obtain  sufficient
+financing for operations will be successful in the future.
+
+Summary  financial  results by business  unit for fiscal  2000,  fiscal 1999 and
+fiscal 1998, along with a reconciliation to reported net loss, are as follows:
+
+Revenues                 FY 2000        FY 1999          FY 1998
+--------                 -------        -------          -------
+
+Broadband Systems Division    $55.6       $59.1            $82.6
+Network Access Division        59.4        59.9             65.9
+VITAL Network Services         48.8        46.7             37.9
+Other                           3.4         5.3              7.9
+                               ----      ------         --------
+Total                        $167.2      $171.0           $194.3
+
+                                       2
+<PAGE>
+
+Operating Income/(Loss)      FY 2000    FY 1999        FY 1998
+-----------------------      -------    -------        -------
+
+Broadband Systems Division   $(26.4)    $(29.4)        $(25.7)
+Network Access Division         2.6        1.7           (1.4)
+VITAL Network Services          2.9        5.9            3.3
+Other                           2.3        3.2            3.1
+                             --------    -------      --------
+Total                         (18.6)     (18.6)         (20.7)
+
+Reconciliation to net loss:
+ General corporate expenses    (4.5)      (3.9)          (4.3)
+ Interest expense, net         (8.7)      (7.0)          (5.9)
+ Other, net                    (3.3)       8.0           (1.8)
+                             -------      ------       -------
+ Net loss before tax          (35.1)     (21.5)         (32.7)
+ Income tax provision           1.8        1.1            0.7
+                             --------     ------      ---------
+ Net loss                   $ (36.9)    $(22.6)        $(33.4)
+                            ========     =======       =======
+
+The  Broadband  Systems  Division  continues to generate  significant  operating
+losses due to the high level of  research  and  development  spending to support
+both  new  product  development  and  product  enhancements.   (See  "Multimedia
+Division"  below  for  discussion  of video  products  developed  by BSD.)  Also
+supported is a worldwide sales and marketing organization.
+
+Broadband Systems Division ("BSD")
+
+Fiscal 2000 vs. Fiscal 1999: BSD revenues were  disappointing in the second half
+of the fiscal year and this  contributed to annual  revenues being lower by $3.5
+million,  or 5.9% from the prior year.  Most ($2.4  million)  of this  reduction
+results  from  lower  sales of the  division's  legacy  TDM  products  as demand
+migrates to newer  technologies.  The  division  also  witnessed a reduction  of
+shipments  into  its  established  customer  carrier  base  in  Europe  due to a
+reduction in expansion of networks  requiring BSD  equipment,  and into the CLEC
+(competitive  local exchange  carrier)  market,  which was affected by a general
+economic  slowdown.  Also limiting  BSD's revenue growth was the bankruptcy of a
+major customer in May 2000.
+
+Despite  the  lower  revenue,  BSD was  still  able to  achieve  a $3.0  million
+reduction in its annual operating loss by streamlining operations and refocusing
+its research and development activities.
+
+Fiscal 1999 vs. Fiscal 1998:  BSD's  operating loss amounted to $(29.4)  million
+and $(25.7) million in fiscal 1999 and 1998, respectively, an increase of $(3.7)
+million.  Revenue amounted to $59.1 million and $82.6 million in fiscal 1999 and
+1998, respectively,  a reduction of $(23.5) million, or 28.5%. The reduction was
+comprised of a $(16.1)  million  reduction  in legacy TDM product  revenue and a
+$(7.4) million reduction in ATM product revenue.  Geographically,  most (68%) of
+the  revenue  decline  occurred  in Central  America,  Latin  America  and Asia,
+primarily  attributable to technology changes and difficult economic  conditions
+experienced  in  those  regions.  BSD's  legacy  TDM  product  line  experienced
+significant revenue declines in both fiscal 1999 and 1998.
+
+The December 1998 reorganization resulted in a $9.1 million, or 13.2%, reduction
+in BSD operating  expenses for fiscal 1999.  This cost reduction  offset all but
+$3.7 million of the impact of the revenue loss referenced above.
+
+Network Access Division ("NAD")
+
+Fiscal 2000 vs. Fiscal 1999:  NAD revenues were modestly  lower  year-over-year,
+primarily related to a shortfall in materials  availability in the fourth fiscal
+quarter.  Parts shortages at an outsource contract  manufacturer  affected NAD's
+ability to fulfill orders in the fourth  quarter.  Another part of the shortfall
+was from  business with Verizon  where there was  interruption  in normal buying
+patterns which we believe may have resulted from the Verizon employee strike and
+the merger of Bell Atlantic and GTE (to form Verizon).
+
+NAD showed an operating profit for the fiscal year of $2.6 million,  an increase
+from $1.7 million in the prior fiscal year due to operating cost reductions.
+
+                                       3
+<PAGE>
+
+Fiscal 1999 vs. Fiscal 1998: NAD's fiscal 1999 operating income amounted to $1.7
+million as  compared  to an  operating  loss of $(1.4)  million in fiscal  1998,
+reflecting an  improvement  of $3.1 million.  The  improvement  reflects the net
+effect of reduced  revenues  (NAD  revenue  amounted to $59.9  million and $65.9
+million in fiscal 1999 and 1998,  respectively)  and a $6.9  million,  or 20.5%,
+reduction in operating expenses.
+
+The fiscal 1999 revenue  decline is principally  attributable  to lower sales of
+legacy analog  products to domestic  telephone  companies.  Internationally,  an
+increase in business in the Canadian  marketplace  (growth of $5.3  million) was
+offset  with a decline in business in Central  America,  Latin  America and Asia
+(down $5.5  million).  The reduction in NAD's  operating  expenses  reflects the
+impact  of the  Company's  restructuring  into  independent  business  units  in
+December 1998. Refer to Note 3, "Restructuring of Operations and Other Charges,"
+of the Notes to Consolidated Financial Statements for detailed discussion of the
+charges.
+
+VITAL Network Services L.L.C. ("VITAL")
+
+Fiscal 2000 vs. Fiscal 1999: VITAL revenues  improved $2.1 million,  or 4.6%, in
+fiscal year 2000 over fiscal year 1999. Fiscal fourth quarter revenues reached a
+new record level at $13.2  million.  The "Y2K"  lockdown of  communications  and
+computer networks slowed service business earlier in the year. However, revenues
+grew 16.2% in the second half over the first half of the fiscal year.
+
+VITAL has been on a mission to grow  revenues  through  new  relationships  with
+equipment providers apart from General DataComm. Such clients accounted for over
+45% of VITAL's  total  revenues  in fiscal  2000 and  reached  48% in the fourth
+fiscal quarter. This compares to 30% in fiscal 1999.
+
+VITAL operating income was $2.9 million in fiscal 2000, compared to $5.9 million
+in fiscal 1999. The reduction was  attributable to investments  made in business
+infrastructure, including computer systems, expansion of the sales organization,
+as well as other  strategic  investments.  Operating  income was also negatively
+impacted by the  slowdown in business in the first half of the fiscal  year,  as
+mentioned  above,  and the decision to retain full  operating  staff during this
+period in anticipation of revenue opportunities later in the fiscal year.
+
+Fiscal 1999 vs.  Fiscal 1998:  VITAL's  revenue  increased by $8.8  million,  or
+23.3%, in fiscal 1999.  Operating income amounted to $5.9 million,  or 12.6%, of
+revenue in fiscal  1999 as  compared to $3.3  million,  or 8.7% of  revenue,  in
+fiscal 1998.  Independent  third-party  customers  accounted  for all of VITAL's
+revenue  growth;  revenue from services  provided to GDC  customers  declined in
+fiscal 1999.  Gross margin rates were  relatively  consistent  with fiscal 1998;
+operating  expenses were up $0.6 million or 7.2%,  reflecting  increased selling
+cost. The revenue growth,  consistent  gross margin rates and operating  expense
+growth  resulted in a $2.6 million,  or 78%,  increase in fiscal 1999  operating
+income.
+
+Multimedia Division ("MMD")
+
+MMD has established itself with award-winning,  state-of-the-art  video products
+which the Company  believes  represent  excellent  future  potential  and should
+generate significant revenue growth in fiscal 2001 and beyond.
+
+The costs to  develop  these  products  ($3.1  million  in fiscal  2000 and $2.3
+million in fiscal 1999) have been  historically  shown as part of the  Broadband
+Systems Division. Separate financials will be presented for MMD beginning in the
+2001 first fiscal quarter ending December 31, 2000.
+
+Other Revenues
+
+Fiscal 2000 "other  revenues"  consist of revenues  from the  Company's  leasing
+subsidiary,  DataComm Leasing Corporation ("DLC"),  which provides  creditworthy
+customers  with the option of leasing the Company's  products under a variety of
+programs.  DLC's  revenues were $3.4  million,  $4.2 million and $4.4 million in
+fiscal  2000,  1999 and 1998,  respectively.  DLC's  operating  income  was $2.3
+million,  $3.2  million  and  $3.1  million  in  fiscal  2000,  1999  and  1998,
+respectively.
+
+Fiscal  1999 and 1998  "other  revenues"  also  included  $1.1  million  and 3.2
+million,  respectively, of revenues generated from a division sold during fiscal
+1999. Operating income of this division approximated breakeven in each year.
+
+                                       4
+<PAGE>
+
+Reconciliation to Net Loss
+
+Corporate  expenses:  Such  expenses are comprised of executive  management  and
+staff  support  positions  and include  such items as legal and audit  fees,  in
+addition to compensation  costs. The increase in expenses in fiscal 2000 was due
+to  increases  in  outside  service  fees in  addition  to  normal  compensation
+increases.
+
+Interest expense,  net:  Interest expense,  net increased $1.7 million in fiscal
+2000 and $1.1  million  in fiscal  1999,  reflecting  higher  levels of debt and
+higher interest rates associated with more recent financings.
+
+Other, net:  "Other, net" is comprised of the following:
+                                                      ($ millions)
+                                             FY 2000    FY 1999        FY 1998
+                                             -------    -------        -------
+Restructuring charges                         $(0.5)       $(2.0)        $(2.5)
+Charges related to a customer bankruptcy       (1.5)         --             --
+Debt conversion expense                        (2.4)         --             --
+Gain on sale of a division                       --          9.0            --
+Operating income from a division sold            --          0.4            --
+Foreign currency exchange gain (loss)           0.6          0.1          (0.4)
+Other                                           0.5          0.5           1.1
+                                              ------       -----        -------
+                                              $(3.3)        $8.0         $(1.8)
+                                               ====         ====        ======
+
+"Restructuring  charges"  are  comprised  of  severance  costs  associated  with
+announced  employee  termination  actions.  The primary  components  of "charges
+related to a customer bankruptcy" are uncollectible receivable write-offs, costs
+incurred to reclaim inventory and legal fees. "Debt conversion  expense" relates
+to non-cash charges representing the value of incremental shares of common stock
+issued  to  retire  convertible  debt.  As a result,  stockholders'  equity  was
+increased  and debt was decreased by  approximately  $22 million in fiscal 2000.
+"Gain on sale of a  division"  relates to the sale of the  Company's  Technology
+Alliance Group ("TAG") in fiscal 1999.  "Operating  income from a division sold"
+in fiscal 1999 is comprised of operating  income generated from TAG prior to the
+sale.
+
+See the Notes to Consolidated  Financial  Statements for further descriptions of
+the items described above that are included in "Other, net."
+
+Income taxes: For information  concerning the provisions for income taxes, which
+generally  represent  provisions  for foreign  income taxes and  domestic  state
+taxes,  refer to Note 9, "Income Taxes," of the Notes to Consolidated  Financial
+Statements.   The  Company  has   significant   domestic  net   operating   loss
+carryforwards  (approximately $195 million at September 30, 2000) and tax credit
+carryforwards  (approximately  $14.5 million at September 30, 2000) available to
+reduce future U.S.  federal income taxes.  The net operating loss  carryforwards
+begin to expire in the year 2004.
+
+Market Risk
+
+The  Company is exposed to various  market  risks,  including  potential  losses
+arising  from  adverse  changes  in market  rates and  prices  (such as  foreign
+currency exchange and interest rates), dependence upon a limited number of major
+product  distributors  and  resellers and  dependence  upon  outsource  contract
+manufacturers.  The  Company  historically  has not  entered  into  derivatives,
+forward   exchange   contacts  or  other  financial   instruments  for  trading,
+speculation or hedging purposes.
+
+Foreign Currency Risk
+
+The Company's foreign  subsidiaries are exposed to foreign currency  fluctuation
+since they are invoicing  customers in local  currencies  while  liabilities for
+product  purchases from the parent Company are transacted in U.S.  dollars.  The
+impact  of  foreign  currency  fluctuations  on  these  U.S.  dollar-denominated
+liabilities  is  recorded as a component  of "Other  Income and  Expense" in the
+Company's  consolidated  statements of  operations  and resulted in net currency
+exchange  gains or (losses) of $643,000,  $66,000 and $(400,000) in fiscal 2000,
+1999 and 1998, respectively.
+
+                                       5
+<PAGE>
+
+No individual  foreign  subsidiary  comprises 10 percent or more of consolidated
+revenue or assets, and most subsidiary  operations represent less than 5 percent
+of consolidated revenue or assets.  Therefore,  the Company historically has not
+entered into hedge  contracts or any form of derivative  or similar  investment.
+Separately, the introduction of the Euro as a common currency for members of the
+European Monetary Union,  which occurred during fiscal 1999, has not had, and is
+not in the future expected to have, a significant  impact the Company's exposure
+to foreign currency transactions.
+
+Reference is made to Note 2,  sub-caption  "Foreign  Currency,"  of the Notes to
+Consolidated Financial Statements for further discussion.
+
+Interest Risk
+
+The fair  market  value of  long-term  fixed  interest-rate  debt is  subject to
+interest-rate risk. Generally, the fair market value of fixed interest-rate debt
+will increase as interest  rates fall and decrease as interest  rates rise.  The
+estimated fair value of the Company's total  long-term debt  (including  current
+portion)  approximated  $55.2  million at September  30, 2000,  as compared to a
+recorded value of $55.0 million.  The Company  estimates that a 1% increase from
+prevailing  interest  rates at September 30, 2000 would reduce the fair value of
+total  long-term  debt by  approximately  $60,000.  See  Note 2 to the  Notes to
+Consolidated   Financial  Statements  under  the  sub-caption  "Fair  Values  of
+Financial Instruments" for further discussion.
+
+Financial Condition and Liquidity
+
+The  Company's   independent  auditors  have  expressed  uncertainty  about  the
+Company's  ability  to  continue  as a going  concern  in their  opinion  on the
+Company's  financial  statements.  On  January 5, 2001,  the  Company's  primary
+lenders  served the Company with a notice of default  under the  Company's  Loan
+Agreement  as a result of the Company's  inability  to provide such lenders with
+Company financial  statements  supported by an unqualified  opinion.  While such
+lenders have not  terminated  the revolving  line of credit  portion of the Loan
+Agreement,  pursuant to which  advances are still  continuing,  the lenders have
+reserved  their right to declare such advances due and payable  and/or limit the
+amount of such future  advances,  and have  increased the interest rates on such
+advances and the  outstanding  term loans.  There can be no  assurance  that the
+lenders will continue to make such advances or that they will not accelerate the
+maturity of amounts due under the Loan  Agreement.  Acceleration of such amounts
+may in turn  result  in the  acceleration  of  maturity  of debt  owed to  other
+creditors.
+
+Since the Company does not currently have any  alternative  sources of operating
+funds,  these matters  raise  substantial  doubt about the Company's  ability to
+continue as a going concern.  Reference is made to Note 1, "Business  Conditions
+and Financial Plans," for more detailed discussions, including risks and Company
+plans.
+
+Subject to the  above-referenced  risks, future cash requirements are planned to
+be satisfied  from a combination of cash balances ($3.6 million at September 30,
+2000),  additional  borrowings  available under the Company's  revolving line of
+credit and, subject to  availability,  other funds resulting from new borrowings
+and/or the sale of assets and/or securities.  In addition,  in October 2000, the
+Company  settled  a  lawsuit  and  received  proceeds  of $5.5  million  (before
+expenses).  Based upon the  provisions of the Company's  Loan  Agreement,  $15.8
+million of  additional  funds were  available to borrow at  September  30, 2000;
+however,  $5.3 million of such funds were reserved for  potential  redemption of
+the Company's  outstanding  redeemable  5% preferred  stock on January 31, 2001.
+Details of the  Company's  primary loan and security  agreement are described in
+Note 8 of the Notes to Consolidated Financial Statements.
+
+Based on current projections, the Company will require, in addition to continued
+access to its existing  Loan  Agreement  and related  revolving  line of credit,
+additional  funds early in the second  fiscal  quarter  ending March 31, 2001 in
+order to sustain future  operations.  In order to obtain such funds, the Company
+will be  required  to sell  additional  stock,  secure  additional  debt or sell
+assets, such as a division.
+
+In anticipation of the requirement to obtain  additional funds, in June 2000 the
+Company  engaged CIBC World  Markets to provide  strategic  direction  which may
+involve  the sale of a  division  or the total  Company.  Although  to date this
+initiative has not been successful in providing  additional  funds,  the Company
+continues to actively pursue  opportunities  that are presented and is currently
+engaged in such discussions.
+
+                                       6
+<PAGE>
+
+Furthermore,  the Company has plans to further restructure its business to focus
+on  revised  product  development   strategies,   and  to  generate  operational
+efficiencies and reduced overheads targeted to result in positive cash flows. As
+part  of  this  program,   on  November  17,  2000,  the  Company   announced  a
+restructuring  that  involved a reduction  in  headcount  of  approximately  100
+persons,  or 10% of the  workforce.  Additional  actions were  effected in early
+January  2001.  However,  even with  such  actions,  the  Company  will  require
+additional cash funds.
+
+Reference is made to Note 8 to the Notes to  Consolidated  Financial  Statements
+for  discussions  regarding the Company's  Loan  Agreement and all other Company
+indebtedness outstanding.
+
+The Company is actively pursuing all additional  sources of financing.  Although
+the Company has historically been able to satisfy its cash  requirements,  there
+can be no  assurance  that such  efforts  to  obtain  sufficient  financing  for
+operations  will be successful in the future,  or successful on terms that would
+be considered beneficial to the Company and its shareholders.  Reference is made
+to  Note 1 of  the  Notes  to  Consolidated  Financial  Statements  for  further
+discussion of business conditions and the Company's financial plans.
+
+Operating
+
+Net cash used in operating  activities amounted to $8.9 million and $1.6 million
+in fiscal 2000 and 1999, respectively.
+
+Non-debt working capital,  excluding cash and cash equivalents,  decreased  to
+$18.7  million at September  30, 2000 as compared to $23.5  million at September
+30, 1999. The $4.8 million reduction is principally comprised of a $7.2 million
+reduction in accounts receivable, a $4.4 million increase in trade accounts
+payable, and $2.6 million of other working capital reductions (mostly leasing
+assets due to existing leases reaching maturity or being canceled), offset
+by an increase in inventories of $9.4 million.
+
+The increase in inventories  reflects the effect of lower product shipments than
+anticipated,  in part due to the cancellation of a large order due to a customer
+bankruptcy,  and the  impact  of  difficulties  experienced  with the  Company's
+primary  outsourcing   supplier,   which  required  the  Company  to  invest  in
+inventories  to assure  continuity of shipments to  customers.  The reduction in
+accounts  receivable reflects lower sales levels in the current fiscal year. The
+increase in accounts  payable  reflects  amounts  owed for the higher  inventory
+levels being carried.
+
+Investing
+
+The  Company  continued  to  invest  in new  technologies  during  fiscal  2000.
+Investments in property,  plant and equipment amounted to $6.2 million in fiscal
+2000  compared  to $7.5  million  in fiscal  1999.  Investments  in  capitalized
+software remained consistent, amounting to $12.5 million in both fiscal 2000 and
+1999.  All  investment  activity  was  targeted  to  satisfy  minimum  operating
+requirements  and to  embrace  new  undertakings  with  the  greatest  potential
+returns.
+
+During fiscal 1999, the Company generated $15.1 million in net proceeds from the
+sale of a non-strategic  division ($12.0 million) and manufacturing assets ($3.1
+million) as part of a manufacturing  outsourcing  program.  Reference is made to
+Note 4 to the Notes to Consolidated Financial Statements for further discussion.
+
+Financing
+
+Net cash  provided by financing  activities  amounted to $27.5 million in fiscal
+2000.  The  principal  sources of funds were from the addition of $20 million in
+term loan debt and $1.0 million of capital equipment financing, the sales of $15
+million of common stock and $5 million of redeemable preferred stock in separate
+private transactions, and monies collected from employees under stock option and
+stock purchase plans. The net proceeds from these  transactions  ($41.8 million)
+were used to fund the operating and investing  activities  (described above), to
+reduce  the  revolving  credit  loan by $8.2  million,  to make $4.8  million in
+principal payments on debt and to pay $1.3 million in preferred stock dividends.
+Preferred  stock  dividends  were  suspended  after the June 30, 2000  quarterly
+payment was made to conserve cash for operating  purposes.  Net cash provided by
+financing activities for fiscal 1999 amounted to $6.6 million, comprised of $7.7
+million in net borrowings  and $0.7 million of proceeds  received for stock sold
+under the Company's  employee stock purchase  plan,  partially  offset with $1.8
+million in preferred stock dividends.
+
+                                       7
+<PAGE>
+
+During the fiscal year ended  September  30,  2000,  $22.0  million of the $25.0
+million in convertible 7-3/4% debentures  outstanding at September 30, 1999 were
+converted into and exchanged for common stock, thereby reducing indebtedness and
+increasing stockholders' equity.
+
+Reference is made to Note 8 of the Notes to  Consolidated  Financial  Statements
+for  discussion  regarding  the  Company's  Loan  Agreement,   as  amended,  the
+conversion of the convertible  7-3/4%  debentures and other  indebtedness of the
+Company.
+
+Operating Lease Obligations
+
+See Note 10 of the Notes to Consolidated  Financial Statements for discussion of
+the Company's operating lease obligations.
+
+Concentrations of Credit
+
+Financial instruments which potentially subject the Company to concentrations of
+credit risk consist principally of cash instruments and accounts receivable. The
+Company places its cash investments  with  high-quality  financial  institutions
+within the United States.
+
+Approximately  $9.8  million,  or 32% of  consolidated  accounts  receivable  at
+September  30, 2000  ($15.5  million,  or 41%,  at  September  30,  1999),  were
+concentrated  in  telephone  companies  in  North  America  and  Europe.   These
+receivables  are not  collateralized  due to the  high  credit  ratings  and the
+extensive financial resources available to such telephone companies.
+
+Impact of Inflation and Changing Prices
+
+In  management's  opinion,  the impact of inflation and changing  prices for the
+three most recent fiscal years is not significant to the financial statements as
+reported.
+
+Future Adoption of New Accounting Statements
+
+Newly issued  pronouncements to become effective in fiscal 2001 or later are not
+currently expected to have a material impact on the Company's financial position
+or  results of  operations.  Refer to Note 2,  "Future  Adoption  of  Accounting
+Statements,"  of the Notes to  Consolidated  Financial  Statements  for  further
+detailed information.
+
+Certain Risk Factors
+
+Continuing  Losses:  The Company has sustained net losses for the past 24
+quarters  ended  September  30,  2000.  There can be no assurance as to when the
+Company will achieve net income.
+
+Credit  Availability:  As noted above, the Company's  independent  auditors have
+expressed uncertainty about the Company's ability to continue as a going concern
+in their opinion of the Company's financial statements.  On January 5, 2001, the
+Company's primary lenders served the Company a notice of default under the under
+the Company's Loan  Agreement as a result of the Company's  inability to provide
+such lenders  with  Company  financial  statements  supported by an  unqualified
+opinion.  Amounts outstanding under the Loan Agreement amounted to $40.7 million
+at  September  30, 2000.  Separately,  the  Company's  Loan  Agreement  requires
+compliance with specific  financial  covenants,  including the requirement  that
+reported stockholders' equity, as defined, equals or exceeds $10.0 million (such
+stockholders'  equity,  as defined,  amounted to $23.0  million at September 30,
+2000).
+
+While such lenders have not  terminated  the revolving line of credit portion of
+the Loan Agreement, pursuant to which advances are still continuing, the lenders
+have reserved  their right to declare such advances due and payable and/or limit
+the amount of such future  advances,  and have  increased the interest  rates on
+such advances and the outstanding term loans. There can be no assurance that the
+lenders will continue to make such advances or that they will not accelerate the
+maturity of amounts due under the Loan  Agreement.  Acceleration of such amounts
+may in turn  result  in the  acceleration  of  maturity  of debt  owed to  other
+creditors.
+
+These matters raise substantial doubt about the Company's ability to continue as
+a going concern. Should the lenders lenders take further action, the Company may
+be unable to borrow funds under such  agreement.  In such case the Company would
+be required to seek other financing to fund its operations,  and there can be no
+assurance the Company will be
+
+                                       8
+<PAGE>
+
+able to obtain such financing or, if obtained,  on terms deemed favorable by the
+Company. Reference is made to Note 1, "Business Conditions and Financial Plans,"
+for more detailed discussions, including risks and Company plans.
+
+Reliance on Outsourced  Manufacturing:  During fiscal 1999 and 2000, the Company
+outsourced  substantially all of its manufacturing  operations.  Therefore,  the
+Company is largely  dependent on third-party  suppliers to meet product delivery
+deadlines and quality  requirements.  Any shortfall in the satisfaction of these
+requirements  could negatively impact revenue and profitability in that quarter,
+and possibly thereafter.  The Company's weakening financial position,  including
+the above-referenced  notice of default from the Company's primary lenders, also
+poses a risk that such manufacturing  outsource suppliers could become unwilling
+to continue doing business with the Company.
+
+Volatility of Stock Price:  The trading price of the Company's  Common Stock has
+fluctuated  widely  in  response  to,  among  other  things,  quarter-to-quarter
+operating results and financial position, industry conditions,  awards of orders
+to  the  Company  or  its  competitors,   new  product  or  product  development
+announcements by the Company or its competitors,  changes in earnings  estimates
+by analysts and, from time to time, the volatile nature of equity  markets.  Any
+shortfall in revenue or earnings  from  expected  levels could have an immediate
+and  significant  adverse  effect on the trading price of the  Company's  Common
+Stock in any given period.
+
+Safe Harbor Statement Under the Private Securities Litigation Reform Act of 1995
+
+Portions of the  foregoing  discussion  include  descriptions  of the  Company's
+expectations regarding future trends affecting its business. The forward-looking
+statements  made in this  annual  report,  as well as all other  forward-looking
+statements  or  information  provided by the Company or its  employees,  whether
+written or oral,  are made in reliance  upon the safe harbor  provisions  of the
+Private Securities Litigation Reform Act of 1995. Forward-looking statements and
+future  results  are  subject  to, and should be  considered  in light of risks,
+uncertainties,  and other factors which may affect future results including, but
+not limited to, competition, rapid changing technology, regulatory requirements,
+and uncertainties of international trade.
+
+Common Stock Prices
+
+General DataComm Industries, Inc.'s common stock is listed on the New York Stock
+Exchange and trades under the symbol  "GDC." The table below  displays the high,
+low and  end-of-quarter  closing sales prices as reported during each quarter of
+the last two fiscal years.
+
+                        2000                               1999
+                        ----                               ----
+Quarter        High     Low       Closing      High         Low       Closing
+------------------------------------------------------------------------------
+First       6 15/16     2 9/16    6 5/8      4 1/2        2 1/8      2 5/16
+Second     15 3/16      5 11/16   9 1/4      3 7/16       2 3/16     2 1/2
+Third       8 9/16      3 7/8     6 3/8      3 5/16       2 1/8      2 7/8
+Fourth      6 5/16      4 1/4     5 3/16     2 15/16      2 3/16     2 13/16
+
+No cash dividends  have ever been paid on the Company's  common stock or Class B
+stock.  The Company's  principal  loan  agreement does not allow payment of cash
+dividends,  with the exception of cash  dividends  authorized for payment on the
+Company's  9%  preferred  stock.  In the event  this would  change,  it is still
+management's  intention to reinvest  future  earnings in the business to support
+growth plans.
+
+The Company had  approximately  1,525  shareholders  of record at September  30,
+2000.
+
+                                       9
+<PAGE>
+
+               General DataComm Industries, Inc. and Subsidiaries
+          Consolidated Statements of Operations and Accumulated Deficit
+
+(In thousands except per share data)
+<TABLE>
+
+<S>                                                              <C>               <C>          <C>
+
+Years ended September 30,                                            2000          1999         1998
+----------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------
+
+Revenues:
+  Net product sales                                              $  114,847     $  118,052   $ 146,965
+  Service revenue                                                    48,807         46,676      37,852
+  Other revenue                                                       3,508          6,289       9,438
+----------------------------------------------------------------------------------------------------------
+                                                                    167,162        171,017     194,255
+
+Cost of revenues:
+  Cost of product sales                                              61,453         59,967      73,226
+  Cost of service revenue                                            36,140         32,538      26,856
+  Cost of other revenue                                                 257            777         540
+----------------------------------------------------------------------------------------------------------
+                                                                     97,850         93,282     100,622
+
+Amortization of capitalized software development costs               12,136         12,172      11,867
+
+Operating expenses:
+  Selling, general and administrative                                59,335         60,682      74,069
+  Research and product development                                   20,490         26,581      31,937
+  Other charges                                                       2,000          2,000       2,500
+----------------------------------------------------------------------------------------------------------
+                                                                     81,825         89,263     108,506
+
+Operating loss                                                      (24,649)       (23,700)    (26,740)
+
+Other income (expense):
+  Interest, net                                                      (8,660)        (6,998)     (5,900)
+  Debt conversion expense                                            (2,403)           --           --
+  Gain on sale of assets                                                --           9,001          --
+  Other, net                                                            573            241         (52)
+----------------------------------------------------------------------------------------------------------
+                                                                    (10,490)         2,244      (5,952)
+
+Loss before income taxes                                            (35,139)       (21,456)    (32,692)
+Income tax provision                                                  1,800          1,150         700
+----------------------------------------------------------------------------------------------------------
+Net loss                                                         $  (36,939)    $  (22,606)  $ (33,392)
+----------------------------------------------------------------------------------------------------------
+Basic and diluted loss per share                                 $    (1.51)   $    (1.12)  $   (1.64)
+----------------------------------------------------------------------------------------------------------
+Average number of common and common equivalent shares                25,400         21,857      21,495
+outstanding
+----------------------------------------------------------------------------------------------------------
+
+Accumulated deficit at beginning of year                         $ (127,472)    $(103,066)   $(67,874)
+Net loss                                                            (36,939)      (22,606)    (33,392)
+Payment of preferred stock dividends                                 (1,343)       (1,800)     (1,800)
+----------------------------------------------------------------------------------------------------------
+Accumulated deficit at end of year                               $ (165,754)    $(127,472)  $(103,066)
+----------------------------------------------------------------------------------------------------------
+</TABLE>
+
+The  accompanying  notes are an  integral  part of these consolidated financial
+statements
+                                     10
+<PAGE>
+
+
+
+               General DataComm Industries, Inc. and Subsidiaries
+                           Consolidated Balance Sheets
+
+<TABLE>
+
+<S>                                                                              <C>                   <C>
+
+(In thousands except shares)
+September 30,                                                                     2000                1999
+----------------------------------------------------------------------------------------------------------------
+                                                                                (Restated Note 18)
+Assets:
+Current assets:
+  Cash and cash equivalents                                                       $  3,572           $  3,790
+  Accounts receivable, less allowance for doubtful
+     Receivables of $2,037 in 2000 and $1,375 in 1999                               25,631             32,795
+  Inventories                                                                       31,718             22,329
+  Deferred income taxes                                                              1,521              1,578
+  Other current assets                                                               8,311             12,624
+----------------------------------------------------------------------------------------------------------------
+Total current assets                                                                70,753             73,116
+----------------------------------------------------------------------------------------------------------------
+Property, plant and equipment, net                                                  29,658             32,679
+Capitalized software development costs, net                                         22,160             21,815
+Other assets                                                                        10,512             12,764
+----------------------------------------------------------------------------------------------------------------
+                                                                                   $133,083          $140,374
+----------------------------------------------------------------------------------------------------------------
+Liabilities and Stockholders' Equity:
+Current liabilities:
+  Current portion of long-term debt                                                $51,982           $  4,533
+  Accounts payable, trade                                                           23,040             18,669
+  Accrued payroll and payroll-related costs                                          4,853              4,626
+  Deferred income                                                                    6,567              6,082
+  Other current liabilities                                                         14,070             16,449
+----------------------------------------------------------------------------------------------------------------
+Total current liabilities                                                          100,512             50,359
+----------------------------------------------------------------------------------------------------------------
+Long-term debt, less current portion                                                 3,000             64,532
+Deferred income taxes                                                                2,266              2,337
+Other liabilities                                                                    1,142              1,053
+----------------------------------------------------------------------------------------------------------------
+Total liabilities                                                                  106,920            118,281
+----------------------------------------------------------------------------------------------------------------
+Commitments and contingent liabilities
+  Redeemable 5% preferred stock; par value $1.00 per share, issued and
+  outstanding:  200,000 shares in 2000; liquidation value $5.0 million               5,000                --
+9% preferred stock, common stock and other stockholders' equity
+  Preferred  stock,  par value  $1.00 per share,  3,000,000  shares
+     authorized (including 5% preferred stock); issued  and  outstanding:  9%
+     cumulative convertible exchangeable preferred stock - 787,900  shares
+     in 2000 and 800,000 shares in 1999; total liquidation preference of
+     $19.7 million                                                                     788                800
+  Class B stock, par value $.10 per share, 10,000,000 shares
+     authorized; issued and outstanding: 2,057,103 in 2000
+     and 2,092,383 in 1999                                                             206                209
+  Common stock, par value $.10 per share, 50,000,000 shares
+     authorized; issued and outstanding: 27,709,710 in 2000
+     and 20,309,143 in 1999                                                          2,771              2,031
+  Capital in excess of par value                                                   189,631            151,706
+  Accumulated deficit                                                             (165,754)          (127,472)
+  Accumulated other comprehensive loss                                              (5,040)            (2,736)
+  Common stock held in treasury, at cost:
+     194,614 shares in 2000 and 330,382 in 1999                                     (1,439)            (2,445)
+----------------------------------------------------------------------------------------------------------------
+Total 9% preferred stock, common stock and other stockholders' equity               21,163             22,093
+----------------------------------------------------------------------------------------------------------------
+                                                                                  $133,083           $140,374
+----------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+The  accompanying  notes are an  integral  part of these consolidated financial
+statements.
+
+                                       11
+<PAGE>
+
+
+               General DataComm Industries, Inc. and Subsidiaries
+                      Consolidated Statements of Cash Flows
+<TABLE>
+<CAPTION>
+                                                                    Increase (Decrease) in Cash and Cash Equivalents
+                                                                    ------------------------------------------------
+(In thousands)
+Years ended September 30,                                           2000               1999               1998
+-------------------------------------------------------------------------------------------------------------------
+<S>                                                                <C>              <C>                <C>
+Cash flows from operating activities:
+Net loss                                                          $(36,939)          $(22,606)         $ (33,392)
+Adjustments to reconcile net loss to net cash used
+ in operating activities:
+     Depreciation and amortization                                  22,375             25,821             26,108
+     Non-cash charge for debt conversion expense                     2,403                 --                --
+     Non-cash charge for uncollectible lease receivable
+                                                                     1,500                 --                --
+     Gain on sale of assets                                             --             (9,001)               --
+     Changes in:
+        Accounts receivable                                          6,296             (1,264)             2,936
+        Inventories                                                 (9,637)             3,867              9,813
+        Accounts payable and accrued expenses                        2,369              3,745             (5,837)
+        Other net current assets                                     7,424               (720)               160
+        Other net long-term assets                                  (4,668)            (1,479)              (739)
+-------------------------------------------------------------------------------------------------------------------
+Net cash used in operating activities                               (8,877)            (1,637)              (951)
+-------------------------------------------------------------------------------------------------------------------
+Cash flows from investing activities:
+  Acquisition of property, plant and equipment, net                 (6,220)            (7,486)            (6,870)
+  Capitalized software development costs                           (12,480)           (12,534)           (12,653)
+  Net proceeds from the sale of assets                                 ---             15,113                 --
+-------------------------------------------------------------------------------------------------------------------
+Net cash used in investing activities                              (18,700)            (4,907)           (19,523)
+-------------------------------------------------------------------------------------------------------------------
+Cash flows from financing activities:
+  Revolver borrowings (repayments), net                             (8,154)            13,524             (3,212)
+  Proceeds from notes and mortgages                                 20,700             14,679             15,094
+  Principal payments on notes and mortgages                         (4,827)           (20,470)            (8,387)
+  Proceeds from issuing common and/or preferred stock               21,092                688              1,000
+  Payment of preferred stock dividends                              (1,343)            (1,800)            (1,800)
+-------------------------------------------------------------------------------------------------------------------
+Net cash provided by financing activities                           27,468              6,621              2,695
+-------------------------------------------------------------------------------------------------------------------
+Effect of exchange rates on cash                                      (109)                  (44)             10
+-------------------------------------------------------------------------------------------------------------------
+Net increase (decrease) in cash and cash equivalents                  (218)                   33           (17,769)
+Cash and cash equivalents at beginning of year (1)                   3,790                 3,757            21,526
+-------------------------------------------------------------------------------------------------------------------
+Cash and cash equivalents at end of year (1)                      $  3,572              $  3,790       $     3,757
+-------------------------------------------------------------------------------------------------------------------
+Supplemental  disclosures  of cash flow  information:
+Cash paid during the year for:
+     Interest                                                     $  7,312              $  6,244         $   5,999
+     Income taxes, net                                            $  1,163              $    788         $   1,039
+-------------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+(1) The  Company  considers  all highly  liquid  investments  purchased  with an
+    original maturity of three months or less to be cash equivalents.
+
+The  accompanying  notes are an  integral  part of these consolidated financial
+statements.
+
+                                       12
+<PAGE>
+
+               General DataComm Industries, Inc. and Subsidiaries
+                   Notes to Consolidated Financial Statements
+
+
+1.   Business Conditions and Financial Plans
+
+The Company has experienced recurring net losses of $36.9 million, $22.6 million
+and $33.4  million  during the years ended  September  30, 2000,  1999 and 1998,
+respectively. Operating and investing activities resulted in cash consumption of
+$27.6,  $6.5, and $20.5 million for the years ended September 30, 2000, 1999 and
+1998, respectively. In addition, as a result of lower shipments resulting from a
+general economic and industry  slowdown,  technology  changes and other factors,
+and high investments in product development,  the Company may continue to suffer
+significant  net losses and a negative  cash flow from  operations.  Payments of
+preferred  stock  dividends  were  suspended  after the June 30, 2000  quarterly
+payment was made.
+
+In addition, the independent auditors for the Company have expressed uncertainty
+about the  Company's  ability to continue as a going concern in their opinion on
+the Company's  financial  statements.  On January 5, 2001, the Company's primary
+lenders  served the Company with a notice of default  under the  Company's  Loan
+Agreement  as a result of the  Company's  inability to provide such lenders with
+Company financial  statements  supported by an unqualified  opinion.  While such
+lenders have not  terminated  the revolving  line of credit  portion of the Loan
+Agreement,  pursuant to which  advances are still  continuing,  the lenders have
+reserved  their right to declare such advances due and payable  and/or limit the
+amount of such future  advances,  and have  increased the interest rates on such
+advances and the  outstanding  term loans.  There can be no  assurance  that the
+lenders will continue to make such advances or that they will not accelerate the
+maturity of amounts due under the Loan  Agreement.  Acceleration of such amounts
+may in turn  result  in the  acceleration  of  maturity  of debt  owed to  other
+creditors.
+
+Since the Company  does not  currently  have any  alternative  sources of funds,
+these matters raise substantial doubt about the Company's ability to continue as
+a going  concern.  The Company's  continued  existence is dependent upon several
+factors, including the Company's ability to increase revenue levels, restructure
+operations to generate  positive cash flows,  retain access to its existing Loan
+Agreement  and to  obtain  additional  financing.  Potential  financing  sources
+include the sale of assets,  technologies,  existing  businesses,  the Company's
+common and  preferred  stock and the  issuance of  additional  debt  securities.
+Although   the  Company  has   historically   been  able  to  satisfy  its  cash
+requirements,  there can be no assurance that such efforts to obtain  sufficient
+financing for  operations  will be successful  in the future.  Furthermore,  the
+Company could violate  covenant or default  provisions of other debt  agreements
+during  fiscal 2001,  which could  accelerate  the maturity of amounts due under
+such agreements.
+
+In  response  to  current  conditions  and as a part  of its  ongoing  corporate
+strategy,  the  Company is  pursuing  several  initiatives  intended to increase
+liquidity  and better  position  the  Company to compete  under  current  market
+conditions. Several completed and ongoing initiatives are summarized below.
+
+In January 1998,  the Company  restructured  operations  to provide  operational
+efficiencies. For the fiscal year ended September 30, 1998, selling, general and
+administrative  expenses were reduced by $12.1 million, or 14%, and research and
+product  development  expenses  were reduced by $8.9  million,  or 22%, from the
+prior fiscal year.
+
+In December 1998 (fiscal 1999), the Company was reorganized into three strategic
+business  units to focus on  specific  product  and  service  strategies  and to
+streamline  operations.  As a result,  for the fiscal year ended  September  30,
+1999, selling, general and administrative expenses were further reduced by $13.4
+million,  or 18%,  and research and product  development  expenses  were reduced
+another $5.4 million, or 17%, from the prior fiscal year.
+
+The  streamlining and aggressive cost reduction  programs  continued into fiscal
+2000, where such expenses were further reduced in total another $7.4 million, or
+8.5%. In addition,  the Company  initiated a program to outsource  manufacturing
+operations.
+
+Over the last three fiscal  years,  the  Company's  headcount was reduced by 731
+persons, representing a workforce reduction of 42%.
+
+
+                                       13
+<PAGE>
+
+Furthermore,  since  September  30, 2000,  the Company has announced a workforce
+reduction of approximately  100 persons,  or 10% of the existing  headcount.  In
+addition, the Company is in the process of preparing a strategic
+reorganization  plan targeted at achieving  profitability and positive cash flow
+in the  aftermath  of its  implementation,  including  a targeted  (incremental)
+workforce reduction of approximately 200 persons in January 2001.
+
+In addition to the restructuring and cost reduction actions taken, in June 2000,
+the Company engaged CIBC World Markets to provide strategic direction, which may
+ultimately involve the sale of one or more business units or the entire Company.
+To  date  this  initiative  has  not  been  successful  in  identifying   viable
+opportunities.  However,  the Company continues to actively pursue opportunities
+that are presented and is aggressively looking to identify new opportunities.
+
+While the Company is aggressively pursuing opportunities and corrective actions,
+as  discussed  above,  there  can be no  assurance  that  the  Company  will  be
+successful  in its efforts to achieve  future  profitable  operations,  generate
+sufficient  cash  from  operations  and  obtain   additional   funding  sources.
+Separately,   the  financial  statements,  as  presented,  do  not  include  any
+adjustments that may result from the outcome of these uncertainties.
+
+2.   Description of Business and Summary of Significant Accounting Policies
+
+Description of Business
+
+The   Company   is  a   worldwide   provider   of  wide  area   networking   and
+telecommunications  products  and  services.  The  Company  designs,  assembles,
+markets,   installs   and   maintains   products   and   services   that  enable
+telecommunications  common  carriers,  corporations  and  governments  to build,
+upgrade and better manage their global  telecommunications  networks.  In fiscal
+1999 the Company commenced  operating in three business segments:  the Broadband
+Systems  Division  ("BSD"),  which designs and sells packet  voice/data  gateway
+products   including  ATM   (asynchronous   transfer  mode)  and   time-division
+multiplexing  equipment;  the Network Access Division ("NAD"), which designs and
+sells frame relay and DSL/UAS based products; and VITAL Network Services, L.L.C.
+("VITAL"),  which provides a full range of professional and traditional  support
+services worldwide for the networking  industry.  Refer to Note 12, "Segment and
+Geographical  Information,"  for further  discussion  and a summary of financial
+performance by operating segment.  In addition,  during fiscal 2000, the Company
+launched the Multimedia  Division ("MMD"),  which supplies  award-winning  video
+products for IP and ATM networks.
+
+Principles of Consolidation
+
+The consolidated  financial  statements  include the accounts of the Company and
+its majority-owned subsidiary companies. Intercompany accounts, transactions and
+profits have been appropriately eliminated in consolidation.
+
+Inventories
+
+Inventories  are  stated  at the  lower  of cost  or  market  using a  first-in,
+first-out method.
+
+Property, Plant and Equipment
+
+Property,  plant and equipment are stated at cost and  depreciated  or amortized
+using the  straight-line  method over their estimated  useful lives. The cost of
+internally  constructed  assets (test fixtures)  includes the cost of materials,
+internal labor and overhead costs.
+
+Capitalized Software Development Costs
+
+Software  development costs are capitalized for those products that have met the
+requirements of  technological  feasibility.  Such costs are amortized using the
+straight-line method, on a product-by-product basis, over the estimated economic
+life of the product.  Unamortized costs are reviewed for recoverability  and, if
+necessary,  adjusted so as not to exceed  estimated net  realizable  value.  All
+capitalized software costs are written off when they become fully amortized. The
+accumulated  amortization of capitalized  software development costs amounted to
+$15,630,000 and $18,065,000 at September 30, 2000 and 1999, respectively.
+
+                                       14
+<PAGE>
+
+Goodwill
+
+Goodwill is amortized  to expense on a  straight-line  basis over the  estimated
+useful life of the goodwill,  generally  between 6 and 15 years.  The valuation,
+recoverability  and amortization of goodwill is reviewed on a ongoing basis.
+
+The  remaining  unamortized  portion of goodwill  (included in the  Consolidated
+Balance  Sheets under "Other  assets")  amounted to $5,383,000 and $4,985,000 at
+September  30, 2000 and 1999,  respectively.  The  accumulated  amortization  of
+goodwill  amounted to $3,819,000  and $3,267,000 at September 30, 2000 and 1999,
+respectively.
+
+Revenue Recognition
+
+Revenue from the sale of product is generally recognized at the date of shipment
+unless the terms and conditions of the sale dictate recognition at a later date.
+Service  revenue is either  recognized  when the service is performed or, in the
+case of maintenance  contracts,  on a  straight-line  basis over the term of the
+contract.   Technology  licensing  fee  revenue  (primarily  applicable  to  the
+Company's  Technology  Alliance  Group  which  was sold in  December  1998)  was
+recognized  in the period  received or,  alternatively,  accrued  when  reliably
+determinable.
+
+Revenue from  sales-type  leases is recognized at the date of shipment.  Revenue
+from operating leases is recognized ratably over the lease term, and the related
+equipment  is  depreciated  using the  straight-line  method over its  estimated
+useful life, which approximates three years. The average length of initial lease
+terms in fiscal 2000 was approximately 36 months.
+
+Promotion and Advertising Costs
+
+Promotion and advertising  costs are charged to operating  expense in the fiscal
+year in which they are incurred.  Promotion and  advertising  costs  amounted to
+$4,042,000,   $3,711,000  and   $5,287,000  in  fiscal  2000,   1999  and  1998,
+respectively.
+
+Income Taxes
+
+The Company  accounts  for income  taxes under the  provisions  of  Statement of
+Financial  Accounting  Standards No. 109,  "Accounting  for Income Taxes," which
+requires the use of the  liability  method of  accounting  for  deferred  income
+taxes.
+
+The provision for income taxes includes federal, foreign, state and local income
+taxes currently payable and deferred taxes resulting from temporary  differences
+between the  financial  statement and tax basis of assets and  liabilities.  The
+Company  intends to  permanently  reinvest  the  undistributed  earnings  of its
+foreign subsidiaries ($12,537,000 at September 30, 2000).  Accordingly,  no U.S.
+federal  income taxes have been provided on such  earnings.  In addition,  taxes
+would  be  substantially  lowered  if such  earnings  were  remitted  due to net
+operating loss carryforwards currently available in the United States.
+
+Earnings (Loss) Per Share
+
+Basic and  diluted  earnings  (loss) per share is computed  in  accordance  with
+Statement of Financial Accounting Standards No. 128, "Earnings Per Share." Refer
+to Note  15 to the  Notes  to  Consolidated  Financial  Statements  for  further
+information.
+
+Concentrations of Credit Risk
+
+Financial instruments which potentially subject the Company to concentrations of
+credit risk consist principally of cash instruments and accounts receivable. The
+Company  places  its  cash  investments   with   high-quality   U.S.   financial
+institutions.
+
+Approximately  $9,800,000,  or  32%,  of  consolidated  accounts  receivable  at
+September  30,  2000   ($15,500,000,   or  41%,  at  September  30,  1999)  were
+concentrated  in  telephone  companies  in  North  America  and  Europe.   These
+receivables  are not  collateralized  due to the  high  credit  ratings  and the
+extensive financial resources available to such telephone companies.
+
+                                       15
+<PAGE>
+
+Foreign Currency
+
+Assets and  liabilities of most all of the Company's  foreign  subsidiaries  are
+generally  translated  using fiscal year-end  exchange  rates,  and revenues and
+expenses are translated using average exchange rates prevailing during the year.
+The effects of translating such foreign  subsidiaries'  financial statements are
+recorded as a separate component of stockholders'  equity and have been reported
+in other comprehensive income.
+
+Included in other income are net recognized  foreign currency exchange gains and
+(losses) of $643,000,  $66,000 and  $(400,000)  for fiscal 2000,  1999 and 1998,
+respectively.
+
+Post-Retirement and Post-Employment Benefits
+
+The Company accounts for post-retirement  benefits and post-employment  benefits
+under the  provisions  of Statement of Financial  Accounting  Standards No. 106,
+"Employers'  Accounting for  Post-Retirement  Benefits Other Than Pensions," and
+Statement of Financial Accounting Standards No. 112, "Employers'  Accounting for
+Post-Employment  Benefits,"  respectively,  each of which requires the use of an
+accrual  method of accounting  for such  benefits.  The annual expense and other
+disclosure information applicable to such benefits is not material.  Separately,
+in fiscal 1999, the Company adopted Statement of Financial  Accounting Standards
+No.  132,  "Employers'  Disclosures  about  Pensions  and Other  Post-retirement
+Benefits" (SFAS 132). SFAS 132 standardizes the disclosure of information  about
+pension and other post-retirement benefit plans.
+
+Accounting for Stock-Based Compensation
+
+As  permitted  under  Statement  of  Financial  Accounting  Standards  No.  123,
+"Accounting for Stock-Based  Compensation,"  the Company has elected to continue
+to  measure  costs  for its  employee  stock  compensation  plans by  using  the
+accounting  methods  prescribed by Accounting  Principles  Board Opinion No. 25,
+"Accounting  for Stock Issued to Employees,"  which allows that no  compensation
+cost be recognized  provided the exercise  price of options  granted is equal to
+the fair market value of the Company's stock at date of grant. Reference is made
+to Note  13 of the  Notes  to  Consolidated  Financial  Statements  for  further
+information.
+
+In March 2000, the Financial  Accounting  Standards  Board ("FASB")  issued FASB
+Interpretation  ("FIN") No. 44, "Accounting for Certain  Transactions  Involving
+Stock  Compensation - An  Interpretation of APB Opinion No. 25." The application
+of FIN 44 did not have a material impact on our financial position or results of
+operations.
+
+Operating Segments
+
+In fiscal 1999, the Company adopted Statement of Financial  Accounting Standards
+No. 131,  "Disclosures About Segments of an Enterprise and Related  Information"
+(SFAS 131),  which utilizes a "management"  approach to segment  reporting.  The
+management  approach  designates  the  internal  organization  that  is  used by
+management  for making  operating  decisions  and assessing  performance  as the
+source  of  the   Company's   reportable   segments.   SFAS  131  also  requires
+enterprise-wide  disclosures about products and services,  geographic areas, and
+major customers.
+
+Comprehensive Income
+
+Statement of Financial  Accounting  Standards No. 130, "Reporting  Comprehensive
+Income" (SFAS 130) establishes standards for reporting  comprehensive income and
+its components in a company's financial statements. The Company adopted SFAS 130
+in fiscal 1999.
+
+Use of Estimates
+
+The preparation of financial  statements in conformity  with generally  accepted
+accounting principles requires management to make estimates and assumptions that
+affect  the  reported  amounts  of assets  and  liabilities  and  disclosure  of
+contingent  assets and  liabilities at the date of the financial  statements and
+the  reported  amounts of revenues  and expenses  during the  reporting  periods
+presented.  Actual results could differ from those estimates.  For example,  the
+markets for the Company's  products are  characterized  by intense  competition,
+rapid technological  development and frequent new product introductions,  all of
+which could  impact the future  value of the  Company's  inventory,  capitalized
+software, goodwill and certain other assets.
+
+                                       16
+<PAGE>
+
+Fair Values of Financial Instruments
+
+Cash and cash  equivalents -- The carrying amount  reported in the  consolidated
+balance  sheets  for cash and cash  equivalents  approximates  fair value due to
+their short-term nature.
+
+Long-term  debt -- The estimated  fair value of the Company's  $55.0 million and
+$69.1 million total long-term debt (including  current portion) at September 30,
+2000 and 1999, respectively,  was approximately $55.2 million and $59.6 million,
+respectively.  In the case of variable  interest-rate  debt,  debt with  shorter
+maturities and recently secured fixed  interest-rate debt, the Company estimates
+the  fair  value  to  be  the  carrying  value.  For  other   long-term,   fixed
+interest-rate  debt,  the  estimated  fair value was obtained from an investment
+banker.
+
+Future Adoption of New Accounting Statements
+
+Statement of Financial  Accounting Standards No. 133, "Accounting for Derivative
+Instruments and Hedging Activities," which establishes  accounting and reporting
+standards for derivative  instruments and hedging activities,  becomes effective
+for the Company in fiscal 2001. The Company has not yet evaluated the effects of
+this pronouncement on future related disclosures.
+
+Securities and Exchange  Commission Staff Accounting  Bulletin No. 101, "Revenue
+Recognition in Financial Statements," provides the SEC staff's views in applying
+generally accepted accounting principles to selected revenue recognition issues.
+Staff Accounting  Bulletins 101A and 101B delayed the implementation of SAB 101,
+which becomes  effective  for the Company in fiscal 2001.  The Company is in the
+process  of  evaluating  SAB  101;  however,  implementation  of SAB  101 is not
+presently expected to have a material impact on the Company's reported financial
+position or results of operations.
+
+Other newly  issued  accounting  standards  are not  expected to have a material
+impact on the Company's reported financial position or results of operations.
+
+Reclassifications
+
+Certain  reclassifications  were  made to prior  years'  consolidated  financial
+statements to conform to the current year's presentation.
+
+3.   Restructuring of Operations and Other Charges
+
+Fiscal year 2000 results  include a charge of $1.5 million,  or $0.06 per share,
+for uncollectible lease receivables and related costs attributable to a customer
+bankruptcy.  Furthermore,  fiscal  year  2000  results  include a charge of $0.5
+million, or $0.02 per share, for severance costs associated with the decision to
+outsource  manufacturing  operations.  All such severance  costs were paid as of
+September 30, 2000.
+
+In December 1998, the Company  restructured  its operations  into three distinct
+business  units  to  increase  product  line  focus  and move  toward  operating
+autonomy.  Two new business  units resulted from the  reorganization:  Broadband
+Systems Division (ATM and Internetworking  products) and Network Access Division
+(access  products).  The new business  units  supplemented  the  existing  VITAL
+Network  Services  business unit,  which was launched in October 1997 to provide
+professional services on multi-vendor networking equipment on a worldwide basis.
+In addition,  the Company shut down a non-strategic  remote technology center in
+England during in July 1999. Such fiscal 1999 reorganization efforts resulted in
+a work  force  reduction  of  approximately  230  persons  and a charge  of $2.0
+million,  or $0.09 per share (basic and diluted),  primarily for post-employment
+severance benefits. All accrued costs were paid as of September 30, 2000.
+
+The fiscal year ended September 30, 1998 includes a restructuring  of operations
+charge of $2.5 million, or $0.12 per share, which is comprised of a $1.0 million
+provision  for   post-employment   benefits   related  to  the   elimination  of
+approximately  200  full-time  positions  and $1.5 million for the  write-off of
+intangible  assets and other costs associated with the elimination of low-volume
+product lines. All such costs have been paid.
+
+4.   Sale of Assets
+
+On December 30, 1998,  the Company sold its  Technology  Alliance Group division
+("TAG"), which was identified as non-strategic to the reorganized business units
+referenced in Note 3 above. TAG, which developed, patented and
+
+                                       17
+<PAGE>
+
+
+licensed advanced modem and access  technologies,  was principally  comprised of
+scientists and engineers and held rights to certain technologies patented by the
+division.  The sale resulted in a pre-tax gain of approximately $9.0 million, or
+$0.41 per share, and generated cash proceeds,  net of expenses, of approximately
+$12.0 million.  Technology  licensing revenues from the TAG division amounted to
+$869,000  and  $3,166,000  in  fiscal  1999 and  1998,  respectively.  Licensing
+revenues  are  reported  as  "Other  Revenue"  in  the  Company's   Consolidated
+Statements of Operations.
+
+On  September  30,  1999,  the Company  entered into an agreement to outsource a
+substantial portion of its manufacturing  operations.  As part of the agreement,
+the outsource  manufacturer  purchased the  Company's  applicable  manufacturing
+assets for $3.1  million,  which  approximated  book  value;  in  addition,  the
+outsource  manufacturer  procured specific raw material  inventories at net book
+value. As a result, no gain or loss was recognized on the transaction.
+
+5.  VITAL Network Services, L.L.C. Partnership With Olicom, Inc.
+
+On October 15, 1998, the Company's VITAL Network  Services (VITAL) business unit
+entered into an agreement with Olicom, Inc. whereby VITAL assumed responsibility
+for  Olicom's  service  operations  in  Marlborough,  Massachusetts,  and Olicom
+assigned or transferred its service contract business in North America to VITAL.
+In addition to the assumption of  obligations  for a leased  facility,  VITAL is
+obligated to pay Olicom a percentage  (25% in the first year, 20% thereafter) of
+revenues derived from Olicom's business over a three-year  period, not to exceed
+$3.8 million.  As part of the agreement,  VITAL acquired the capital assets used
+in Olicom's service business.  VITAL recorded the acquisition using the purchase
+method of accounting, and due to the conditional nature of the payments owing to
+Olicom, no liability or corresponding  assets (including goodwill) were recorded
+for these  payments  at the date of  acquisition.  During  the two  years  ended
+September 30, 2000, the Company  recognized  $2.6 million of liability to Olicom
+toward its three-year obligation and recorded $2.2 million of goodwill.
+
+6.  Inventories
+
+Inventories consist of  (in thousands):
+
+  September 30,                                        2000          1999
+------------------------------------------------- --------------- --------------
+  Raw materials                                     $  7,852      $  5,054
+  Work-in-process                                      3,504         1,732
+  Finished goods                                      20,362        15,543
+  ----------------------------------------------- --------------- --------------
+                                                    $ 31,718      $ 22,329
+ ------------------------------------------------ --------------- --------------
+
+Despite the complete outsourcing of manufacturing operations in fiscal 2000, the
+Company has continued to procure certain raw material components in an effort to
+use local vendors as a supplement to its primary  outsource vendors and, in some
+instances, to protect itself from market shortage and long lead time exposures.
+
+7.  Property, Plant and Equipment
+
+Property, plant and equipment consists of (in thousands):
+
+                                                                  Estimated
+  September 30,                                2000      1999      Useful Life
+  -----------------------------------------------------------------------------
+  Land                                      $ 1,746   $ 1,775           --
+  Buildings and improvements                 30,177    30,280   10 to 30 years
+  Test equipment, fixtures and field spares  53,818    54,460    3 to 10 years
+  Machinery and equipment                    57,995    58,099    3 to 10 years
+  -----------------------------------------------------------------------------
+                                            143,736   144,614
+  Less: accumulated depreciation            114,078   111,935
+  -----------------------------------------------------------------------------
+                                           $ 29,658   $32,679
+  -----------------------------------------------------------------------------
+At September 30, 2000, land, buildings and improvements with a net book value of
+approximately  $5.6  million  are vacant  and being  held for sale.  Separately,
+depreciation  expense  amounted to $9,083,000,  $11,994,000  and  $12,747,000 in
+fiscal 2000, 1999 and 1998, respectively.
+
+
+                                       18
+<PAGE>
+
+8.  Long-Term Debt
+
+Long-term debt consists of (in thousands):
+
+September 30,                                         2000            1999
+-----------------------------------------------------------------------------
+Revolving credit facility                           $ 6,957        $ 15,111
+Notes payable                                        35,452          18,543
+7 3/4% convertible subordinated debentures
+("Debentures")                                        3,000          25,000
+Mortgages payable                                     9,573          10,411
+------------------------------------------------------------------------------
+                                                     54,982          69,065
+Less: current portion                                51,982           4,533
+------------------------------------------------------------------------------
+                                                    $ 3,000        $ 64,532
+------------------------------------------------------------------------------
+
+Interest  expense  amounted to  $8,719,000,  $7,118,000 and $6,564,000 in fiscal
+2000, 1999 and 1998, respectively.
+
+The following is a schedule of the future minimum  payments of long-term debt at
+September 30, 2000 (in thousands):
+
+Fiscal Years Ending September 30,    2001     2002     2003     2004   Total
+-------------------------------------------------------------------------------
+Future minimum payments            $51,982   $3,000     $0        $0    $54,982
+-------------------------------------------------------------------------------
+
+The  Company's   independent  auditors  have  expressed  uncertainty  about  the
+Company's  ability  to  continue  as a going  concern  in their  opinion  on the
+Company's  financial  statements.  On  January 5, 2001,  the  Company's  primary
+lenders  served the Company with a notice of default  under the  Company's  Loan
+Agreement  as a result of the  Company's  inability to provide such lenders with
+Company financial  statements  supported by an unqualified  opinion.  While such
+lenders have not  terminated  the revolving  line of credit  portion of the Loan
+Agreement,  pursuant to which  advances are still  continuing,  the lenders have
+reserved  their right to declare such advances due and payable  and/or limit the
+amount of such future  advances,  and have  increased the interest rates on such
+advances and the  outstanding  term loans.  There can be no  assurance  that the
+lenders will continue to make such advances or that they will not accelerate the
+maturity of amounts due under the Loan  Agreement.  Acceleration of such amounts
+may in turn  result  in the  acceleration  of  maturity  of debt  owed to  other
+creditors.
+
+Revolving Credit Facility
+
+On May 14, 1999,  the Company  entered into a three-year  $40.0 million loan and
+security  agreement  with  Foothill  Capital  Corporation  to provide  funds for
+operations  and  replace  the  Company's  existing  credit  facility.  The  Loan
+Agreement  was  comprised  of $15.0  million in term  loans and a $25.0  million
+(maximum value) revolving line of credit.
+
+On December 30, 1999, the Company  expanded its credit facility to $70.0 million
+as compared to the previous $40.0 million agreement.  The $30.0 million increase
+is comprised of a $20.0 million  term-loan  and a $10.0 million  increase in the
+revolving line of credit portion of the credit facility.  The expansion  results
+in a $70.0 million credit facility  comprised of $35.0 million in term loans and
+a $35.0 million (maximum value) revolving line of credit.
+
+Under the revolving line of credit portion of the Loan  Agreement,  availability
+is subject to satisfying a borrowing  base formula  related to levels of certain
+accounts  receivable,  inventories  and  reported  stockholders'  equity and the
+satisfaction of other financial covenants. Maximum funds available for borrowing
+and letters of credit  under the  revolving  line of credit  portion of the Loan
+Agreement  amounted to $25.4 million at September  30, 2000.  Most assets of the
+Company,  including  accounts  receivable,  inventories and property,  plant and
+equipment are pledged as  collateral.  Amounts  outstanding  under the revolving
+line of credit  are  payable  in full upon  termination  of the Loan  Agreement.
+Interest on revolver  borrowings is payable monthly at the greater of prime plus
+0.625% or 7.0% per annum (the prime rate was 9.50% at September 30, 2000).
+
+                                       19
+<PAGE>
+
+Financial  covenants of the Loan Agreement  require that the Company's  reported
+stockholders'  equity,  excluding  the  impact of foreign  currency  translation
+adjustments  occurring  subsequent  to March 31, 1999,  ("defined  stockholders'
+equity")  equal or exceed  $10.0  million at September  30,  2000.  Such defined
+stockholders'   equity   amounted  to  $23.0  million  at  September  30,  2000.
+Separately,  annual capital  expenditures of $12.0 million are authorized  under
+the Loan Agreement.
+
+Notes Payable
+
+As  discussed  above  under  "Revolving  Credit  Facility,"  the Loan  Agreement
+includes  $35.0  million in term loans,  comprised of a $15.0  million term loan
+dated May 14, 1999 and a $20.0 million term loan dated December 30, 1999.
+
+The $15.0  million  in  proceeds  received  on May 14,  1999 were used to retire
+outstanding  term loan debt in the amount of $8.7 million and generate funds for
+operations.  The $15.0 million is comprised of two independent term loans in the
+amounts of $12.0 million and a $3.0 million (the "$15 million term loans").  The
+$15 million term loans bear interest at an annual rate of 12.5% during the first
+year, 13.0% in the second year and 14.0% thereafter, payable monthly. Commencing
+in June 2000, total monthly principal  payments in the amount of $312,500 became
+payable,  and the $15  million  term  loans  are due and  payable  in full  upon
+termination  or  expiration  of the Loan  Agreement.  At any point in time,  the
+outstanding  balance of the original $3.0 million term loan is convertible  into
+the Company's common stock at a conversion price of $5.00 per share.
+
+The new $20.0  million  term loan bears  interest  at the higher of 13.5% or the
+prime rate of interest plus 5.0% (on September 30, 2000,  the  applicable  prime
+rate of interest was 9.5%), payable monthly. Commencing in March 2001, quarterly
+principal  payments in the amount of $1.0 million become payable,  and the $20.0
+million term loan is due and payable in full upon  termination  or expiration of
+the Loan Agreement. At any point in time, up to a maximum of $4.0 million of the
+outstanding  $20.0 million term loan balance is  convertible  into the Company's
+common stock at a conversion price of $9.00 per share.
+
+Separately,  the Company has entered into three-,  four- and five-year  note and
+installment  purchase  agreements  collateralized  by  certain  machinery,  test
+equipment,  furniture and  fixtures.  The  outstanding  balance of $1,533,000 at
+September  30, 2000,  which  approximates  the net book value of the  underlying
+equipment,  bears  interest at fixed rates ranging from 9.1% to 11.6%.  All such
+notes will mature by fiscal 2003.
+
+Convertible 7 3/4% Debentures and Related Conversions
+
+On September 26, 1997, the Company  issued $25.0 million of  convertible  senior
+subordinated  debentures  ("Debentures")  which mature on September 30, 2002 (if
+not  converted or redeemed)  and accrue  interest at a rate of 7 3/4% per annum.
+Only $3.0 million of such  debentures  remain  outstanding  as of September  30,
+2000.
+
+During the fiscal year ended  September  30,  2000,  $22.0  million of the $25.0
+million in Debentures  outstanding at September 30, 1999 were converted into and
+exchanged  for common  stock,  thereby  reducing  outstanding  indebtedness  and
+increasing  stockholders'  equity  by  approximately  $22.0  million  and  $21.2
+million,  respectively.  The  increase in  stockholders'  equity is comprised of
+approximately $24.4 million of equity securities issued less non-cash charges of
+$2.4 million for debt conversion  expense  (discussed below) and $0.8 million of
+deferred debenture offering costs which were charged to paid-in capital.  Annual
+interest  expense savings  resulting from the conversions  will approximate $1.7
+million.
+
+In various separate, unsolicited and negotiated transactions, the Company issued
+an  aggregate  of  4,110,600  shares of common  stock in exchange  for the $22.0
+million of Debentures referenced above, as compared to 3,772,938 shares issuable
+under the  original  debenture  conversion  terms.  Issuance of the  incremental
+337,662 shares resulted in a non-cash charge of $2.4 million for debt conversion
+expense during the year ended September 30, 2000.
+
+The   remaining   Debentures   outstanding,   originally   issued  to  qualified
+institutional  buyers and accredited  institutional  investors,  are convertible
+into shares of the  Company's  common stock at a conversion  price of $5.831 per
+share,  or the  equivalent  of 171.5  shares  of common  stock  for each  $1,000
+principal  amount of Debentures.  The Debentures  are  subordinated  in right of
+payment to most other  indebtedness of the Company and are equal to or senior to
+other subordinated indebtedness of the Company.
+
+                                       20
+<PAGE>
+
+The  Debentures  may not be redeemed by the Company  prior to September 30, 2000
+and are redeemable in whole or in part at the option of the Company at 103.1% of
+principal value during the period September 30, 2000 through  September 29, 2001
+if the Company's common stock trades at a level exceeding 150% of the conversion
+price for a period of 20 trading days, and without  conditions at 101.55% of the
+principal  value on or after September 30, 2001 or 100% of principal value on or
+after September 30, 2002 (maturity).
+
+Mortgages Payable and Mortgage Covenant Requirement
+
+Mortgages outstanding on the Company's previous corporate  headquarters facility
+(currently  for sale) and its VITAL  headquarters  and  manufacturing  facility,
+which bear  interest at 90-day  LIBOR  (6.70% at  September  30,  2000) plus 2%,
+amounted  to  $9,025,000   and  $9,425,000  at  September  30,  2000  and  1999,
+respectively.  Quarterly principal payments of $100,000 are required until these
+mortgages mature in the year 2003. In addition,  mortgages totaling $548,000 and
+$986,000 at  September  30, 2000 and 1999,  respectively,  were  outstanding  on
+Company  properties  in the United  Kingdom.  These  mortgages  bear interest at
+six-month  LIBOR  (6.68% at  September  30, 2000) plus 1.3% and mature in fiscal
+2003.
+
+To remain in compliance with the covenant  requirements of the  above-referenced
+mortgage  agreement (with an outstanding  balance of $9,025,000 at September 30,
+2000)  throughout  fiscal 2001, the Company must increase  stockholders'  equity
+and/or reduce the outstanding  mortgage balance during fiscal 2001.  Separately,
+the  Company  must  avoid the  acceleration  of  payment  for other  outstanding
+borrowings.
+
+With respect to all  outstanding  indebtedness  of the Company at September  30,
+2000 (except the 7 3/4% Debentures), risk of default and acceleration of payment
+represents a risk to the Company in fiscal 2001. As a result,  such indebtedness
+has been  classified as a current  liability as of September 30, 2000.  Refer to
+Note 1,  "Business  Conditions and Financial  Plans," for  management  plans and
+related discussion.
+
+9.   Income Taxes
+
+(Loss) before income taxes  consists of both domestic and foreign income (loss),
+as follows (in thousands):
+
+Fiscal years ended September 30,             2000            1999         1998
+--------------------------------------------------------------------------------
+United States                          $ (37,604)      $ (23,696)   $ (32,983)
+Foreign                                    2,465           2,240           291
+-------------------------------------------------------------------------------
+                                       $ (35,139)      $ (21,456)   $ (32,692)
+--------------------------------------------------------------------------------
+The provision for income taxes consists of the following amounts (in thousands):
+
+Fiscal years ended September 30,            2000           1999         1998
+-------------------------------------------------------------------------------
+Current:
+  State                                   $  200          $ 200        $  200
+  Foreign                                  1,613          1,086          477
+-------------------------------------------------------------------------------
+                                           1,813          1,286          677
+-------------------------------------------------------------------------------
+Deferred:
+  Federal                                   (38)          (136)           28
+  Foreign                                    25            ---           (5)
+-------------------------------------------------------------------------------
+                                            (13)          (136)           23
+--------------------------------------------------------------------------------
+     Total                               $1,800         $1,150        $   700
+-------------------------------------------------------------------------------
+
+The following reconciles the U.S. statutory income tax rate to the Company's
+effective rate:
+
+Fiscal years ended September 30,           2000         1999          1998
+-------------------------------------------------------------------------------
+Federal statutory rate                     (34.0)%      (34.0)%       (34.0)%
+No benefit recognized for domestic
+net operating loss                          36.0         37.0          33.8
+Effect of foreign income taxes               2.3          1.5           1.2
+State and local income taxes                 0.6          0.9           0.6
+Non-deductible expenditures                  0.2           --           0.5
+--------------------------------------------------------------------------------
+                                             5.1%         5.4%          2.1%
+-------------------------------------------------------------------------------
+
+                                       21
+<PAGE>
+
+For regular  income tax  reporting  purposes at  September  30, 2000 foreign and
+domestic  tax  credits  and  net  operating  loss   carryforwards   amounted  to
+approximately $14.5 million and $202.0 million,  respectively.  Domestic federal
+loss  carryforwards  of $195.0  million  expire between fiscal 2004 and 2016, of
+which  approximately  $12.6  million  relate to items  which will be credited to
+stockholders'  equity  when  applied;   domestic  state  loss  carryforwards  of
+approximately  $115.0 million expire between fiscal 2001 and 2016.  Foreign loss
+carryforwards  of $7.0  million  expire  beginning  in fiscal  2000.  Tax credit
+carryforwards expire between fiscal 2001 and 2016.
+
+For federal alternative  minimum tax purposes,  net operating loss carryforwards
+amounted  to   approximately   $188.0  million  at  September  30,  2000.  These
+carryforwards  may be  carried  forward  indefinitely  to offset  any  excess of
+regular tax liability over alternative minimum tax liability, subject to certain
+separate company limitations.
+
+The tax effects of the significant temporary differences comprising the deferred
+tax assets and  liabilities  at  September  30, 2000 and 1999 are as follows (in
+thousands):
+
+                                                         2000         1999
+------------------------------------------------------------------------------
+Deferred Tax Assets
+  Receivable reserve                                  $  1,432   $   1,847
+  Inventory reserve                                     11,058       8,104
+  Deferred income                                        1,378       1,732
+  Other accruals                                           762         573
+  Loss carryforwards                                    77,880      68,840
+  Tax credits                                           14,500      12,708
+------------------------------------------------------------------------------
+                                                       107,010      93,804
+Valuation allowance                                    (93,025)    (78,039)
+-------------------------------------------------------------------------------
+Net deferred tax assets                                $13,985   $  15,765
+-------------------------------------------------------------------------------
+Deferred Tax Liabilities
+  Depreciation                                         $ 1,556   $   1,762
+  Deferred income                                        1,040       1,640
+  Capitalized software                                   8,864       8,726
+  Operating leases                                       2,547       3,765
+  Capital leases                                           165          99
+  Other                                                    558         532
+--------------------------------------------------------------------------------
+Gross deferred tax liability                           $14,730   $  16,524
+----------------------------------------------------------------- --------------
+
+Statement  of Financial  Accounting  Standard  No. 109,  "Accounting  For Income
+Taxes," requires a valuation  allowance against deferred tax assets if, based on
+available evidence,  it is more likely than not that some or all of the deferred
+tax assets will not be realized.  The Company believes that  uncertainty  exists
+with respect to the future  realization of deferred tax assets and, as a result,
+carries  a  valuation  allowance  for  such  items.  The  valuation  allowances,
+disclosed in the  deferred  tax summary  above,  increased  by  $14,986,000  and
+$15,382,000 in fiscal 2000 and fiscal 1999, respectively.
+
+10.  Operating Leases
+
+The  Company  has  certain  non-cancelable   operating  leases  on  automobiles,
+subsidiary  locations,  sales offices and service facilities which expire within
+one to six years.  These leases generally contain renewal options and provisions
+for payment by the lessee of executory costs (taxes, maintenance and insurance).
+In addition,  the Company has a  non-cancelable  operating  lease through fiscal
+2003 for its Connecticut corporate offices and technology center facility.
+
+The  following  is a schedule of the future  minimum  payments on such leases at
+September 30, 2000 (in thousands):
+
+Fiscal Year Ending September 30,     2001  2002   2003   2004   2005  Thereafter
+-------------------------------------------------------------------------------
+                                   $3,677 $3,216 $2,605  $704   $394  $ 78
+-------------------------------------------------------------------------------
+Total future minimum lease payments                                 $10,674
+Less: future sublease income, non-cancelable                            828
+ through 2002
+Net future lease payments                                           $ 9,846
+--------------------------------------------------------------------------------
+
+                                       22
+<PAGE>
+
+Net rental expense for the three most recent fiscal years was (in thousands):
+
+                                              Rental       Sublease
+                                              Expense      Income       Net
+-------------------------------------------------------------------------------
+ 2000                                         $4,720       $ 1,146     $ 3,574
+ 1999                                          5,186         1,409       3,777
+ 1998                                          5,504         1,234       4,270
+-------------------------------------------------------------------------------
+
+11.   Stockholders' Equity
+
+Transactions  in capital  stock for the three fiscal years ended  September  30,
+2000 were as follows (in thousands except share amounts):
+
+<TABLE>
+
+<CAPTION>
+
+                                                                                                                Accum
+                                                                             Capital                            Other
+                        Comprehenisve   Preferred Stock     Common Stock      In Excess    Treasury Stock       Comp.
+                        Loss            Shares  Amount   Shares     Amount     of Par     Shares  Amount        Loss
+
+-----------------------------------------------------------------------------------------------------------------------
+<S>                       <C>           <C>       <C>   <C>          <C>       <C>        <C>       <C>        <C>
+   Balance, September
+     30, 1997                           800,000   $800  21,719,594    $2,172    $149,864  330,382   $(2,445)  $(2,489)
+   Comprehensive Loss:
+     Net loss             $ (33,392)
+     Foreign currency
+       translation
+       adjustments             (100)        --     --          --        --         --        --         --     (100)
+                           ---------
+   Comprehensive loss     $ (33,492)
+                          =========
+   Exercise of stock
+     options                               --       --       2,938        --          12        --         --     --
+   Employee stock
+   purchase plan                           --       --     338,831        34         954        --         --     --
+   Issuance of stock
+     warrants                              --       --          --        --         222        --         --     --
+   -------------------- ------------- -------- -------- ----------- --------- ----------- --------- ----------- -------
+   Balance September
+     30, 1998                         800,000     800    22,061,363     2,206     151,052   330,382   (2,445)  (2,589)
+
+   Comprehensive Loss:
+     Net loss            $ (22,606)
+     Foreign currency
+       translation
+       adjustments          (147)        --       --          --        --          --        --         --     (147)
+
+   Comprehensive loss    $(22,753)
+   Exercise of stock
+    options                               --       --       6,000        1           11        --         --
+                                        1
+   Employee stock
+   purchase plan                         --       --      334,163        33         643        --         --      --
+   -------------------- ------------- -------- -------- ----------- --------- ----------- --------- ----------- ---------
+   Balance, September
+     30, 1999                         800,000      800  22,401,526     2,240     151,706    330,382    (2,445)  (2,736)
+   Comprehensive Loss:
+     Net loss            $(36,939)
+     Foreign currency
+       translation
+       adjustments         (2,304)     --          --        --          --        --         --          --    (2,304)
+                        ---------
+   Comprehensive loss    $(39,243)
+   Exercise of stock
+   options                             --          --     137,766        14         505      1,719       (12)
+
+   Employee stock
+   purchase plan                       --          --     232,247        23         660        --         --        --
+
+   9% convertible
+   preferred stock
+   conversion                        (12,000)      (12)    22,161          2         10        --         --        --
+
+   Issuance of
+   common stock                          --         --   3,000,000        300     14,650       --         --        --
+
+   Issuance of redeemable
+   preferred stock                       --         --        --          --       (50)        --         --        --
+
+   Debt to equity
+   conversion                            --        --    3,973,113        398     22,150  (137,487)      1,018      --
+
+-------------------------------------------------------------------------------------------------------------------------
+Balance, September 30, 2000          987,900      $788  29,766,813     $2,977   $189,631  194,614     $(1,439)   $(5,040)
+-------------------------------------------------------------------------------------------------------------------------
+
+</TABLE>
+
+"Accumulated Other  Comprehensive  Loss" is comprised solely of foreign currency
+translation  adjustments;  there is no income tax expense or benefit  associated
+with such adjustments.
+
+                                       23
+<PAGE>
+
+The Common Stock  referenced above includes both Class B stock and common stock.
+Class B stock,  under  certain  circumstances,  has greater  voting power in the
+election of directors.  However,  common stock is entitled to cash dividends, if
+and when paid, 11.11% higher per share than Class B stock. The Company has never
+declared or paid cash dividends on its common stock,  and terms of the Company's
+credit  facility  prohibit  the  Company  from paying  cash  dividends  with the
+exception  of  dividends  authorized  for payment on the  Company's 9% preferred
+stock  (referenced  below).  Class B stock has  limited  transferability  and is
+convertible  into  common  stock  at any  time on a  share-for-share  basis.  At
+September  30,  2000,  1999 and  1998,  Class B stock  outstanding  amounted  to
+2,057,103, 2,092,383 and 2,093,083 shares, respectively.
+
+On September 12, 2000,  the Company sold, in a private  transaction,  3,000,000
+shares of common stock to the State of Wisconsin Investment Board for $5.00 per
+share,  generating  proceeds of $15.0 million (before  expenses).  Approximately
+$5.3 million of such proceeds have been reserved to redeem the 5% Preferred
+Stock (discussed  below) in the event the conversion  price of such 5%
+Preferred Stock would be  lowered  on any reset  date.  However,  as a result
+of the  notice of default  served to the Company on January 5, 2001 by its
+primary  lenders,  the Company may be unable to access funds from its revolving
+line of credit in order to exercise its option to redeem the 5% Preferred Stock.
+
+9% Preferred Stock
+------------------
+800,000 shares of the Company's 9% Cumulative Convertible Exchangeable Preferred
+Stock ("9% Preferred Stock") were outstanding as of September 30, 1999 and 1998.
+During fiscal 2000,  12,100 shares were converted into common shares,  resulting
+in 787,900  shares  outstanding  at September 30, 2000.  The 9% Preferred  Stock
+accrues  dividends  at a rate  of 9% per  annum,  cumulative  from  the  date of
+issuance and payable quarterly in arrears. Dividends have been paid through June
+30, 2000;  dividends in arrears  amounted to $443,194 at September 30, 2000. The
+9% Preferred  Stock can be converted  into common stock at $13.65 per share,  or
+the  equivalent  of 1.8315 shares of common stock for each share of 9% Preferred
+Stock.  The  Company has the option to exchange  the 9%  Preferred  Stock for 9%
+Convertible  Subordinated  Debentures due 2006, at the rate of $25.00  principal
+amount of such  debentures for each share of 9% Preferred  Stock  outstanding at
+the time of exchange.  Subject to approval of the Company's  principal  lenders,
+the 9% Preferred  Stock can be redeemed by the Company on or after September 30,
+2000 at a price of $25.00 per share.
+
+Redeemable 5% Preferred Stock
+-----------------------------
+On July 31, 2000, the Company sold 200,000  shares of 5% Cumulative  Convertible
+Preferred  Stock  ("5%  Preferred  Stock")  for  $5,000,000  to  two  accredited
+investors in a negotiated  private  transaction  exempt from registration  under
+Section 4(2) of the Securities Act of 1933, as amended.  The 5% Preferred  Stock
+is convertible  into one million  shares of Common Stock at $5.00 per share,  or
+five shares of common  stock for each share of 5% Preferred  Stock.  The Company
+has the option to cause the 5%  Preferred  Stock to convert into common stock if
+the market price of the Company's  common stock  exceeds 125% of the  conversion
+price, or $6.25 per share, for a specified  period,  and has the right to redeem
+the 5%  Preferred  Stock at  original  issue  price  (par) in the event  certain
+transactions  of  $50.0  million  or more  are  effected  by the  Company  and a
+registration  statement is in effect  covering the common  stock.  Dividends are
+payable quarterly at the option of the Company in common stock or cash. However,
+terms  of the  Company's  current  credit  facility  prohibit  payment  of  cash
+dividends on the 5% Preferred Stock; as a result, such dividends, if paid, would
+be paid with common stock.
+
+The conversion price could potentially be adjusted downward at six predetermined
+reset dates commencing on January 31, 2001, and each three months thereafter, if
+the average  closing price of the Company's  common stock during the ten trading
+days preceding such predetermined dates falls below the conversion price then in
+effect.  If, based upon downward  reductions  in the  conversion  price,  the 5%
+Preferred  Stock  becomes  convertible  into more than 19.999% of common  shares
+outstanding  (excluding  Class  B  and  treasury  shares),  Company  shareholder
+approval  would be required for the  registration  of such shares.  It should be
+noted,  however, that with proper advance notice and subject to the availability
+of funds  under the  Company's  revolving  line of credit,  the  Company has the
+option to redeem the 5% Preferred  Stock for $5,250,000  plus accrued  dividends
+before the first  downward price  adjustment,  if any,  occurs.  The Company has
+revoked its notice of exercise  to so redeem the 5%  preferred  stock on January
+31, 2001.
+
+On July 31, 2002, any outstanding 5% Preferred Stock plus accumulated  dividends
+must be redeemed  or  converted.  Options  available  to the  Company  regarding
+redemption and/or conversion include:  (a) conversion into common stock, subject
+to the shareholder  approval  discussed above; (b) redemption by the Company for
+cash; or (c) a combination  thereof.  Since the potential  need for  shareholder
+approval  to issue  and list  additional  common  shares  at a
+
+                                       24
+<PAGE>
+
+future date is a contingency outside of the Company's control,  the 5% Preferred
+Stock is presented outside of permanent equity.
+
+As part of this transaction,  the Company also issued warrants for the investors
+to purchase an  additional  200,000  shares of Common  Stock at $5.75 per share.
+Such  warrants  expire in five  years.  The Company has the right to redeem such
+warrant shares two years after issuance for $.01 per share if certain conditions
+are met.
+
+12.   Segment and Geographical Information
+
+The Company  reorganized in December 1998,  creating  distinct and independently
+managed  Strategic  Business Units ("SBU") for specified  groups of products and
+services.  Each SBU has been identified as a reportable  segment,  as summarized
+below:
+
+    .   Broadband  Systems  Division  ("BSD")  --  Designs,  markets  and  sells
+        broadband telecommunication products, including ATM switches and network
+        management systems which allow for the efficient  transmission of
+        voice, data  and  video.  BSD also  sells  time-division  multiplexing
+        ("TDM") equipment.
+
+    .   Network  Access   Division   ("NAD")  --  Designs,   markets  and  sells
+        access-type  telecommunication  products,  including frame relay and DSL
+        based products.
+
+    .   VITAL Network  Services,  L.L.C.  ("VITAL") -- An  integrated  worldwide
+        service  organization which provides global traditional and professional
+        network  services  for   telecommunications   carriers,   corporate  and
+        government  customers.  VITAL  offers  such  support  services  for  the
+        products of many companies (multi-vendor support services).
+
+    .   DataComm Leasing  Corporation -- Provides financing  services,  offering
+        BSD and NAD customers the  opportunity  to lease (rather than  purchase)
+        products.
+
+The accounting  policies of the segments are the same as those described in Note
+2,  "Description  of Business and Summary of Significant  Accounting  Policies,"
+except for capitalized software  accounting.  Such costs are treated as a period
+expense when measuring divisional performance.
+
+The Company  evaluates the  performance of its segments and resource  allocation
+based  upon  operating   income,   before   capitalized   software   accounting,
+restructuring  charges and executive level general corporate costs (i.e.,  chief
+executive officer, chief operating officer,  chief financial officer,  corporate
+strategic  planning,  investor  relations,  etc.).  There  are  no  intersegment
+revenues,  and BSD and NAD recognize revenue for the sale of their product lines
+only  (i.e.,  BSD  recognizes  no revenue  for the sale of NAD  product and vice
+versa).
+
+The  tables  below  present  financial  performance  information  by  reportable
+segments  (in  thousands).  Asset  information  by  reportable  segment  is  not
+reported, as the Company does not produce such information internally.
+<TABLE>
+
+<S>                                          <C>         <C>          <C>          <C>           <C>       <C>
+
+
+                                             VITAL       Network      Broadband    DataComm
+                                             Network     Access       Systems      Leasing
+                                             Services    Division     Division    Corporation     Other     Totals
+-----------------------------------------------------------------------------------------------------------------------
+Revenue:
+  Fiscal 2000                               $  48,807    $ 59,436       $  55,505       $3,414     $     0    $ 167,162
+  Fiscal 1999                                  46,676      59,936          59,102        4,188       1,115      171,017
+  Fiscal 1998                                  37,852      65,936          82,633        4,437       3,397      194,255
+------------------------------------------- ------------ ------------- ------------- ------------- ---------- ----------
+
+Operating income (loss):
+  Fiscal 2000                               $   2,906    $  2,641       $ (26,357)      $2,340     $     0    $ (18,470)
+  Fiscal 1999                                   5,896       1,687         (29,402)       3,200         420      (18,199)
+  Fiscal 1998                                   3,305      (1,393)        (25,687)       3,149        (117)     (20,743)
+------------------------------------------- ------------ ------------- ------------- ------------- ---------- ----------
+
+Depreciation and amortization expense
+  Included in operating income (loss), as
+  Reported above:
+  Fiscal 2000                               $   3,606    $  1,573       $   4,576       $  484     $     0    $  10,239
+  Fiscal 1999                                   3,932       2,294           6,812          578          33       13,649
+  Fiscal 1998                                   2,572       3,009           7,679          878         103       14,241
+------------------------------------------- ------------ ------------- ------------- ------------- ---------- ----------
+</TABLE>
+
+                                       25
+<PAGE>
+
+Reconciliations  of operating income (loss),  as reported above, to consolidated
+loss before income taxes are summarized below:
+
+Fiscal years ended September 30,             2000          1999          1998
+-------------------------------------------------------------------------------
+Operating loss, as reported above         $(18,470)    $ (18,199)    $ (20,743)
+Capitalized software activity, net             344           362           786
+General corporate expenses                  (4,523)       (3,863)       (4,283)
+Restructuring and other charges             (2,000)       (2,000)       (2,500)
+Other income (expense)                     (10,490)        2,244        (5,952)
+------------------------------------------------------------------------------
+Loss before income taxes                  $(35,139)    $ (21,456)    $ (32,692)
+------------------------------------------------------------------------------
+
+                                       26
+<PAGE>
+
+
+Consolidated  revenue and long-lived asset  information by geographic area is as
+follows:
+<TABLE>
+<CAPTION>
+
+                                                      Revenue                            Long-Lived Assets
+<S>                                    <C>             <C>           <C>           <C>           <C>        <C>
+
+Years ended September 30,                2000            1999          1998         2000          1999        1998
+--------------------------------------------------------------------------------------------------------------------
+United States                          $  90,812       $ 88,939      $ 96,850      $57,007      $ 61,256    $ 68,805
+Foreign                                   76,350         82,078        97,405        5,323         6,002       7,684
+---------------------------------------------------------------------------------------------------------------------
+                                       $ 167,162       $171,017      $194,255      $62,330      $ 67,258    $ 76,489
+----------------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+Foreign revenue is based on the country in which the revenue  originated  (i.e.,
+where the legal  subsidiary  is domiciled  or, in the case of sales  through the
+Company's  international  distributor  network,  where the customer  placing the
+order is domiciled).  No individual foreign location accounted for more than ten
+percent of consolidated revenue or long-lived assets.  Separately, no individual
+customer  accounted  for more than ten  percent  of the  Company's  consolidated
+revenue.
+
+13.  Employee Incentive Plans
+
+Stock Option Plans
+
+Officers and key employees may be granted incentive stock options at an exercise
+price  equal to or  greater  than  the  market  price  on the date of grant  and
+non-incentive  stock  options  at an  exercise  price  equal to or less than the
+market price on the date of grant.  While individual options can be issued under
+various provisions,  most options, once granted, generally vest in increments of
+25% per year over a  four-year  period  and expire  within ten years.  Under the
+terms of these stock option plans, the Company has reserved a total of 5,126,435
+shares of common stock at September 30, 2000 (4,765,351  shares at September 30,
+1999).
+
+The following  summarizes  activity under these stock option plans for the three
+fiscal years ended September 30, 2000:
+
+                                                              Weighted Average
+                                             Shares             Exercise Price
+-------------------------------------------------------------------------------
+Options outstanding, September 30, 1997
+(1,058,426 exercisable)                       2,874,008              $  7.49
+Options granted                               1,597,395                 4.06
+Options exercised                                (2,900)                4.07
+Options canceled or expired                    (844,859)                7.10
+--------------------------------------------------------------------------------
+Options outstanding, September 30, 1998
+ (1,253,911 exercisable)                      3,623,644               $ 6.07
+Options granted                               1,217,355                 2.67
+Options exercised                                (6,000)                2.00
+Options canceled or expired                  (1,198,127)                5.71
+-------------------------------------------------------------------------------
+Options outstanding, September 30, 1999
+ (1,410,813 exercisable)                      3,636,872               $ 5.07
+Options granted                               1,540,048                 4.38
+Options exercised                              (137,766)                3.77
+Options canceled or expired                    (604,049)                4.41
+--------------------------------------------------------------------------------
+Options outstanding, September 30, 2000
+ (1,903,727 exercisable)                      4,435,105               $ 4.95
+-------------------------------------------------------------------------------
+
+The following summarizes  additional  information  regarding options outstanding
+and options exercisable as of September 30, 2000:
+
+<TABLE>
+<CAPTION>
+
+                                                                                          Options
+                                      Options Outstanding                                Exercisable
+                      ---------------------------------------------------------------------------------------------------
+                                                                  Weighted Average
+    Range of          Number of Shares     Weighted Average       Contractual Life       Number of      Weighted Average
+ Exercise Prices                             Exercise Price            (Years)            Shares         Exercise Price
+--------------------- ------------------ ---------------------- ---------------------- -------------- -------------------
+<S>                         <C>                <C>                   <C>                     <C>            <C>
+
+$2.19 - $2.69               854,681             2.55                  8.88                    81,334         2.45
+$2.72 - $ 3.28              601,050             2.92                  7.12                   278,354         2.98
+$3.38 - $ 3.82              679,157             3.71                  5.61                   499,981         3.73
+$3.94 - $ 4.72              633,761             4.21                  8.20                   174,069         4.05
+$4.81 - $5.81               655,998             5.26                  9.03                    69,800         5.39
+$5.84 - $ 8.00              572,708             7.10                  6.46                   396,089         7.15
+$8.25 - $13.88              335,600            11.16                  5.30                   301,950        11.43
+$15.50-$15.50               102,150            15.50                  3.82                   102,150        15.50
+-------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------
+$2.19 - $15.50            4,435,105               $4.95               7.37                 1,903,727        $6.22
+--------------------- ------------------ ---------------------- ---------------------- -------------- -------------------
+
+</TABLE>
+
+                                       27
+<PAGE>
+
+The weighted  average option price of exercisable  options was $6.22,  $6.81 and
+$6.68 at September 30, 2000,  1999 and 1998,  respectively.  All options granted
+during the three fiscal years ended September 30, 2000 were granted at an option
+price equal to fair market value at date of grant.
+
+Employee Stock Purchase Plan
+
+The Company has a stock  purchase plan to encourage  employees to participate in
+the Company's future growth. At September 30, 2000, 346,289 shares were reserved
+for purchase by employees through payroll deductions regularly  accumulated over
+six-month  payment periods.  At the end of each payment period,  common stock is
+purchased  at 85 percent  of the market  value of the stock on the first or last
+day of the payment periods,  whichever is lower. However, the purchase of common
+stock  under this plan is  prohibited  if 85 percent of the market  value of the
+common  stock is less than the book  value per  share.  Note 11,  "Stockholders'
+Equity,"  presents  the  historical  activity  under this plan  during the three
+fiscal years ended September 30, 2000.
+
+Employee Retirement Savings and Deferred Profit Sharing Plan
+
+Under  the  retirement  savings  provisions  of the  Company's  retirement  plan
+established  under Section  401(k) of the Internal  Revenue Code,  employees are
+generally  eligible to  contribute  to the plan after three months of continuous
+service in amounts determined by the plan. The Company contributes an additional
+50 percent of the employee  contribution  up to certain  limits (not to exceed 2
+percent of total eligible  compensation).  Employees  become fully vested in the
+Company's   contributions  after  three  years  of  continuous  service,  death,
+disability,  or upon  reaching  age 65. The  amounts  charged to expense for the
+fiscal years ended September 30, 2000,  1999 and 1998 were $918,000,  $1,245,400
+and $1,015,100, respectively.
+
+The deferred profit sharing  provisions of the plan include retirement and other
+related benefits for  substantially  all of the Company's  full-time  employees.
+Contributions  under the plan are funded  annually and are based,  at a minimum,
+upon a formula  measuring  profitability  in  relation to  revenues.  Additional
+amounts may be contributed at the discretion of the Company.  There were no such
+contributions for fiscal 2000, 1999 or 1998.
+
+Stock-Based Compensation
+
+Pro forma  results,  representative  of financial  results which would have been
+reported  by the  Company  if it had  adopted  the fair  value  based  method of
+accounting  for  stock-based  compensation  under SFAS No. 123,  are  summarized
+below:
+
+                                           Fiscal Years Ended September 30,
+                             --------------------------------------------------
+                                2000                  1999                1998
+                             -----------           -----------         ---------
+Net loss, as reported          $(36,939)           $(22,606)          $(33,392)
+Estimated stock compensation
+costs                            (2,843)             (2,622)            (3,552)
+--------------------------------------------------------------------------------
+Pro forma net loss             $(39,782)           $(25,228)          $(36,944)
+--------------------------------------------------------------------------------
+Pro forma net loss per
+share (basic and diluted)      $  (1.62)           $  (1.24)          $  (1.80)
+--------------------------------------------------------------------------------
+
+The  Black-Scholes  method was used to compute the pro forma  amounts  presented
+above,   utilizing  the  weighted  average  assumptions  summarized  below.  The
+weighted-average  fair value of options  granted was $2.94,  $1.54 and $2.25 for
+the fiscal years ended September 30, 2000, 1999 and 1998, respectively.
+
+                                  Stock Option Plans    Employee Stock Purchase
+Fiscal Years Ended 9/30,      2000       1999     1998    2000    1999    1998
+--------------------------------------------------------------------------------
+Risk-free interest rate        6.08%     4.12%    5.63%    5.12%   5.48%   5.43%
+Volatility (%)                102.8%    88.53%   74.06%  124.6%   71.87   85.71%
+Expected life (in years)        3.31     3.12     3.62     0.50    0.50    0.50
+Dividend yield rate              nil      nil      nil      nil     nil     nil
+
+14.   Leasing Subsidiary
+
+The  Company's  consolidated  financial  statements  include the accounts of its
+wholly-owned  leasing  subsidiary,  DataComm  Leasing  Corporation.  The leasing
+subsidiary  purchases most equipment for lease to others from General  DataComm,
+Inc.
+
+                                       28
+<PAGE>
+
+The following  represents  condensed  financial  information of DataComm Leasing
+Corporation (in thousands).
+
+                                              September 30,
+                                            2000        1999
+                                           ------       ------
+Financial Condition
+Current assets                            $  3,799     $ 5,821
+Non-current assets                           4,344       5,897
+Due from General DataComm, Inc.              3,265         633
+-------------------------------------------------------------------------------
+Total assets                               $11,408     $12,351
+--------------------------------------------------------------------------------
+Current liabilities                        $   768     $ 1,437
+Non-current liabilities                         --           9
+Stockholder's equity                        10,640      10,905
+--------------------------------------------------------------------------------
+Total liabilities and stockholder's
+ equity                                    $11,408     $12,351
+--------------------------------------------------------------------------------
+
+Results of Operations
+Fiscal Years ended September 30,            2000          1999          1998
+-------------------------------------------------------------------------------
+Net revenues                              $ 3,414      $ 4,188        $ 4,437
+-------------------------------------------------------------------------------
+Income before income taxes                $   757      $ 2,514        $ 1,882
+-------------------------------------------------------------------------------
+
+Fiscal 2000  results  include a charge of  $1,500,000  for  uncollectible  lease
+receivables and related costs attributable to a customer bankruptcy.
+
+Lease Financing Programs
+
+DataComm Leasing Corporation  maintains  agreements with financial  institutions
+whereby  certain finance lease  receivables are transferred  with full recourse.
+The  underlying   equipment  is  retained  as  collateral  by  DataComm  Leasing
+Corporation.  No receivables  were  transferred  in fiscal 1998,  1999 or fiscal
+2000. The balance of all  transferred  receivables  which were due to be paid by
+the original  lessees  under the remaining  lease terms  amounted to $12,000 and
+$235,000 at of September 30, 2000 and 1999, respectively.
+
+15.  Earnings (Loss) Per Share
+
+The  following  table sets forth the  computation  of basic and diluted loss per
+share (in thousands, except per share amounts):
+
+Years Ended September 30,                 2000            1999          1998
+----------------------------------- ---------------- ------------- -----------
+Numerator:
+ Net loss                               $(36,939)      $ (22,606)    $ (33,392)
+  Preferred stock dividends               (1,343)         (1,800)       (1,800)
+-------------------------------------------------------------------------------
+  Numerator for basic and diluted loss
+    per share--loss applicable to
+    common stockholders                 $(38,282)      $ (24,406)    $ (35,192)
+-------------------------------------------------------------------------------
+Denominator:
+  Denominator for basic and diluted
+  loss per share--weighted
+  average shares outstanding              25,400          21,857        21,495
+-------------------------------------------------------------------------------
+Basic and diluted loss per share        $ (1.51)         $(1.12)      $(1.64)
+--------------------------------------------------------------------------------
+
+The net loss for the fiscal year ended  September 30, 2000 includes three unique
+expense items:  First,  there was a charge of $1.5 million,  or $0.06 per share,
+for uncollectible lease receivables and related costs attributable to a customer
+bankruptcy;  second,  there were non-cash charges of $2.4 million,  or $0.09 per
+share, for debt conversion expense resulting from the conversion and exchange of
+$22.0 million in convertible debentures for common stock; and third, there was a
+restructuring  charge of $0.5 million,  or $0.02 per share,  for severance costs
+associated with the decision to outsource manufacturing operations. The net loss
+for the fiscal year ended September 30, 1999 includes a restructuring  charge of
+$2.0 million,  or $0.09 per share, for restructuring of operations.  Fiscal 1998
+results include a similar charge of $2.5 million,  or $0.12 per share.  Refer to
+Note 3, "Restructuring of Operations and Other Charges," for further discussion.
+
+Outstanding securities,  not included in the above computations because of their
+antidilutive  impact on reported loss per share,  which could potentially dilute
+diluted  earnings  per  share  in the  future  include  convertible  debentures,
+convertible  preferred  stock and  employee  stock  options  and  warrants.  For
+additional disclosure information,
+
+                                       29
+<PAGE>
+
+including conversion terms, refer to Notes 8, 11 and 13, respectively.  Weighted
+average  employee  stock options  outstanding  during  fiscal 2000  approximated
+4,119,219  shares,  of which  1,011,716  would not have been included in diluted
+earnings  per share  calculations  for fiscal 2000 (if the Company  reported net
+income) because the effect would be antidilutive.
+
+16.   Quarterly Financial Data (Unaudited)
+<TABLE>
+<CAPTION>
+
+                                                                   (In thousands, except per share data)
+                                                         -------------------------------------------------------
+<S>                                                       <C>             <C>            <C>          <C>
+Fiscal 2000                                                 First          Second         Third        Fourth
+-------------------------------------------------------- --------------- ------------- ------------- -----------
+Revenues                                                  $  47,580        $41,387       $41,161       $37,034
+Gross profit                                                 17,926         14,359        13,697        11,194
+Operating loss(1)(3)(4)                                      (2,349)        (5,597)       (8,769)       (7,934)
+Net loss(1)(2)(3)(4)                                      $  (5,941)       $(8,828)      $(11,394)    $(10,776)
+Basic and diluted loss per share(1)(2)(3)(4)(6)           $   (0.29)       $  (0.36)     $  (0.45)    $ (0.40)
+-------------------------------------------------------- --------------- ------------- ------------- -----------
+Fiscal 1999                                                 First          Second         Third        Fourth
+-------------------------------------------------------- --------------- ------------- ------------- -----------
+Revenues                                                 $  42,419       $ 38,777      $ 42,369      $ 47,452
+Gross Profit                                                16,161         14,784        15,794        18,824
+Operating loss(5)                                          (10,361)        (6,968)       (5,122)       (1,249)
+Net loss(5)                                              $  (3,088)      $ (8,539)     $ (7,074)     $ (3,905)
+Basic and diluted loss per share(5)(6)                   $   (0.16)      $  (0.41)     $  (0.34)     $  (0.20)
+-------------------------------------------------------- --------------- ------------- ------------- -----------
+</TABLE>
+
+(1)  The first quarter of fiscal 2000 includes a restructuring  charge of $0.5
+     million,  or $0.02 per share,  for severance  costs  associated  with the
+     decision to outsource  manufacturing  operations  and a non-cash  charge of
+     $1.5 million, or $0.07 per share, for debt conversion expense resulting
+     from the  conversion  and  exchange of  convertible  debentures  for common
+     stock.
+
+(2)  The second  quarter  of fiscal  2000  includes a non-cash  charge of $0.9
+     million,  or $0.03 per share, for debt conversion  expense resulting from
+     additional  conversions and exchanges of convertible  debentures for common
+     stock.
+
+(3)  The third  quarter of fiscal 2000 includes a charge of $2.0  million,  or
+     $.08 per share,  for  uncollectible  lease  receivables and related costs
+     attributable to a customer bankruptcy.
+
+(4)  The fourth  quarter of fiscal 2000  includes a credit of $0.5  million,  or
+     $0.02 per share, related to the above-referenced customer bankruptcy.  Such
+     charge was originally  estimated to approximate  $2.0 million (in the third
+     fiscal  quarter),  and was reduced by $0.5  million  (in the fourth  fiscal
+     quarter) based upon updated cost estimates.
+
+(5) The first quarter of fiscal 1999 includes a charge of $2.0 million, or $0.09
+    per share, for  restructuring  of operations and a gain of $9.0 million,  or
+    $0.41 per share, from the sale of a non-strategic division.
+
+(6) Loss per  share  amounts  for  each  quarter  are  required  to be  computed
+    independently  and,  in both fiscal 2000 and  fiscal  1999,  did not equal
+    the full year loss per share amounts.
+
+17.  Subsequent Event
+
+On October 27, 2000, a wholly-owned  Company  subsidiary settled a lawsuit which
+provided the Company with $5.5 million of  proceeds,  before  related  expenses.
+Approximately  $5.0 million (net of expenses)  will be included as income in the
+Company's financial results for the quarter ended December 31, 2000.
+
+18.  Presentation of 5% Preferred Stock
+
+At September 30, 2000,  the Company had  originally  classified the 5% Preferred
+Stock  discussed  in Note  11,  "Stockholders'  Equity,"  as  permanent  equity.
+Shareholder  approval  may be required in the future to  authorize  issuance and
+listing of shares of common  stock  needed to convert  outstanding  5% Preferred
+Stock into common stock on July 31, 2002. Since such  shareholder  approval is a
+contingency  outside of the  Company's  control,  the 5% Preferred  Stock is now
+presented outside of permanent equity.
+
+                                       30
+<PAGE>
+
+The restatement of the fiscal 2000 financial statements for the matter described
+above  had  no  affect  on  the  Company's  net  loss,  total  assets  or  total
+liabilities.
+
+                                       31
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23
+<SEQUENCE>4
+<FILENAME>ex23.txt
+<DESCRIPTION>CONSENT OF INDEPENDENT ACCOUNTANTS
+<TEXT>
+                       CONSENT OF INDEPENDENT ACCOUNTANTS
+
+We hereby  consent  to the  incorporation  by  reference  in these  Registration
+Statements on Form S-3 (File Nos. 333-20569, 333-43835, 333-45784 and 333-46478)
+and on Form S-8 (File  Nos.  2-83701,  2-92929,  33-21027,  33-36351,  33-37266,
+33-43050,  33-53150,  33-62716,  33-53201,  33-59573,   333-35299,   333-57117,
+333-86229, 333-89571 and 333-52302) of our report, which includes an explanatory
+paragraph related to the Company's ability to continue as a going concern, dated
+November 9, 2000, except for Notes 1, 8 and 17, for which the date is January 9,
+2001 and Note 18 for which the date is May 21, 2001,  relating to the  financial
+statements,  which appears in the 2000 Annual Report to  Shareholders of General
+DataComm Industries,  Inc. and Subsidiaries,  which is incorporated by reference
+in General dataComm  Industries,  Inc.'s Annual Report on Form 10-K for the year
+ended  September 30, 2000. We alo consent to the  incorporation  by reference of
+our report,  which  includes an explanatory  paragraph  related to the Company's
+ability to continue as a going concern, dated November 9, 2000, except for Notes
+1, 8 and 17,  for  which the date is  January  9, 2001 and Note 18 for which the
+date is May 21,  2001,  relating  to the  financial  statement  schedule,  which
+appears in such Annual Report on Form 10-K.
+
+                                /S/ PRICEWATERHOUSECOOPERS LLP
+
+Stamford, Conecticut
+October 18, 2001
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

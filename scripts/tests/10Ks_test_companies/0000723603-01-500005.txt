@@ -1,0 +1,3330 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ NwNV0tyBhE8Vbsjwt9u5OwNloyyuRDcCyzQn9+K+rHho/WgvJwMRZ/XWT/I4iQjw
+ x5XfE15dZj/CWpeB8GuTeQ==
+
+<SEC-DOCUMENT>0000723603-01-500005.txt : 20010426
+<SEC-HEADER>0000723603-01-500005.hdr.sgml : 20010426
+ACCESSION NUMBER:		0000723603-01-500005
+CONFORMED SUBMISSION TYPE:	10-K/A
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20000430
+FILED AS OF DATE:		20010425
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CULP INC
+		CENTRAL INDEX KEY:			0000723603
+		STANDARD INDUSTRIAL CLASSIFICATION:	BROADWOVEN FABRIC MILLS, COTTON [2211]
+		IRS NUMBER:				561001967
+		STATE OF INCORPORATION:			NC
+		FISCAL YEAR END:			0430
+
+	FILING VALUES:
+		FORM TYPE:		10-K/A
+		SEC ACT:		
+		SEC FILE NUMBER:	001-12597
+		FILM NUMBER:		1610574
+
+	BUSINESS ADDRESS:	
+		STREET 1:		101 S MAIN ST
+		CITY:			HIGH POINT
+		STATE:			NC
+		ZIP:			27260
+		BUSINESS PHONE:		3368895161
+
+	MAIL ADDRESS:	
+		STREET 1:		P O BOX 2686
+		STREET 2:		101 S MAIN ST
+		CITY:			HIGH POINT
+		STATE:			NC
+		ZIP:			27261
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-K/A
+<SEQUENCE>1
+<FILENAME>a10kafy00.txt
+<DESCRIPTION>CULP, INC., 10K/A 4-30-00
+<TEXT>
+
+
+
+                      SECURITIES AND EXCHANGE COMMISSION
+                            Washington, D. C. 20549
+
+                                  FORM 10-K/A
+
+               ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF
+                      THE SECURITIES EXCHANGE ACT OF 1934
+
+                   For the fiscal year ended April 30, 2000
+
+                          Commission File No. 0-12781
+
+                                  CULP, INC.
+            (Exact name of registrant as specified in its charter)
+
+
+              NORTH CAROLINA                            56-1001967
+      (State or other jurisdiction of       (I.R.S. Employer Identification No.)
+   incorporation or other organization)
+
+101 S. Main St., High Point, North Carolina            27261-2686
+ (Address of principal executive offices)              (zip code)
+
+                                (336) 889-5161
+             (Registrant's telephone number, including area code)
+
+       Securities registered pursuant to Section 12(b) of the Act: NONE
+
+          Securities registered pursuant to Section 12(g) of the Act:
+
+                      Common Stock, Par Value $.05/Share
+
+     Indicate by check mark whether the  registrant  (1) has filed all reports
+required  to be filed by Section  13 of the  Securities  Exchange  Act of 1934
+during  the  preceding  12  months  and (2) has  been  subject  to the  filing
+requirements for at least the past 90 days.       YES X   NO ____
+
+     Indicate by check mark if  disclosure of  delinquent  filers  pursuant to
+Item 405 of Regulation SK is not contained herein,  and will not be contained,
+to the best of  registrant's  knowledge,  in definitive  proxy or  information
+statements  incorporated  by  reference  in Part III of this  Form 10-K or any
+amendment to this Form 10-K. [   ]
+
+     As  of  July  24,   2000,   11,208,720   shares  of  common   stock  were
+outstanding.   The  aggregate  market  value  of  the  voting  stock  held  by
+non-affiliates  of the  registrant on that date was  $43,400,750  based on the
+closing  sales  price of such stock as quoted on the New York  Stock  Exchange
+(NYSE),  assuming,  for purposes of this report,  that all executive  officers
+and directors of the registrant are affiliates.
+
+                      DOCUMENTS INCORPORATED BY REFERENCE
+
+Part III
+     Portions  of the  Company's  Proxy  Statement  dated  August 18,  2000 in
+connection  with its Annual  Meeting of  Shareholders  to be held on September
+26, 2000 are incorporated by reference into Items 10, 11, 12 and 13.
+
+Items 6, 7 and 8 to  Registrant's  Form 10-K for the fiscal  year ended  April
+30, 2000 are hereby amended as follows:
+
+This amendment  reflects the  restatement of the financial  statements for the
+fiscal  years  ended  April 30,  2000,  May 2, 1999 and May 3, 1998 due to not
+properly recognizing certain gains that affect other expense,  related balance
+sheet accounts and certain  disclosures  previously  reported.  See note 17 to
+the  consolidated  financial  statements  in Item 8 for a  description  of the
+restatement.
+<PAGE>
+                                  CULP, INC.
+                               FORM 10-K REPORT
+                               TABLE OF CONTENTS
+
+Item No.                                                                  Page
+                                    PART I
+
+1.    Business
+         Overview............................................................3
+         Segments............................................................4
+         Business Strategy...................................................5
+         Capital Expenditures................................................6
+         Overview of Industry................................................6
+         Overview of Residential Furniture Industry..........................6
+         Overview of Commercial Furniture Industry...........................8
+         Overview of Bedding Industry........................................8
+         Products............................................................8
+         Manufacturing......................................................10
+         Product Design and Styling.........................................11
+         Distribution.......................................................11
+         Sources and Availability of Raw Materials..........................12
+         Competition........................................................12
+         Technology.........................................................12
+         Environmental and Other Regulations................................13
+         Employees..........................................................14
+         Customers and Sales................................................14
+         Net Sales by Geographic Area.......................................14
+         Backlog............................................................14
+
+2.    Properties............................................................15
+
+3.    Legal Proceedings.....................................................16
+
+4.    Submission of Matters to a Vote of Security Holders...................16
+
+
+                                    PART II
+
+5.    Market for the Registrant's Common Stock
+        and Related Stockholder Matters.....................................16
+
+6.    Selected Financial Data...............................................17
+
+7.    Management's Discussion and Analysis of
+        Financial Condition and Results of Operations.......................18
+
+7A.   Quantitative and Qualitative Disclosures
+        About Market Risk...................................................24
+
+
+8.    Consolidated Financial Statements and Supplementary Data..............25
+
+9.    Changes in and Disagreements with Accountants
+        on Accounting and Financial Disclosure..............................44
+
+
+
+
+                                   PART III
+
+10.   Directors and Executive Officers of the
+        Registrant..........................................................44
+
+11.   Executive Compensation................................................44
+
+12.   Security Ownership of Certain
+        Beneficial Owners and Management....................................44
+
+13.   Certain Relationships and Related
+        Transactions........................................................44
+
+
+                                    PART IV
+
+14.   Exhibits, Financial Statement Schedules
+        and Reports on Form 8-K.............................................45
+
+      Documents filed as part of this report................................45
+
+      Exhibits..............................................................46
+
+      Reports on Form 8-K...................................................52
+
+      Financial Statement Schedules.........................................52
+
+      Signatures ...........................................................53
+
+<PAGE>
+                                    PART I
+
+                               ITEM 1. BUSINESS
+
+Overview
+
+      Culp, Inc. (the Company)  manufactures  and markets  upholstery  fabrics
+and  mattress  tickings  primarily  for  use  in the  furniture  (residential,
+commercial  and juvenile) and bedding  industries  on a worldwide  basis.  The
+Company's  executive  offices are located in High Point,  North Carolina.  The
+Company was  organized as a North  Carolina  corporation  in 1972 and made its
+initial  public  offering in 1983.  Since 1997, the Company has been listed on
+the New York Stock Exchange and traded under the symbol "CFI."
+
+      Culp is one of the largest integrated  marketers of furniture upholstery
+fabrics in the world and is a leading  global  producer  of  mattress  fabrics
+(known as mattress  ticking).  The Company's  fabrics are used  principally in
+the production of residential and commercial  furniture and bedding  products,
+including sofas, recliners, chairs, loveseats,  sectionals,  sofa-beds, office
+seating,  panel  systems and mattress  sets.  Culp markets one of the broadest
+product  lines in its  industry,  with a wide  range of fabric  constructions,
+patterns,  colors,  textures and  finishes.  This breadth is made  possible by
+Culp's  extensive  manufacturing   capabilities  that  include  a  variety  of
+weaving,  printing and finishing operations and the ability to produce various
+yarns  and  unfinished  base  fabrics  (known  as  greige  goods)  used in its
+products.   Although   most  of  the  Company's   competitors   emphasize  one
+particular  type of fabric,  Culp  competes  in every  major  category  except
+leather,  which  accounts for a relatively  small  portion of the  residential
+furniture  market.  Culp's  staff of over 75 designers  and support  personnel
+utilize  Computer  Aided Design  (CAD)  systems to develop the  Company's  own
+patterns and styles.  Culp's product line  currently  includes more than 3,000
+upholstery fabric patterns and 1,000  mattress-ticking  styles.  Although Culp
+markets fabrics at most price levels,  the Company has emphasized fabrics that
+have a broad appeal in the "good" and "better"  price  categories of furniture
+and bedding.
+
+      Culp markets its products worldwide,  with sales to customers in over 50
+countries.  Total  sales  have  grown from  $351.7  million in fiscal  1996 to
+$488.1  million in fiscal 2000,  and the  Company's  international  sales have
+increased  from  $77.4  million  to $111.1  million  during  the same  period.
+Shipments  to  U.S.-based  customers  continue  to  account  for  most  of the
+Company's  sales,  but Culp's success in building a global presence has led to
+a significant  proportion of sales to international accounts (23% of net sales
+for fiscal 2000).  The Company's  network of  approximately  30  international
+sales  agents  represents  Culp's  products  in major  furniture  and  bedding
+markets outside the United States.
+
+      Culp has sixteen (16)  manufacturing  facilities,  with a combined total
+of 2.7 million  square feet,  that are located in North  Carolina  (9),  South
+Carolina (2),  Pennsylvania (2), Tennessee (1), Alabama (1) and Quebec, Canada
+(1). The Company's  distribution  system is designed to offer  customers fast,
+responsive  delivery.  Products  are shipped  directly to  customers  from the
+Company's   manufacturing   facilities,   as  well  as  from  three   regional
+distribution  facilities  strategically located in High Point, North Carolina,
+Los  Angeles,  California,  and Tupelo,  Mississippi,  which are areas of high
+concentration   of   furniture   manufacturing.   Additionally,   the  Company
+maintains an inventory of upholstery  fabrics at a warehouse facility in Grand
+Rapids,  Michigan to supply large commercial  furniture  manufacturers in that
+area.
+
+      Culp's position as a leading global  marketer of upholstery  fabrics and
+mattress ticking has been achieved  through  internal  expansion and strategic
+acquisitions.  The most recent acquisitions  include Phillips Mills,  Wetumpka
+Yarn and Artee Industries in fiscal 1998.
+
+Segments
+
+      The Company's  operating  segments are  upholstery  fabrics and mattress
+ticking,   with  related  divisions  organized  within  those  segments.   The
+divisions  within  upholstery  fabrics  are  Culp  Decorative  Fabrics,   Culp
+Velvets/Prints  and Culp Yarn. The division  within  mattress  ticking is Culp
+Home  Fashions.  Each  division  is  accorded  considerable  autonomy  and  is
+responsible for designing,  manufacturing and marketing its respective product
+lines.  Considerable  synergies  exist  among  the  divisions,  including  the
+sharing of common raw materials made internally,  such as polypropylene yarns,
+certain  dyed and spun yarns,  greige goods and printed  heat-transfer  paper.
+Products  manufactured at one division's facility are commonly  transferred to
+another division's facility for additional  value-added  processing steps. The
+following  table  sets forth  certain  information  for each of the  Company's
+segments/divisions.
+
+
+                          Culp's Segments/Divisions
+                          -------------------------
+                                             FISCAL 2000    PRODUCT LINES
+                                              NET SALES     (BASE CLOTH, IF
+      SEGMENT             DIVISION          (in millions)   APPLICABLE)
+      -------             --------          -------------   -----------
+Upholstery Fabrics  Culp Decorative Fabrics    $213.2       Woven jacquards
+                                                            Woven dobbies
+
+                    Culp Velvets/Prints        $151.5       Wet prints (flocks)
+                                                            Heat-transfer prints
+                                                           (jacquard, flock)
+                                                            Cotton prints
+                                                            Woven velvets
+                                                            Tufted velvets
+                                                            (woven polyester)
+
+                    Culp Yarn                  $ 17.6       Pre-dyed spun yarns
+                                                            Chenille yarns
+
+Mattress Ticking    Culp Home Fashions         $105.8       Woven jacquards
+                                                            Heat-transfer prints
+                                                            (jacquard, knit,
+                                                            sheeting)
+                                                            Pigment prints
+                                                            (jacquard, knit,
+                                                            sheeting, non-woven)
+
+
+
+      Culp  Decorative  Fabrics.  Culp  Decorative  Fabrics  manufactures  and
+markets  jacquard and dobby woven fabrics used primarily for  residential  and
+commercial furniture.  Culp Decorative Fabrics'  manufacturing  facilities are
+located in Burlington,  Graham and Monroe,  North  Carolina,  Pageland,  South
+Carolina,  Chattanooga,   Tennessee  and  West  Hazleton,  Pennsylvania.  Culp
+Decorative   Fabrics   has   become   increasingly    vertically   integrated,
+complementing its extensive weaving  capabilities with the ability to extrude,
+dye and  texturize  yarn.  The  designs  marketed by Culp  Decorative  Fabrics
+range  from  intricate,  complicated  patterns  such as  floral  and  abstract
+designs to  patterns  associated  with casual  living  styles that are popular
+with motion  furniture.  Culp Decorative  Fabrics accounts for the majority of
+the  Company's  sales  to  the  commercial   furniture  market.   The  Company
+maintains an inventory at a third-party  warehouse in Grand  Rapids,  Michigan
+to supply  fabrics  marketed by Culp  Decorative  Fabrics to large  commercial
+furniture manufacturers on a "just in time" basis.
+
+      Culp  Velvets/Prints.  Culp  Velvets/Prints  manufactures  and markets a
+broad range of printed and velvet fabrics.  These include  wet-printed designs
+on flock  base  fabrics,  heat-transfer  prints on  jacquard  and  flock  base
+fabrics,  cotton  prints,  woven  velvets and tufted  velvets.  These  fabrics
+typically offer  manufacturers  richly colored patterns and textured surfaces.
+Recent  product  development  improvements  in  manufacturing  processes  have
+significantly  enhanced  the  quality  of  printed  flock  fabrics  which  are
+principally  used for residential  furniture.  These fabrics are also used for
+other  upholstered  products  such  as  baby  car  seats.  These  fabrics  are
+manufactured at Burlington,  North  Carolina,  Anderson,  South Carolina,  and
+Lumberton, North Carolina.
+
+      Culp Yarn.  Culp Yarn  manufactures  and  markets a variety of  pre-dyed
+spun  yarns,  including  WrapSpun(tm), open-end  spun, ring  spun and chenille
+yarns.  Culp Yarn operates  manufacturing  facilities in Shelby,  Cherryville,
+and Lincolnton,  North Carolina and Wetumpka,  Alabama.  The Wetumpka facility
+was  acquired in December  1997 and the other Culp Yarn plants were  purchased
+in  February  1998.  Over  half  of  the  production  of  Culp  Yarn  is  used
+internally  by other Culp  divisions.  The external  sales are directed to the
+upholstery  fabric,  carpet  and  apparel  markets,  and a  portion  of  these
+shipments  are to  competitors  of Culp.  Culp  Yarn has  provided  Culp  more
+control  over its  supply  of spun and  chenille  yarns and  complemented  the
+Company's increased emphasis on developing new designs.
+
+      Culp Home  Fashions.  Culp Home Fashions  principally  markets  mattress
+ticking to bedding  manufacturers.  These  fabrics  encompass  woven  jacquard
+ticking as well as heat-transfer and  pigment-printed  ticking on a variety of
+base fabrics,  including jacquard,  knit,  poly/cotton  sheeting and non-woven
+materials.  Culp Home Fashions has  successfully  blended its diverse printing
+and  finishing  capabilities  with its access to a variety of base  fabrics to
+offer  innovative  designs to bedding  manufacturers  for  mattress  products.
+Printed  jacquard  fabrics  offer  customers  better  values with  designs and
+textures of more  expensive  fabrics.  Jacquard  greige goods  printed by Culp
+Home  Fashions are primarily  provided by the  division's  Rayonese  facility.
+Culp Home Fashions' manufacturing facilities are located in Stokesdale,  North
+Carolina and St. Jerome, Quebec.
+
+Business Strategy
+
+      The  Company's  plan to  maintain  leadership  in the global  upholstery
+fabric and  mattress  ticking  segments is based on a business  strategy  that
+includes five main initiatives:
+
+      Customer  Service and Vertical  Integration  - continuing to enhance the
+competitive  value of its upholstery  fabrics and mattress  ticking  through a
+company-wide  initiative to raise  efficiency  and improve  customer  service.
+Important  aspects of this program have  included  attaining  more  consistent
+product  quality,  improving  delivery  standards and offering more innovative
+designs.  The  Company's  ability to realize  progress  in these  areas in the
+past has been aided  significantly  by  becoming  more  vertically  integrated
+through    capital    expansion    projects   and   strategic    acquisitions.
+Representative  steps have included adding  capacity for producing  unfinished
+jacquard  greige  goods,  extruding  polypropylene  yarn  and  most  recently,
+manufacturing spun and specialty yarn.
+
+      Broad  Product  Offering  -  continuing  to market  one of the  broadest
+product  lines  in  upholstery  fabrics  and  mattress  ticking.  Through  its
+extensive  manufacturing  capabilities,  the  Company  competes in every major
+category except leather.
+
+      Diverse  Global  Customer Base - increasing its  penetration  into other
+end-use markets in addition to U.S.  residential  furniture,  such as bedding,
+international, commercial furniture and juvenile furniture.
+
+      Design  Innovation  -  continuing  to  invest  in  personnel  and  other
+resources  for the design of  upholstery  fabrics and ticking  with  appealing
+patterns and  textures.  An integral  component of the value Culp  provides to
+customers is supplying  fabrics that are fashionable and meet current consumer
+preferences.  The Company's  principal  design  resources are now consolidated
+in a single  facility  that  provides  advanced  CAD  systems  and  promotes a
+sharing of innovative designs among the divisions.
+
+      Additional   Acquisitions   -  investing   in   selective   acquisitions
+complementary to existing segments.
+
+Capital Expenditures
+
+      Since fiscal 1995,  the Company has invested  $110.5  million in capital
+expenditures  to expand its  manufacturing  capacity,  install more  efficient
+production   equipment  and  vertically   integrate  its   operations.   These
+expenditures  have included,  among other things,  the  installation of narrow
+and wide-width  weaving machines and additional  printing equipment to support
+the growth in woven and printed upholstery  fabrics and mattress ticking.  The
+Company  spent  approximately  $22.6  million in capital  expenditures  during
+fiscal  2000  for  vertical  integration  and  modernization.  This  level  of
+capital  spending was above the $10.7 million in capital  expenditures  during
+fiscal 1999.  During 2000, the key projects  relating to vertical  integration
+included  expanding  wide loom  capacity  at St.  Jerome,  Quebec,  Canada and
+carding  capacity  at  Wetumpka,   Alabama.  Projects  to  modernize  existing
+facilities  encompassed  several investments in looms throughout the Company's
+operations.  The Company is  currently  planning on capital  expenditures  for
+fiscal 2001 of approximately $16 million.
+
+Overview of Industry
+
+      Culp markets products  worldwide to a broad array of manufacturers  that
+operate in three principal markets and several specialty markets:
+
+      Residential  furniture.  This market includes upholstered furniture sold
+      to   consumers.   Products   include   sofas,   sleep   sofas,   chairs,
+      motion/recliners, sectionals and occasional furniture items.
+
+      Commercial  furniture.  This market includes  upholstered office seating
+      and modular office systems sold primarily for use in offices  (including
+      home offices) and other institutional settings.
+
+      Bedding.  This market  includes  mattress  sets as well as other related
+      home furnishings.
+
+      Specialty  markets.  These markets include juvenile  furniture (baby car
+      seats and other baby items),  hospitality  (furniture used in hotels and
+      other  lodging  establishments),   "top  of  the  bed"  (comforters  and
+      bedspreads),   outdoor   furniture,    recreational   vehicle   seating,
+      automotive  aftermarket (slip-on seat covers),  retail fabric stores and
+      specialty yarn.
+
+Overview of Residential Furniture Industry
+
+      The  upholstery  fabric  industry  is highly  competitive,  particularly
+among   manufacturers   in   similar   market   niches.   American   Furniture
+Manufacturers Association, a trade association,  reports that manufacturers of
+residential  furniture  in  the  United  States  shipped  products  valued  at
+approximately $25 billion  (wholesale) during 1999.  Approximately 40% of this
+furniture  is believed to consist of  upholstered  products.  The  upholstered
+furniture market has grown from $5.4 billion in 1991 to $10 billion in 1999.
+
+      Trends in demand for upholstery  fabric and mattress  ticking  generally
+parallel  changes in consumer  purchases  of furniture  and  bedding.  Factors
+influencing  consumer  purchases  of home  furnishings  include  the number of
+household  formations,  growth  in the  general  population,  the  demographic
+profile of the population, consumer confidence,  employment levels, the amount
+of disposable income,  geographic  mobility,  housing starts and existing home
+sales.  The  long-term  trend in demand for furniture and bedding has been one
+of moderate  growth,  although  there have been some  occasional  periods of a
+modest downturn in sales due principally to changes in economic conditions.
+
+      The Company  believes that  demographic  trends  support the outlook for
+continued  long-term  growth in the U.S.  residential  furniture  and  bedding
+industries.  In particular,  as "baby  boomers"  (people born between 1946 and
+1964)  mature to the 35-to-64  year age range over the next decade,  they will
+be reaching their highest  earning  power.  Consumers in these age groups tend
+to  spend  more on  home  furnishings,  and the  increasing  number  of  these
+individuals  favors higher demand for furniture and related home  furnishings.
+Statistics  also show that the  average  size of new  homes has  increased  in
+recent years, and that is believed to have resulted in increased  purchases of
+furniture per home.
+
+      There is an established trend toward  consolidation at all levels within
+the home  furnishings  industry.  Furniture/Today  has  reported  that the ten
+largest  residential  furniture  manufacturers  accounted  for over 40% of the
+industry's  total  shipments in 1999, up from a 23% share in 1985.  This trend
+is  expected  to  continue,   particularly  because  of  the  need  to  invest
+increasing   capital  to  maintain  modern   manufacturing   and  distribution
+facilities as well as to provide the sophisticated  computer-based systems and
+processes  necessary to interface in the supply chain  between  retailers  and
+suppliers.  This  trend  toward  consolidation  is  resulting  in  fewer,  but
+larger,  customers for upholstery fabric  manufacturers.  The Company believes
+that this environment  favors larger upholstery fabric  manufacturers  capable
+of  supplying  a broad  range of product  choices at the  volumes  required by
+major furniture manufacturers on a timely basis.
+
+      Today's   furniture   customers   prefer  more  casual  and  comfortable
+furniture,  including motion  furniture,  than did consumers ten years ago. In
+addition,  customers are placing increasing  emphasis on product quality.  The
+increasing  importance  of product  quality has allowed  fabric  manufacturers
+with  effective  quality  control  systems  to gain a  competitive  advantage.
+Modern  furniture  buyers are also  demanding  faster  delivery.  To meet this
+demand,  the  furniture  industry  as a  whole  has  increased  its  focus  on
+just-in-time manufacturing methods and shorter delivery lead times.
+
+      Culp's  international  sales declined 2% in 2000 to $111.1 million.  The
+Company does not believe that this decline  suggests any  structural  shift in
+the competitive  position of Culp or in the long-term  opportunities  that are
+presented by rising demand for furniture in  developing  countries.  Consumers
+in these areas are often  attracted to those  designs and fashions that mirror
+American tastes,  and U.S.-based  manufacturers such as Culp have been able to
+capitalize  on  this  preference.   Production  costs  of  fabrics  involve  a
+relatively  low labor  component,  which  provides an advantage  for a company
+with modern,  efficient  manufacturing  equipment and systems.  The large size
+of the  furniture  market  within the United  States has helped  establish  an
+upholstery  fabrics  industry that  features  ready access to a variety of raw
+materials,  larger  manufacturers with lower costs resulting from economies of
+scale and the  availability of new designs and patterns.  The Company believes
+that  these   characteristics   assist  Culp  in  competing   effectively   in
+international markets.
+
+Overview of Commercial Furniture Industry
+
+      The commercial  furniture market in the United States  represents annual
+shipments by manufacturers  valued at approximately  $12 billion.  Seating and
+office  systems,  which  represent  the  primary  uses of  upholstery  in this
+industry,  represented  annual sales of approximately $7 billion annually.  At
+the  manufacturing  level, the industry is highly  concentrated.  The top five
+manufacturers  of commercial  furniture  account for an estimated 65% of total
+industry shipments.  Although demand for commercial  furniture can be affected
+by general economic trends,  the historical  pattern has been one of generally
+steady growth.
+
+      Dealers aligned with specific  furniture brands account for over half of
+industry  shipments of commercial  furniture.  Some shift in the  distribution
+of commercial  furniture has occurred in recent years in conjunction  with the
+growth in national and regional chains featuring office supplies.
+
+Overview of Bedding Industry
+
+      According  to  data  compiled  by  the   International   Sleep  Products
+Association   ("ISPA"),   the  domestic  conventional  bedding  market,  which
+generated  estimated  wholesale  revenues of $4.1 billion during calendar year
+1999,   includes   approximately  800  manufacturers  of  mattress  sets.  The
+conventional  bedding market  accounts for  approximately  90% of the domestic
+bedding market.  Approximately 71% of the conventional bedding manufactured in
+the U.S. is sold to furniture  stores and specialty  sleep shops.  Most of the
+remaining  29% is sold to  department  stores,  national  mass  merchandisers,
+membership   clubs  and   factory   direct   stores.   Approximately   70%  of
+conventional  bedding is sold for  replacement  purposes  and the average time
+lapse between mattress purchases is approximately 11 years.
+
+Products
+
+      As described above, the Company's  products include  upholstery  fabrics
+and mattress ticking.
+
+      UPHOLSTERY  FABRICS.  The Company  derives the  majority of its revenues
+from  the  sale  of  upholstery  fabrics  primarily  to  the  residential  and
+commercial  (contract) furniture markets.  Sales of upholstery fabrics totaled
+78% of  sales  for  fiscal  2000.  The  Company  has  emphasized  fabrics  and
+patterns that have broad appeal at  promotional  to medium  prices,  generally
+ranging from $2.20 per yard to $9.50 per yard.
+
+      MATTRESS  TICKING.  The  Company  also  manufactures   mattress  ticking
+(fabric  used for  covering  mattresses  and box  springs) for sale to bedding
+manufacturers.  Sales of mattress  ticking  constituted 22% of sales in fiscal
+2000.  The  Company  has  emphasized  fabrics  and  patterns  which have broad
+appeal at prices generally ranging from $1.20 to $8.00 per yard.
+
+      The  Company's  upholstery  fabrics  and  mattress  ticking  can each be
+broadly  grouped  under  the three  main  categories  of  wovens,  prints  and
+velvets.  The  following  table  indicates  the product  lines  within each of
+these   categories,   a  brief  description  of  their   characteristics   and
+identification of their principal end-use markets.
+
+
+
+
+
+                            Culp Fabric Categories
+                            ----------------------
+Upholstery Fabrics             Characteristics                 Principal Markets
+- ------------------             ---------------                 -----------------
+Wovens:
+Jacquards          Elaborate, complex designs such as florals   Residential
+                   and tapestries in traditional, transitional  furniture
+                   and contemporary styles.  Woven on           Commercial
+                   intricate looms using a wide variety of      furniture
+                   synthetic and natural yarns.
+
+Dobbies            Geometric designs such as plaids, stripes    Residential
+                   and solids in traditional and country        furniture
+                   styles.  Woven on less complicated looms     Commercial
+                   using a variety of weaving constructions     furniture
+                   and primarily synthetic yarns.
+Prints:
+Wet prints         Contemporary patterns with deep, rich        Residential
+                   colors on a nylon flock base fabric for a    furniture
+                   very soft texture and excellent              Juvenile
+                   wearability.  Produced by screen printing    furniture
+                   directly onto the base fabric.
+
+Heat-transfer      Sharp, intricate designs on flock or         Residential
+prints             jacquard base fabrics.  Plush feel           furniture
+                   (flocks), deep colors (jacquards) and        Juvenile
+                   excellent wearability.  Produced by using    furniture
+                   heat and pressure to transfer color from
+                   printed paper onto base fabric.
+                                                                Residential
+Cotton prints      A broad variety of designs featuring deep,   furniture
+                   rich colors printed on woven cotton base
+                   fabrics with excellent wearability.
+                   Produced by screen printing directly onto
+                   the base fabric.
+Velvets:
+Woven velvets      Basic designs such as plaids and             Residential
+                   semi-plains in traditional and               furniture
+                   contemporary styles with a plush feel.
+                   Woven with a short-cut pile using various
+                   weaving methods and synthetic yarns.
+
+Tufted velvets     Lower cost production process of velvets in  Residential
+                   which synthetic yarns are punched into a     furniture
+                   base polyester fabric for texture.  Similar
+                   designs as woven velvets.
+
+Mattress Ticking               Characteristics                 Principal Markets
+- ----------------               ---------------                 -----------------
+Wovens:
+Jacquards          Florals and other intricate  designs. Woven   Bedding
+                   on  complex  looms  using a wide  variety of
+                   synthetic and natural yarns.
+Prints:
+Heat-transfer      Sharp,  detailed designs.  Produced by using  Bedding
+prints             heat and  pressure  to  transfer  color from
+                   printed paper onto base  fabrics,  including
+                   woven   jacquards,   knits  and  poly/cotton
+                   sheetings.
+
+Pigment prints     Variety of designs produced  economically by  Bedding
+                   screen  printing  pigments onto a variety of
+                   base fabrics,  including  jacquards,  knits,
+                   poly/cotton sheeting and non-wovens.
+================================================================================
+
+      Although  fabrics  marketed for upholstery  applications  and those used
+for mattress  ticking may have similar  appearances,  mattress ticking must be
+manufactured on weaving and printing  equipment in wider widths to accommodate
+the  physical  size of box  springs and  mattresses.  The  Company's  products
+include all major types of coverings,  except for leather,  that manufacturers
+use today for  furniture  and bedding.  The Company  also markets  fabrics for
+certain  specialty  markets,  but these do not currently  represent a material
+portion of the Company's business.
+
+Manufacturing
+
+      Substantially   all  of  the  upholstery  fabric  and  mattress  ticking
+currently  marketed  by  Culp  is  produced  at  the  Company's  sixteen  (16)
+manufacturing  facilities.  These  plants  encompass  a total  of  2.7-million
+square feet and  include  yarn  extrusion,  spinning,  dyeing and  texturizing
+equipment,  narrow  and  wide-width  jacquard  looms,  dobby and woven  velvet
+looms,  tufting machines,  printing  equipment for pigment,  heat-transfer and
+wet  printing,  fabric  finishing  equipment  and  various  types  of  surface
+finishing  equipment  (such as  washing,  softening  and  embossing).  Culp is
+actively  pursuing ISO certification  for its  manufacturing  facilities.  ISO
+certification  is an  international  recognition  of a  company's  ability  to
+deliver high quality products and services.  Culp's  facilities at Stokesdale,
+North  Carolina,  which  produces  mattress  ticking,  and at Anderson,  South
+Carolina,   which  produces  woven  velvet  upholstery  fabric,  were  awarded
+ISO-9002  certification  during  fiscal  1997.  Additionally,   the  Company's
+facility at  Pageland,  South  Carolina,  which  produces  jacquard  and dobby
+upholstery fabric,  and the finishing  facility in Burlington,  North Carolina
+were awarded ISO-9002  certification  in fiscal 1998.  During fiscal 1999, the
+Company's   weaving   facility  in  Graham,   North   Carolina  and  the  Culp
+Velvets/Prints  plant in  Burlington,  North Carolina  successfully  completed
+ISO-9002   registration.   The  Company  is  planning  to  complete   the  ISO
+certification process at its other facilities over the next several years.
+
+      The  Company's  woven  fabrics are made from various  types of synthetic
+and natural yarn, such as polypropylene,  polyester,  acrylic, rayon, nylon or
+cotton.  Yarn is woven  into  various  fabrics  on  jacquard,  dobby or velvet
+weaving  equipment.  Once the weaving is completed,  the fabric can be printed
+or finished using a variety of processes.  The Company currently  extrudes and
+spins a portion of its own needs for yarn and  purchases  the  remainder  from
+outside  suppliers.  As a result of the  acquisition  of the Culp Yarn  plants
+during  fiscal 1998,  Culp  produces  internally a  substantial  amount of its
+needs for spun and  chenille  yarns.  The Company also  supplies  other fabric
+manufacturers  with spun yarns  manufactured  by Culp Yarn.  Culp  purchases a
+significant amount of greige goods  (unfinished,  uncolored base fabrics) from
+other suppliers to be printed at the Company's  plants,  but has increased its
+internal  production  capability for jacquard greige goods. The acquisition of
+Rayonese in fiscal 1995  increased the  Company's  capacity to produce its own
+jacquard greige goods.  Culp has installed  additional airjet weaving machines
+at Rayonese to significantly increase its capacity for jacquard greige goods.
+
+      During the fourth  quarter of fiscal  1997,  the Company  installed  its
+first flock  coating line to produce  flock greige goods to be used  primarily
+as the base  cloth for wet and  heat-transfer-printed  flock  products.  Flock
+fabrics are  produced  by the  application  of very short nylon  fibers onto a
+poly/cotton  woven  base  fabric to create a velvet  effect.  During the flock
+coating  process,  the fibers are bonded onto the base fabric with an adhesive
+substance by utilizing an  electrostatic  charging  procedure which causes the
+fibers to vertically align with the base fabric.
+
+      Tufted velvet  fabrics are produced by tufting  machines which insert an
+acrylic or  polypropylene  yarn through a polyester woven base fabric creating
+loop pile surface  material which is then sheared to create a velvet  surface.
+Tufted  velvet  fabrics  are  typically  lower-cost  fabrics  utilized  in the
+Company's lower-priced product mix.
+
+      The Company's  printing  operations  include  pigment and  heat-transfer
+methods,  as well as wet  printing.  The Company also produces its own printed
+heat-transfer paper, another component of vertical  integration.  Wet printing
+is the most recent addition to the Company's printing capabilities.
+
+Product Design and Styling
+
+      Consumer  tastes and  preferences  related to upholstered  furniture and
+bedding  change,  albeit  gradually,  over time.  The use of new  fabrics  and
+designs remains an important  consideration  for  manufacturers to distinguish
+their  products at retail and to capitalize on even small changes in preferred
+colors,  patterns and  textures.  Culp's  success is largely  dependent on the
+Company's  ability to market  fabrics  with  appealing  designs and  patterns.
+Culp has a staff of over 75 designers  and support  personnel  involved in the
+design and  development of new patterns and styles,  including  designers with
+experience  in designing  products for specific  international  markets.  Culp
+uses  computer  aided design (CAD) systems in the  development  of new fabrics
+which assists the Company in providing a very flexible design  program.  These
+systems have enabled the Company's  designers to experiment with new ideas and
+involve  customers  more actively in the process.  The use of CAD systems also
+has   supported   the   Company's   emphasis  on   integrating   manufacturing
+considerations  into the early phase of a new design.  The  completion  of the
+Howard L.  Dunn,  Jr.  design  center in January  1998 has enabled most of the
+Company's  designers to be located in the same facility to support the sharing
+of  design  ideas  and CAD and  other  technologies.  The  design  center  has
+enhanced the Company's  merchandising  and  marketing  efforts by providing an
+environment  in  which  customers  can  be  shown  new  products  as  well  as
+participate in product development initiatives.
+
+      The process of developing new designs involves  maintaining an awareness
+of  broad   fashion  and  color   trends   both  in  the  United   States  and
+internationally.  These  concepts  are blended  with input from the  Company's
+customers  to develop new fabric  designs and  styles.  Most of these  designs
+are introduced by Culp at major trade  conferences  that occur twice a year in
+the  United   States   (January  and  July)  and  annually  in  several  major
+international markets.
+
+
+Distribution
+
+      The majority of the  Company's  products are shipped  directly  from its
+distribution centers at or near manufacturing  facilities.  This "direct ship"
+program is primarily  utilized by large  manufacturers.  Generally,  small and
+medium-size  residential  furniture  manufacturers  use  one of the  Company's
+three  regional   distribution   facilities  which  have  been   strategically
+positioned in areas which have a high  concentration of residential  furniture
+manufacturers  - High Point,  North  Carolina,  Los  Angeles,  California  and
+Tupelo,  Mississippi.  In  addition,  the Company  maintains  an  inventory of
+upholstery  fabric at a warehouse  in Grand  Rapids,  Michigan to supply large
+commercial  furniture  manufacturers  in that area on a "just in time"  basis.
+The Company closely monitors demand in each  distribution  territory to decide
+which  patterns and styles to hold in inventory.  These products are available
+on demand by customers and are usually  shipped  within 48 hours of receipt of
+an order.  Substantially  all of the Company's  shipments of mattress  ticking
+are made from its manufacturing  facilities in Stokesdale,  North Carolina and
+St. Jerome, Quebec, Canada.
+
+      In  international  markets,  Culp sells primarily to  distributors  that
+maintain   inventories   of   upholstery   fabrics  for  resale  to  furniture
+manufacturers.   The   Company   plans  to  explore   the   establishment   of
+distribution  facilities in certain areas outside the United States to support
+international sales.
+
+Sources and Availability of Raw Materials
+
+      Raw  materials  account  for  more  than  half  of the  Company's  total
+production  costs.  The  Company  purchases  various  types of  synthetic  and
+natural yarns (polypropylene,  polyester,  acrylic,  nylon, rayon and cotton),
+synthetic staple fibers (acrylic, rayon,  polypropylene,  polyester),  various
+types of greige  goods  (poly/cotton  wovens  and  flocks,  polyester  wovens,
+poly/rayon and  poly/cotton  jacquard  wovens,  polyester  knits,  poly/cotton
+sheeting and  non-wovens),  polypropylene  resins,  nylon flock fibers,  rayon
+staple, latex adhesives,  dyes and chemicals from a variety of suppliers.  The
+Company  has  made  a  significant  investment  in  becoming  more  vertically
+integrated  and producing  more of its jacquard  greige  goods,  polypropylene
+yarns,  package dyed yarns and printed  heat-transfer  paper internally.  As a
+result,  a larger  portion of its raw  materials  are  comprised of more basic
+commodities  such as rayon staple,  undyed yarns,  polypropylene  resin chips,
+certain  polyester  warp yarns,  unprinted  heat-transfer  paper and unflocked
+poly/cotton  base fabric.  Although the Company is dependent upon one supplier
+for all of its nylon flock  fibers and upon one  supplier  of acrylic  staple,
+most of the Company's  raw materials are available  from more than one primary
+source. The prices of such materials  fluctuate  depending upon current supply
+and  demand  conditions  and  the  general  rate  of  inflation.  Many  of the
+Company's basic raw materials are petrochemical  products or are produced from
+such   products,   and  therefore   the  Company's  raw  material   costs  are
+particularly  sensitive to changes in  petrochemical  prices.  Generally,  the
+Company has not had significant difficulty in obtaining raw materials.
+
+Competition
+
+      In spite of the trend  toward  consolidation  in the  upholstery  fabric
+market,  the Company  competes  against a large number of  producers,  ranging
+from large manufacturers  comparable in size to the Company to small producers
+and  marketers  of  specialty  fabrics.  The Company  believes  its  principal
+upholstery  fabric  competitors are the Burlington  House Fabrics  division of
+Burlington   Industries,   Inc.,  Joan  Fabrics  Corporation   (including  its
+Mastercraft division), Microfibres, Inc., and Quaker Fabric Corporation.
+
+Conversely,  the mattress  ticking market is  concentrated in a few relatively
+large  suppliers.   The  Company  believes  its  principal   mattress  ticking
+competitors  are  Bekaert  Textiles  B.V.,   Blumenthal  Print  Works,   Inc.,
+Burlington House Fabrics division of Burlington  Industries,  Inc. and Tietex,
+Inc.  Although  the  Company  is one of the  largest  suppliers  of  furniture
+upholstery  fabrics and a leading  supplier of mattress ticking to the bedding
+industry,  some of the  Company's  competitors  are  larger  overall  and have
+greater  financial  resources than the Company.  Competition for the Company's
+products is based primarily on price, design,  quality, timing of delivery and
+service.
+
+
+Technology
+
+      Culp  views the use of  technology  as a very  important  element in the
+Company's  efforts to achieve higher levels of service to its customers and to
+produce and deliver its products in an efficient  and  cost-effective  manner.
+Some of Culp's key initiatives in this area include:
+
+- -     The Company has created a home page on the  Internet  (www.Culpinc.com).
+      Through the Internet and the Culp home page,  customers can use a system
+      known as CulpLink  to view their  current  order  status,  shipping  and
+      invoice  information,  and twelve months of sales history.  The CulpLink
+      system was developed  internally by the  Company's  MIS  department  and
+      provides superior communication with customers throughout the world.
+
+- -     Culp has implemented  significant  upgrades to its design technology and
+      has opened the  state-of-the-art  Howard L. Dunn, Jr. Design Center. The
+      Company has used computer aided design (CAD)  technology for many years,
+      and recent  upgrades in hardware and software in the CAD department have
+      made the  process  of moving  from  design to a  finished  project  both
+      faster  and  simpler.   The  Company  also  has   implemented  an  image
+      archiving system that will allow  electronic  storage of all artwork and
+      easy access to artwork for designers.
+
+- -     Local Area Networks  (LANs) have been  installed at  individual  plants,
+      and all of  these  are  combined  into  one  Wide  Area  Network  (WAN),
+      allowing easy  information  exchange  among  various Culp  locations and
+      communication  with customers and suppliers  through the Internet.  Culp
+      has installed fiber optic cable networks as the  communication  backbone
+      throughout  the  Company,  placing  the  Company in  position  to easily
+      expand the user base and to take  advantage of this faster data transfer
+      medium  for  potential  future  uses  such  as  video  conferencing  and
+      transferring large files like those required for digital images.
+
+- -     The Company has recently  completed the  installation  of new shop floor
+      data  collection  systems to track inventory  movement.  This initiative
+      includes  the use of fixed laser  scanners,  hand-held  radio  frequency
+      devices,  and  industrialized  keyboards  and  display  stations  at key
+      points  throughout the  manufacturing  process to record the movement of
+      goods through  production and shipping.  The Company makes extensive use
+      of  bar-coding  to  track  products  throughout  its  manufacturing  and
+      distribution  systems,  and  the  Company  has  recently  installed  new
+      thermal transfer  printers for high quality printing of bar-coded labels
+      and work orders.
+
+Environmental and Other Regulations
+
+      The   Company  is  subject  to  various   federal  and  state  laws  and
+regulations,  including the Occupational Safety and Health Act and federal and
+state  environmental  laws,  as well as similar  laws  governing  its Rayonese
+facility in Canada.  The Company  periodically  reviews  its  compliance  with
+such laws and  regulations  in an attempt  to  minimize  the risk of  material
+violations.
+
+     The Company's  operations involve a variety of materials and processes that
+are  subject to  environmental  regulation.  Under  current  law,  environmental
+liability can arise from  previously  owned  properties,  leased  properties and
+properties  owned by third parties,  as well as from properties  currently owned
+and leased by the  Company.  Environmental  liabilities  can also be asserted by
+adjacent landowners or other third parties in toxic tort litigation.
+
+      In   addition,   under   the   Comprehensive   Environmental   Response,
+Compensation,  and Liability Act of 1980, as amended ("CERCLA"), and analogous
+state  statutes,  liability  can be imposed for the disposal of waste at sites
+targeted for cleanup by federal and state  regulatory  authorities.  Liability
+under CERCLA is strict as well as joint and  several.  The Company has accrued
+reserves for environmental  matters based on information  presently available.
+Based on this information and the Company's established reserves,  the Company
+does not  believe  that  environmental  matters  will have a material  adverse
+effect on either the Company's  financial  condition or results of operations.
+However,   there  can  be  no  assurance  that  the  costs   associated   with
+environmental matters will not increase in the future.
+
+Employees
+
+      As of April 30, 2000,  the Company had  approximately  3,800  employees.
+All of the  hourly  employees  at the  Company's  facility  in West  Hazleton,
+Pennsylvania  and all of the hourly  employees  at the  Rayonese  facility  in
+Canada  (approximately  14% of the Company's  workforce) are  represented by a
+union.  The  collective  bargaining  agreement  with  respect  to  the  hourly
+employees  at the  Pennsylvania  plant  expires in  December  2002,  while the
+collective  bargaining agreement with respect to the Rayonese hourly employees
+expires  in  February  2002.  The  Company  is not  aware  of any  efforts  to
+organize  any  more of its  employees  and  believes  its  relations  with its
+employees are good.
+
+Customers and Sales
+
+      Culp's  size,  broad  product  line,  diverse   manufacturing  base  and
+effective  distribution  system  enable it to market  products  to over  2,000
+customers.   Major   customers  are  leading   manufacturers   of  upholstered
+furniture,   including  Bassett,  Furniture  Brands  International  (Broyhill,
+Thomasville  and  Lane),  Lifestyles   International   (Berkline,   Universal,
+Benchcraft,  Drexel,  Henredon and others),  Flexsteel and La-Z-Boy  (Bauhaus,
+England/Corsair,  LADD  Furniture  and others).  Representative  customers for
+the Company's  fabrics for commercial  furniture  include  Herman Miller,  HON
+Industries and Steelcase.  In the mattress ticking area,  Culp's customer base
+includes  leading  bedding  manufacturers  such as Sealy,  Serta,  Simmons and
+Spring  Air.  Culp's   customers  also  include  many  small  and  medium-size
+furniture and bedding  manufacturers.  In  international  markets,  Culp sells
+upholstery  fabrics  primarily to distributors  that maintain  inventories for
+resale to furniture manufacturers.
+
+      The  following  table sets forth the  Company's  net sales by geographic
+area by amount and  percentage  of total net sales for the three  most  recent
+fiscal years.
+
+                            Net Sales by Geographic Area
+                               (dollars in thousands)
+                         Fiscal 2000         Fiscal 1999           Fiscal 1998
+                      ----------------     ----------------     ----------------
+
+United States       $376,975    77.2%    $369,730    76.5%    $339,492     71.2%
+North America
+(excluding U.S.)      36,032     7.4       31,102     6.5       31,160      6.5
+Europe                16,351     3.4       19,578     4.1       30,775      6.5
+Middle East           32,929     6.7       33,996     7.0       34,412      7.2
+Asia and Pacific Rim  19,102     3.9       21,371     4.4       32,344      6.8
+South America          2,343     0.5        3,484     0.7        5,158      1.1
+All other areas        4,347     0.9        3,823     0.8        3,374      0.7
+                      ------    ----       ------     ----      ------      ----
+Subtotal             111,104    22.8      113,354    23.5      137,223     28.8
+
+Total               $488,079   100.0%    $483,084   100.0%    $476,715    100.0%
+                   =========  =======   =========  =======   =========  ========
+
+
+Backlog
+
+      Because a large portion of the Company's  customers  have an opportunity
+to cancel  orders,  it is  difficult to predict the amount of the backlog that
+is "firm."  Many  customers  may cancel  orders  before  goods are placed into
+production,  and some may cancel at a later  time.  In  addition,  the Company
+markets a  significant  portion of its sales  through its  Regional  Warehouse
+System from in-stock  order  positions.  On April 30, 2000, the portion of the
+backlog  with  confirmed  shipping  dates  prior  to June 4,  2000  was  $39.1
+million,  and on May 2,  1999,  the  portion  of the  backlog  with  confirmed
+shipping dates prior to June 6, 1999 was $38.6 million.
+
+
+                              ITEM 2. PROPERTIES
+
+
+      The Company's  headquarters  are located in High Point,  North Carolina,
+and the Company currently operates sixteen (16)  manufacturing  facilities and
+three (3) regional distribution facilities.  The following is a summary of the
+Company's   principal    administrative,    manufacturing   and   distribution
+facilities. The manufacturing facilities are organized by segment.
+
+<TABLE>
+<CAPTION>
+                                                                 Approx.
+                                                                Total Area    Expiration
+Location                       Principal Use                    (Sq. Ft.)    of Lease (2)
+- -----------------------------  ------------------------------  -----------   ------------
+<S>                            <C>                              <C>           <C>
+Headquarters and Distribution
+Centers:  (1)
+ High Point, North Carolina    Corporate headquarters             40,000         2015
+ Burlington, North Carolina    Design Center                      30,000        Owned
+ Los Angeles, California       Regional distribution              33,000         2007
+
+Upholstery Fabrics:
+ Graham, North Carolina        Manufacturing                     341,000        Owned
+ Burlington, North Carolina    Manufacturing and distribution    302,000        Owned
+ Pageland, South Carolina      Manufacturing                      96,000        Owned
+ Burlington, North Carolina    Distribution and Yarn Warehouse   112,500        Owned
+ Chattanooga, Tennessee        Manufacturing and distribution    290,000         2018
+ West Hazleton, Pennsylvania   Manufacturing                     110,000         2013
+ West Hazleton, Pennsylvania   Manufacturing and distribution    100,000         2008
+ Monroe, North Carolina        Manufacturing                      70,000         2004
+ Burlington, North Carolina    Manufacturing and distribution    275,000         2021
+ Lumberton, North Carolina     Manufacturing                     107,000        Owned
+ Anderson, South Carolina      Manufacturing                      99,000        Owned
+ High Point, North Carolina    Regional distribution              65,000         2008
+ Tupelo, Mississippi           Regional distribution              57,000         2018
+ Shelby, North Carolina        Manufacturing                     101,000        Owned
+ Lincolnton, North Carolina    Manufacturing                      78,000        Owned
+ Cherryville, North Carolina   Manufacturing                     135,000        Owned
+ Wetumpka, Alabama             Manufacturing                     145,000        Owned
+
+Mattress Ticking:
+ Stokesdale, North Carolina    Manufacturing and distribution    220,000        Owned
+ St. Jerome, Quebec, Canada    Manufacturing and distribution    202,000        Owned
+
+</TABLE>
+                 ___________________________________________
+
+(1)    Properties are used jointly by Upholstery Fabrics and Mattress Ticking
+(2)    Includes all options to renew
+
+<PAGE>
+
+                          ITEM 3. LEGAL PROCEEDINGS
+
+            There  are no legal  proceedings  to  which  the  Company,  or its
+subsidiaries,  is a party or of which  any of their  property  is the  subject
+that are required to be disclosed under this item.
+
+
+                      ITEM 4.  SUBMISSION OF MATTERS TO A
+                           VOTE OF SECURITY HOLDERS
+
+            There were no matters  submitted to a vote of shareholders  during
+the fourth quarter ended April 30, 2000.
+
+                                    PART II
+
+                 ITEM 5.   MARKET FOR THE REGISTRANT'S COMMON
+                     STOCK AND RELATED STOCKHOLDER MATTERS
+
+      Registrar and Transfer Agent
+      EquiServe
+      150 Royall Street
+      Canton, MA 02021
+      (781) 575-3951
+
+      Written shareholder correspondence and transfers should be sent to:
+      EquiServe
+      P.O. Box 8217
+      Boston, MA 02266-8217
+
+      Stock Listing
+      Culp,  Inc.  common stock is traded on the New York Stock Exchange under
+the symbol CFI. As of April 30,  2000,  Culp,  Inc.  had  approximately  2,500
+shareholders  based on the  number of holders  of record  and an  estimate  of
+individual participants represented by security position listings.
+
+      Analyst Coverage
+      These analysts cover Culp, Inc.:
+
+      First Union Capital Markets - John Baugh, CFA
+      C.L. King & Associates - Tom Lewis
+      Raymond, James & Associates - Budd Bugatch, CFA
+      Wachovia Securities, Inc. - Kay Norwood, CFA
+      Value Line - Noah Goldner
+
+      See  Item  6,  Selected   Financial   Data,   for  market  and  dividend
+information regarding the Company's common stock.
+
+<PAGE>
+                                        -17-
+ITEM 6.  SELECTED FINANCIAL DATA (SELECTED ANNUAL DATA)
+<TABLE>
+<CAPTION>
+                                                                                         percent   five-year
+                                       fiscal   fiscal     fiscal                         change     growth
+                                       2000     1999        1998     fiscal    fiscal    2000/1999    rate
+(amounts in thousands,               (restated)(restated) (restated)  1997      1996     (restated)(restated)
+except per share amounts)            --------- ---------- ---------- -------  --------   --------- ---------
+INCOME STATEMENT DATA (5)
+<S>                                  <C>        <C>       <C>       <C>       <C>           <C>      <C>
+  net sales                          $488,079    483,084   476,715   398,879   351,667       1.0%     9.6%
+  cost of sales                       403,414    406,976   393,154   326,394   289,129      (0.9)     9.8
+- ---------------------------------------------------------------------------------------------------------
+   gross profit                        84,665     76,108    83,561    72,485    62,538      11.2      9.1
+  S G & A expenses                     59,935     59,968    52,987    45,058    39,068      (0.1)    12.4
+- ---------------------------------------------------------------------------------------------------------
+   income from operations              24,730     16,140    30,574    27,427    23,470      53.2      3.1
+  interest expense                      9,521      9,615     7,117     4,671     5,316      (1.0)    15.1
+  interest income                         (51)      (195)     (304)     (280)      (92)    (73.8)    (4.4)
+  other expense (6)                     1,566      1,864     1,358     1,521       956     (16.0)     7.7
+- ---------------------------------------------------------------------------------------------------------
+   income before income taxes (6)      13,694      4,856    22,403    21,515    17,290     182.0     (2.5)
+  income taxes                          4,314      1,206     6,336     7,745     6,310     257.7     (5.6)
+- ---------------------------------------------------------------------------------------------------------
+   net income (6)                       9,380      3,650    16,067    13,770    10,980     157.0     (0.8)
+- ---------------------------------------------------------------------------------------------------------
+  EBITDA (3) (6)                      $44,222     34,395    45,395    39,404    35,610      28.6      6.6
+  depreciation                         19,462     18,549    14,808    12,688    12,348       4.9     11.6
+  cash dividends                        1,611      1,788     1,786     1,513     1,236      (9.9)     7.5
+- ---------------------------------------------------------------------------------------------------------
+  weighted average shares outstanding  11,580     12,909    12,744    11,624    11,234     (10.3)     0.7
+  weighted average shares outstanding,
+   assuming dilution                   11,681     13,064    13,042    11,929    11,886     (10.6)     0.4
+- ---------------------------------------------------------------------------------------------------------
+PER SHARE DATA (5)
+  net income (6)                       $ 0.81       0.28      1.26      1.18      0.98     189.3%    (1.4)%
+  net income, assuming dilution (6)      0.80       0.28      1.23      1.15      0.94     185.7     (1.4)
+  cash dividends                         0.14       0.14      0.14      0.13      0.11       0.0      7.0
+  book value (6)                        11.57      10.63     10.15      8.79      7.21       8.8     12.7
+- ---------------------------------------------------------------------------------------------------------
+BALANCE SHEET DATA (5)
+  working capital                     $99,977     99,324   102,730    69,777    56,953       0.7%    21.0%
+  property, plant and equipment, net  126,407    123,310   128,805    91,231    76,961       2.5     10.8
+  total assets (6)                    343,980    331,714   355,369   243,952   211,644       3.7     12.0
+  capital expenditures                 22,559     10,689    35,879    26,958    14,385     111.0      4.6
+  businesses acquired                       0          0    58,816         0         0       0.0   (100.0)
+  long-term debt                      135,808    140,312   152,312    76,541    74,941      (3.2)    16.9
+  funded debt (1)                     137,486    138,650   151,616    65,623    76,791      (0.8)    13.5
+  shareholders' equity (6)            129,640    128,428   132,073   110,789    81,446       0.9     12.7
+  capital employed (4) (6)            267,126    267,078   283,689   176,412   158,237       0.0     13.1
+- ---------------------------------------------------------------------------------------------------------
+RATIOS & OTHER DATA (5)
+  gross profit margin                   17.3%       15.8%     17.5%     18.2%     17.8%
+  operating income margin                5.1         3.3       6.4       6.9       6.7
+  net income margin (6)                  1.9         0.8       3.4       3.5       3.1
+  EBITDA margin (6)                      9.1         7.1       9.5       9.9      10.1
+  effective income tax rate (6)         31.5        24.8      28.3      36.0      36.5
+  funded debt-to-total capital
+    ratio (1) (6)                       51.5        51.9      53.4      37.2      48.5
+  return on average total capital (6)    6.0         3.6       8.6      10.1       9.5
+  return on average equity (6)           7.3         2.8      13.5      15.2      14.4
+  working capital turnover               4.4         4.3       4.7       5.3       5.3
+  days sales in receivables               49          49        49        49        46
+  inventory turnover                     5.4         5.6       5.8       6.4       6.0
+- ---------------------------------------------------------------------------------------------------------
+STOCK DATA
+  stock price
+   high                               $11.06       19.13     22.19     19.63     13.25
+   low                                  5.00        5.13     16.50     11.50      7.75
+   close                                5.81        8.25     18.88     16.63     13.00
+  P/E ratio (2)
+   high (6)                             13.7        67.6      17.6      16.6      13.5
+   low (6)                               6.2        18.1      13.1       9.7       7.9
+  daily average trading volume (shares) 15.8        30.4      16.0      19.7      19.3
+- --------------------------------------------------------------------------------------------------------
+(1) Funded debt includes long- and short-term debt, less restricted investments.
+(2) P/E ratios based on trailing 12-month net income per share.
+(3) EBITDA represents earnings before interest, income taxes, depreciation and amortization.
+(4) Capital employed includes funded debt and shareholders' equity.
+(5) Phillips, Wetumpka and Artee included in consolidated results from their August 5, 1997,
+    December 30, 1997 and February 2, 1998 acquisitions by Culp, respectively.
+(6) As restated (see note 17 to the consolidated financial statements)
+
+</TABLE>
+
+<PAGE>
+
+               ITEM 7.   MANAGEMENT'S DISCUSSION AND ANALYSIS OF
+                 FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+            The following  analysis of the financial  condition and results of
+operations  should be read in  conjunction  with the Financial  Statements and
+Notes  thereto.  As  discussed  in  Note  17  to  the  Consolidated  Financial
+Statements,  the company has restated  its  previously  issued 2000,  1999 and
+1998 Consolidated  Financial Statements.  As a result,  certain disclosures in
+item 7  (Management's  Discussion  and  Analysis of  Financial  Condition  and
+Results of Operations) have been restated as well.
+
+Overview
+      Culp  is  one of the  largest  integrated  marketers  in the  world  for
+upholstery  fabrics for furniture and is one of the leading  global  producers
+of mattress  fabrics  (ticking).  The company's  fabrics are used primarily in
+the  production  of  residential  and  commercial  upholstered  furniture  and
+bedding products,  including sofas, recliners, chairs, love seats, sectionals,
+sofa-beds,  office  seating and mattress sets.  Although Culp markets  fabrics
+at most price levels,  the company  emphasizes  fabrics that have broad appeal
+in the promotional and popular-priced categories of furniture and bedding.
+      Culp's  worldwide  leadership  as a marketer of  upholstery  fabrics and
+mattress  ticking  has  been  achieved  through  internal  expansion  and  the
+integration of strategic acquisitions.
+      The company's  operating  segments are  upholstery  fabrics and mattress
+ticking,   with  related  divisions   organized  within  those  segments.   In
+upholstery  fabrics,  Culp Decorative Fabrics markets jacquard and dobby woven
+fabrics  for  residential  and  commercial   furniture.   Culp  Velvets/Prints
+markets a broad  range of  printed  and  velvet  fabrics  used  primarily  for
+residential and juvenile furniture.  Culp Yarn manufactures  specialty filling
+yarn  that  is used by  Culp  and  also  marketed  to  outside  customers.  In
+mattress ticking,  Culp Home Fashions markets a broad array of fabrics used by
+bedding manufacturers.
+
+Results of Operations
+      The   following   table  sets  forth  certain  items  in  the  company's
+consolidated statements of income as a percentage of net sales.
+
+                                                2000     (2) 1999   (2) 1998
+                                               -------    -------    -------
+Net sales                                       100.0%     100.0%     100.0%
+Cost of sales                                    82.7       84.2       82.5
+                                               -------    -------    -------
+     Gross profit                                17.3       15.8       17.5
+Selling, general and administrative
+  expenses                                       12.3       12.4       11.1
+                                               -------    -------    -------
+     Income from operations                       5.1        3.3        6.4
+Interest expense                                  2.0        2.0        1.5
+Interest income                                  (0.0)      (0.0)      (0.1)
+Other expense                                     0.3        0.4        0.3
+                                               -------    -------    -------
+     Income before income taxes                   2.8        1.0        4.7
+     Income taxes (1)                            31.5       24.8       28.3
+     Net income                                   1.9%       0.8%       3.4%
+                                               =======    =======    =======
+(1)  Calculated as a percent of income before income taxes.
+(2)  As restated (see note 17 to the consolidated financial statements)
+
+      The  following  table sets  forth the  company's  sales by  segment  and
+division for each of the  company's  three most recent  years.  The table sets
+forth the change in net sales for the segments  and  divisions as a percentage
+for comparative periods included in the table.
+
+(dollars in thousands)                Amounts                   Percent change
+                                                                1999-    1998-
+segment/division              2000      1999      1998          2000     1999
+- --------------------------------------------------------------------------------
+Upholstery Fabrics:
+  Culp Decorative Fabrics  $213,197   $222,058   $210,165       (4.0)%      5.7%
+  Culp Velvets/Prints       151,543    144,073    171,389        5.2      (15.9)
+  Culp Yarn                  17,570     21,513      7,876      (18.3)     173.1
+                           --------   --------   --------      -------   -------
+                            382,310    387,644    389,430       (1.4)      (0.5)
+Mattress Ticking:
+  Culp Home Fashions        105,769     95,440     87,285       10.8        9.3
+                           --------   --------   --------      -------   -------
+                           $488,079   $483,084   $476,715        1.0%       1.3%
+                           --------   --------   --------      -------   -------
+2000 Compared with 1999
+
+      Net  Sales.  Net  sales for 2000  increased  by $5.0  million,  or 1.0%,
+compared with 1999. The company's sales of upholstery  fabrics  decreased 1.4%
+to  $382.3  million  and  mattress  ticking  sales  increased  10.8% to $105.8
+million.  This was the first full year in which the company  operated with its
+current  structure  of four  divisions.  This  corporate  organization,  which
+evolved  from one in which  there  were six  business  units,  groups  related
+operations  together;  and its  adoption  in 1999 was  accompanied  by several
+changes  in  managerial   positions.   The  company  believes  that  this  new
+structure  is  yielding  a number  of  benefits  including  improved  customer
+service,  more effective use of design  resources and increased  manufacturing
+efficiency.  Culp  believes  that these  factors  aided its total net sales to
+U.S.-based accounts for 2000, which rose 2.0% for the year.
+
+      This  growth  was offset by a decline  of 2.0% in  international  sales.
+After  several  years of  above-average  growth,  Culp's  international  sales
+declined 17.4% in 1999,  following an  industry-wide  trend.  The company took
+steps  to  mitigate  the  impact  of this  trend by  significantly  curtailing
+production schedules for certain  international-targeted  fabrics, introducing
+a new line of printed cotton  upholstery  fabrics,  and shifting its marketing
+focus to geographic  areas where demand appeared more  favorable.  The company
+believes that the  significantly  smaller decline in  international  sales for
+2000  reflects  the results of these  actions.  The company has a  diversified
+global base of  customers  and is seeking to broaden  that further to minimize
+exposure to economic uncertainties in any geographic area.
+
+      The increased sales by Culp Home Fashions  (primarily  mattress ticking)
+during 2000  marked a  continuation  of the  longer-term  expansion  that this
+division  has  experienced.   The  introduction  of  new  designs  and  fabric
+constructions,  and the advantages of the company's vertical integration,  are
+driving  Culp's  growth in mattress  ticking.  In  particular,  the ability to
+manufacture  the jacquard greige  (unfinished)  goods that are then printed to
+produce mattress  ticking has aided Culp in meeting faster delivery  schedules
+reliably and providing improved overall customer service.
+
+      Since the close of fiscal 2000,  the company has  experienced  weakening
+demand  for its  products.  The  company  believes  the trends  toward  higher
+interest rates and the strength of the U.S.  dollar  against other  currencies
+are  factors  contributing  to this  slowdown  and will  present a  continuing
+challenge for fiscal 2001.
+
+      Gross Profit and Cost of Sales.  Gross profit for 2000  increased  11.2%
+to $84.7  million and  increased  as a  percentage  of net sales from 15.8% to
+17.3%.  The company has taken a number of actions to  increase  gross  profit,
+including a shift of its production  capacity  toward more  profitable  fabric
+categories  and  substantial  steps to  reduce  operating  expenses  and raise
+productivity.
+
+      Selling,  General  and  Administrative  Expenses.  Selling,  general and
+administrative  expenses for 2000  decreased  0.1% and  accounted for 12.3% of
+sales  versus  12.4%  in  the  prior  year.  The  company  has  increased  its
+resources for the design of new fabrics and for enhanced information systems.
+
+      Interest  Expense.  Net  interest  expense  of  $9.5  million  for  2000
+compared with $9.4 million in the prior year.  Although the company  generally
+had lower  average  borrowings  during  2000,  the reduced  debt was offset by
+lower capitalized  interest related to capital expenditures and higher average
+interest rates.
+
+      Other  Expense  (restated).  Other expense for 2000 totaled $1.6 million
+compared  with $1.9  million in the prior year.  The  decrease is  principally
+due to lower losses on disposal of fixed assets.
+
+        Income Taxes.  The effective tax rate for 2000 was 31.5% compared with
+24.8% in the prior year.  The lower  rates for 2000 and 1999 as compared  with
+the federal  statutory rate of 35% are due principally to tax benefits related
+to the company's  international  sales,  on non-taxable  gains related to life
+insurance  contracts and to a higher proportion of earnings from the company's
+Canadian  subsidiary  that is taxed at a lower  effective  rate.  The  company
+expects the effective tax rate for 2001 to be approximately 34%.
+
+      Net Income Per Share  (restated).  Diluted net income per share for 2000
+totaled $0.80 compared with $0.28 a year ago.
+
+
+<PAGE>
+
+1999 Compared with 1998
+
+      Net  Sales.  Net  sales for 1999  increased  by $6.4  million,  or 1.3%,
+compared with 1998. The company's sales of upholstery  fabrics  decreased $1.8
+million,  or 0.5% for 1999 compared with 1998.  However,  fiscal 1999 includes
+an incremental  contribution  of $13.6 million from Culp Yarn (formerly  Artee
+Industries),   which  was  acquired  on  February  2,  1998.   Excluding   the
+incremental sales from Culp Yarn, sales of upholstery  fabrics decreased $15.4
+million,   or  4.0%  for  1999  compared  with  1998.  The  principal   factor
+contributing  to the lower sales was a  pronounced  slowdown in  international
+sales of wet  print and  heat-transfer  printed  flock  fabrics.  This  trend,
+which the company  believes also affected  other  manufacturers  of upholstery
+fabrics,  became  apparent  after the close of 1998 and  persisted  throughout
+1999.  A large  percentage  of the  company's  sales of this product line were
+being shipped  directly or  indirectly  to customers in the emerging  consumer
+markets of Russia,  other former Soviet  countries and Eastern Europe.  All of
+these  areas  encountered  very  weak  economic   conditions  that,  in  turn,
+adversely  affected  demand for furniture and other home  furnishings.  During
+1999,  the company  significantly  curtailed  production  schedules  for these
+fabrics  and  shifted  its  marketing  focus  for  this  product  category  to
+geographic  areas where  demand  appears  more  favorable.  The  company  also
+introduced a line of printed cotton  upholstery  fabrics utilizing some of the
+same manufacturing assets used to produce wet print and heat-transfer  printed
+flock fabrics.
+
+       International  sales,   consisting  primarily  of  upholstery  fabrics,
+decreased  to $113.4 million,  down 17.4% from 1998.  International  shipments
+accounted for 23.5% of the company's sales for 1999, down from  28.8% in 1998.
+The company  continued  to  experience  sluggish demand  in some international
+markets during 1999,  but broadened its marketing  program in other geographic
+areas.
+
+      The increased sales by Culp Home Fashions  (primarily  mattress ticking)
+during  1999  were a  continuation  of the  longer-term  expansion  that  this
+division has  experienced,  which  management  believes is attributable to the
+same factors discussed above in the comparison of 2000 to 1999.
+
+      Gross Profit and Cost of Sales.  Gross profit for 1999 decreased 8.9% to
+$76.1  million.  The  decline  was  due  principally  to a  sharp  decline  in
+international  sales.  Although the company took  substantial  steps to reduce
+operating  expenses,  it  continued to be affected  throughout  1999 by excess
+manufacturing capacity and lower absorption of fixed costs.
+
+      To help offset the pressure on gross margins,  the company  instituted a
+number of actions  during 1999. A major change  involved  reorganization  from
+six to four divisions during the first quarter.  This new corporate  alignment
+brought  related   operations   together  under  common   management  and  was
+accompanied by several changes in managerial  positions.  Subsequent  steps to
+improve  profitability  that  are  related  to  this  realignment  included  a
+significant   reduction  in  the  capacity  for  manufacturing  printed  flock
+fabrics,  comprehensive  programs to reduce  inventories and an intense effort
+to  reduce  operating  expenses  and  raise  productivity.  The  cost  of  raw
+materials remained relatively stable in 1999.
+
+      Selling,  General  and  Administrative  Expenses.  Selling,  general and
+administrative  expenses  increased as a  percentage  of net sales for 1999 to
+12.4% compared with 11.1% in 1998. The increase  principally  related to lower
+than  expected  sales  for the year,  higher  marketing  costs for new  fabric
+designs,  incremental costs from the Artee acquisition and increased costs for
+credit  expenses,  partially  offset  by lower  accruals  for  incentive-based
+compensation plans.
+
+      Interest  Expense.  Net  interest  expense for 1999 of $9.4 million rose
+38.3%   from  $6.8   million  in  1998  due  to  higher   average   borrowings
+outstanding.  The increased  borrowings related principally to borrowings used
+to fund  acquisitions  during  1998 and the  relatively  high level of capital
+expenditures in 1998.
+
+      Other Expense (restated).  Other expense increased 37.3% to $1.9 million
+for  1999  compared  with  $1.4  million  for  1998,   due  primarily  to  the
+incremental  goodwill  amortization  related to acquired  operations in fiscal
+1998 and losses on disposal of fixed assets.
+
+      Income Taxes.  The  effective tax rate for 1999 was 24.8%  compared with
+28.3% in 1998.  The  lower  rates  for  1999  and  1998 as  compared  with the
+federal  statutory rate of 35% are due principally to tax benefits  related to
+the  company's  international  sales,  on  non-taxable  gains  related to life
+insurance  contracts and to a higher proportion of earnings from the company's
+Canadian subsidiary that is taxed at a lower effective rate.
+
+           Net Income Per Share  (restated).  Diluted net income per share for
+1999 totaled $0.28 compared with $1.23 a year ago.
+
+
+Liquidity and Capital Resources
+      Liquidity.  Cash and cash  investments were $1.0 million as of April 30,
+2000 compared with $509,000 at the end of 1999.  Funded debt (long-term  debt,
+including current maturities,  less restricted investments) amounted to $137.5
+million at the close of 2000 versus  $138.7  million at the end of 1999.  As a
+percentage of total  capital  (funded debt plus total  shareholders'  equity),
+the company's  borrowings amounted to 51.5% as of April 30, 2000 compared with
+51.9% at the end of 1999. The company's  working  capital as of April 30, 2000
+was $100.0 million compared with $99.3 million at the close of 1999.
+
+      The  company's  cash flow from  operations  was $21.8  million for 2000,
+consisting  of $32.6  million  from  earnings  (net income plus  depreciation,
+amortization  and deferred  income taxes) offset by $10.8 million from changes
+in working capital.
+
+      In separate  authorizations in June 1998, March 1999, September 1999 and
+December 1999,  the board of directors of the company  authorized the use of a
+total of $20.0 million to  repurchase  the  company's  common stock.  Over the
+past two fiscal years,  the company has invested $12.2 million to repurchase a
+total of 1.8 million shares.  This includes the repurchase  during fiscal 2000
+of  884,264  shares  at an  average  price  of $7.50  per  share  under  these
+authorizations.
+
+      Financing  Arrangements.  Culp has $75 million of senior unsecured notes
+with a fixed  coupon  rate of 6.76%  and an  average  remaining  term of eight
+years.
+
+      Culp has an $88 million syndicated, unsecured,  multi-currency revolving
+credit  facility.  The  facility,   which  expires  in  April  2002,  requires
+quarterly  payments of interest on all outstanding  borrowings and a quarterly
+facility fee paid in advance.  In April 2000,  the company  amended the credit
+facility to amend certain  covenants.  Additionally,  the amendment  increased
+the  interest  rate from LIBOR  plus  0.55% to LIBOR plus 0.80% to 0.90%.  The
+specified  pricing  matrix  will be in effect for fiscal  2001 and is based on
+the  company's  debt to EBITDA and interest  and leases  coverage  ratios,  as
+defined by the  facility.  As of April 30, 2000,  the company had  outstanding
+balances of $25 million under the credit facility.
+
+      The company also has a total of $32.5  million in currently  outstanding
+industrial  revenue  bonds  ("IRBs")  which have been used to finance  capital
+expenditures.  The IRBs bear interest at variable rates of  approximately  71%
+of the  prime  rate  (prime  at  April  30,  2000  was  9.0%).  The  IRBs  are
+collateralized  by letters of credit for the  outstanding  balance of the IRBs
+and certain interest payments due thereunder.
+
+      The company's  loan  agreements  require,  among other things,  that the
+company maintain  compliance with certain  financial  ratios.  As of April 30,
+2000, the company was in compliance with these financial covenants.
+
+      As of April 30, 2000, the company had two interest rate swap  agreements
+to reduce its exposure to floating  interest  rates on a $10 million  notional
+amount.  The effect of these  contracts is to "fix" the interest  rate payable
+on $10  million  of the  company's  variable  rate  borrowings  at a  weighted
+average rate of 6.8%.  The company also enters into foreign  exchange  forward
+and option  contracts to hedge against currency  fluctuations  with respect to
+firm commitments to purchase certain machinery, equipment and raw materials.
+
+      Capital  Expenditures.  The  company  maintains  an  ongoing  program of
+capital  expenditures  designed  to  increase  capacity  as  needed,   enhance
+manufacturing  efficiencies  through  modernization and increase the company's
+vertical  integration.  Capital  expenditures  totaled  $22.6 million for 2000
+compared  with  $10.7  million  for  1999.  The  company  anticipates  capital
+spending of approximately $16 million in 2001.
+
+      The  company   believes  that  cash  flows  from  operations  and  funds
+available under existing credit  facilities will be sufficient to fund capital
+expenditures and working capital requirements for the foreseeable future.
+
+Inflation
+
+      The  cost of the  company's  raw  materials  remained  generally  stable
+during 2000 and 1999.  Factors  that  reasonably  can be expected to influence
+margins in the future include changes in raw material prices,  trends in other
+operating costs and overall competitive conditions.
+
+Seasonality
+
+      The  company's  business  is slightly  seasonal,  with  increased  sales
+during the second and fourth fiscal quarters.  This  seasonality  results from
+one-week  closings  of  the  company's  manufacturing   facilities,   and  the
+facilities  of most of its  customers in the United  States,  during the first
+and third quarters for the holiday weeks including July 4th and Christmas.
+
+New Accounting Pronouncements
+
+      In June 1998, the Financial  Accounting  Standards Board issued SFAS No.
+133,  "Accounting  for  Derivative  Instruments  and Hedging  Activities."  As
+amended,  this new standard is effective for fiscal years beginning after June
+15, 2000,  which will be effective  for the company's  fiscal year 2002.  This
+statement  establishes  accounting  and  reporting  standards  for  derivative
+instruments,  including  certain  derivative  instruments  embedded  in  other
+contracts,  and for hedging  activities.  The company has not  determined  the
+financial  impact  of  adopting  this SFAS and has not  determined  if it will
+adopt its provisions prior to its effective date.
+
+
+Forward-Looking Information
+
+      The company's  annual report on Form 10-K contains  statements  that may
+be deemed  "forward-looking  statements"  within the  meaning  of the  federal
+securities laws,  including the Private  Securities  Litigation  Reform Act of
+1995.  Such  statements  are  inherently  subject to risks and  uncertainties.
+Forward-looking   statements   are   statements   that  include   projections,
+expectations  or beliefs  about future  events or results or otherwise are not
+statements of historical  fact.  Such  statements are often  characterized  by
+qualifying  words  such  as  "expect,"  "believe,"   "estimate,"  "plan,"  and
+"project"  and their  derivatives.  Factors that could  influence  the matters
+discussed in such statements  include the level of housing starts and sales of
+existing homes,  consumer confidence,  trends in disposable income and general
+economic  conditions.  Decreases  in these  economic  indicators  could have a
+negative effect on the company's business and prospects.  Likewise,  increases
+in  interest  rates,  particularly  home  mortgage  rates,  and  increases  in
+consumer  debt or the  general  rate of  inflation,  could  affect the company
+adversely.  Because  of the  significant  percentage  of the  company's  sales
+derived  from  international  shipments,  strengthening  of  the  U.S.  dollar
+against other  currencies  could make the company's  products less competitive
+on the basis of price in  markets  outside  the United  States.  Additionally,
+economic and political  instability  in  international  areas could affect the
+demand for the company's products.
+
+              ITEM 7A.   QUANTITATIVE AND QUALITATIVE DISCLOSURES
+                               ABOUT MARKET RISK
+
+            The  Company is exposed to market  risk from  changes in  interest
+rates  on  debt  and  foreign   currency   exchange   rates.   See  additional
+disclosures   about  interest  rate  swap   agreements  in  the   Management's
+Discussion  and Analysis of Financial  Condition  and Results of Operations in
+item 7 above. The Company's market risk sensitive  instruments are not entered
+into for trading  purposes.  The Company has not  experienced  any significant
+changes in market risk since April 30, 2000.
+
+            The Company's  exposure to interest rate risk consists of floating
+rate debt  based on the  London  Interbank  Offered  Rate  plus an  adjustable
+margin under the Company's  revolving  credit agreement and variable rate debt
+in connection  with the industrial  revenue  bonds.  To lower or limit overall
+borrowing  costs,  the Company  enters into interest  rate swap  agreements to
+modify the interest  characteristics  of portions of its outstanding debt. The
+agreements  entitle the Company to receive or pay to the counterparty (a major
+bank),  on a quarterly  basis,  the  amounts,  if any, by which the  Company's
+interest  payments  covered  by  swap  agreements  differ  from  those  of the
+counterparty.   These  amounts  are  recorded  as   adjustments   to  interest
+expense.  The fair  value of the swap  agreements  and  changes  in fair value
+resulting  from changes in market  interest  rates are not  recognized  in the
+consolidated  financial  statements.   The  annual  impact  on  the  Company's
+results of operations  of a 100 basis point  interest rate change on the April
+30, 2000 outstanding  balance of the variable rate debt would be approximately
+$560,000 irrespective of any swaps associated with this debt.
+
+            The  Company's   exposure  to  fluctuations  in  foreign  currency
+exchange  rates is due primarily to a foreign  subsidiary  domiciled in Canada
+and  purchases of certain  machinery,  equipment  and raw materials in foreign
+currencies.  The Company's  Canadian  subsidiary uses the United States dollar
+as its  functional  currency.  The Company  generally  does not use  financial
+derivative   instruments  to  hedge  foreign  currency   exchange  rate  risks
+associated  with the  Canadian  subsidiary.  However,  the  Company  generally
+enters into foreign  exchange  forward and option contracts as a hedge against
+its exposure to currency  fluctuations on firm commitments to purchase certain
+machinery,  equipment  and  raw  materials.  The  Canadian  subsidiary  is not
+material to the Company's consolidated results of operations;  therefore,  the
+impact of a 10% change in the  exchange  rate at April 30, 2000 would not have
+a  significant  impact on the  Company's  results of  operations  or financial
+position.  In  addition,   the  Company  had  approximately  $4.8  million  of
+outstanding  foreign  exchange  forward  contracts as of April 30, 2000.  As a
+result,  any change in exchange  rates would not have a significant  impact on
+the  Company's  results of  operations  or  financial  position as the foreign
+exchange forward contracts have "fixed" the exchange rate.
+
+
+                  ITEM 8. CONSOLIDATED FINANCIAL STATEMENTS
+                            AND SUPPLEMENTARY DATA
+
+Management's Statement of Responsibility
+
+The management of Culp,  Inc. is responsible  for the accuracy and consistency
+of all  the  information  contained  in  this  annual  report  on  Form  10-K,
+including the financial  statements.  These  statements  have been prepared to
+conform with accounting  principles generally accepted in the United States of
+America.  The  preparation  of financial  statements and related data involves
+estimates and the use of judgment.
+
+Culp,  Inc.  maintains  internal   accounting  controls  designed  to  provide
+reasonable assurance that the financial records are accurate,  that the assets
+of the company are  safeguarded,  and that the  financial  statements  present
+fairly the financial position and results of operations of the Company.
+
+KPMG LLP, the Company's independent auditors,  conducts an audit in accordance
+with  auditing  standards  generally  accepted in the United States of America
+and provides an opinion on the financial  statements  prepared by  management.
+Their report for 2000 is presented below.
+
+The Audit  Committee of the Board of Directors  reviews the scope of the audit
+and the findings of the  independent  auditors.  The internal  auditor and the
+independent  auditors  meet  with the Audit  Committee  to  discuss  audit and
+financial   reporting  issues.   The  Committee  also  reviews  the  company's
+principal accounting policies,  significant internal accounting controls,  the
+Annual Report and annual SEC filings (Form 10-K and Proxy Statement).
+
+
+
+  Robert G. Culp, III                     Phillip W. Wilson
+  Chairman and Chief Executive Officer    Vice President and
+  May 31, 2000 except for note 17, as to  Chief Financial Officer
+  which the date is February 19, 2001     May 31, 2000 except for note 17, as to
+                                          which the date is February 19, 2001
+<PAGE>
+REPORT OF INDEPENDENT AUDITORS
+
+
+To the Board of Directors and Shareholders of Culp, Inc.:
+
+We have audited the accompanying consolidated balance sheets of Culp, Inc.
+and subsidiary as of April 30, 2000 and May 2, 1999 (as restated), and the
+related consolidated statements of income, shareholders' equity, and cash
+flows for each of the years in the three-year period ended April 30, 2000 (as
+restated for the years ended May 2, 1999 and May 3, 1998). These consolidated
+financial statements are the responsibility of the company's management. Our
+responsibility is to express an opinion on these consolidated financial
+statements based on our audits.
+
+We conducted our audits in accordance with auditing standards generally
+accepted in the United States of America. Those standards require that we
+plan and perform the audit to obtain reasonable assurance about whether the
+financial statements are free of material misstatement. An audit includes
+examining, on a test basis, evidence supporting the amounts and disclosures
+in the financial statements. An audit also includes assessing the accounting
+principles used and significant estimates made by management, as well as
+evaluating the overall financial statement presentation. We believe that our
+audits provide a reasonable basis for our opinion.
+
+In our opinion, the consolidated financial statements referred to above
+present fairly, in all material respects, the financial position of Culp,
+Inc. and subsidiary as of April 30, 2000 and May 2, 1999, and the results of
+their operations and their cash flows for each of the years in the three-year
+period ended April 30, 2000, in conformity with accounting principles
+generally accepted in the United States of America.
+
+As discussed in note 17 to the consolidated financial statements, the company
+has restated its previously issued 2000, 1999 and 1998 consolidated financial
+statements.
+
+
+
+KPMG LLP
+Charlotte, North Carolina
+May 31, 2000 except for note 17, as
+to which the date is February 19, 2001
+<PAGE>
+  CONSOLIDATED BALANCE SHEETS
+
+
+
+April 30, 2000 and May 2, 1999 (dollars in thousands,          2000      1999
+except share data)                                          (restated)(restated)
+- -------------------------------------------------------------------------------
+ASSETS
+   current assets:
+      cash and cash investments                             $  1,007       509
+      accounts receivable                                     75,223    70,503
+      inventories                                             74,471    67,070
+      other current assets                                    10,349     9,633
+- ------------------------------------------------------------------------------
+         total current assets                                161,050   147,715
+
+   restricted investments                                          0     3,340
+   property, plant and equipment, net                        126,407   123,310
+   goodwill                                                   49,873    51,269
+   other assets                                                6,650     6,080
+- ------------------------------------------------------------------------------
+         total assets                                       $343,980   331,714
+- ------------------------------------------------------------------------------
+
+LIABILITIES AND SHAREHOLDERS' EQUITY
+   current liabilities:
+      current maturities of long-term debt                  $  1,678     1,678
+      accounts payable                                        37,287    25,687
+      accrued expenses                                        22,108    21,026
+- ------------------------------------------------------------------------------
+         total current liabilities                            61,073    48,391
+
+   long-term debt                                            135,808   140,312
+   deferred income taxes                                      17,459    14,583
+- ------------------------------------------------------------------------------
+         total liabilities                                   214,340   203,286
+- ------------------------------------------------------------------------------
+
+   commitments and contingencies (notes 10 and 11)
+   shareholders' equity:
+      preferred stock, $.05 par value, authorized 10,000,000
+         shares                                                    0         0
+      common stock, $.05 par value, authorized 40,000,000
+         shares, issued and outstanding 11,208,720 at
+         April 30, 2000 and 12,079,171 at May 2, 1999            560       604
+      capital contributed in excess of par value              35,266    37,966
+      retained earnings                                       93,814    89,858
+- ------------------------------------------------------------------------------
+         total shareholders' equity                          129,640   128,428
+- ------------------------------------------------------------------------------
+         total liabilities and shareholders' equity         $343,980   331,714
+- ------------------------------------------------------------------------------
+
+The accompanying notes are an integral part of the consolidated financial
+statements.
+<PAGE>
+
+CONSOLIDATED STATEMENTS OF INCOME
+
+For the years ended April 30, 2000, May 2, 1999,
+and May 3, 1998 (dollars in thousands,                      1999        1998
+except per share data)                            2000   (restated)  (restated)
+- ------------------------------------------------------------------------------
+net sales                                 $     488,079    483,084     476,715
+cost of sales                                   403,414    406,976     393,154
+- ------------------------------------------------------------------------------
+   gross profit                                  84,665     76,108      83,561
+selling, general and administrative expenses     59,935     59,968      52,987
+- ------------------------------------------------------------------------------
+   income from operations                        24,730     16,140      30,574
+interest expense                                  9,521      9,615       7,117
+interest income                                     (51)      (195)       (304)
+other expense                                     1,566      1,864       1,358
+- ------------------------------------------------------------------------------
+   income before income taxes                    13,694      4,856      22,403
+income taxes                                      4,314      1,206       6,336
+- ------------------------------------------------------------------------------
+   net income                             $       9,380      3,650      16,067
+- ------------------------------------------------------------------------------
+net income per share                      $        0.81       0.28        1.26
+- ------------------------------------------------------------------------------
+net income per share, assuming dilution   $        0.80       0.28        1.23
+- ------------------------------------------------------------------------------
+
+
+The accompanying notes are an integral part of the consolidated financial
+statements.
+<PAGE>
+
+CONSOLIDATED STATEMENTS OF SHAREHOLDERS' EQUITY
+<TABLE>
+<CAPTION>
+
+                                                                 capital
+For the years ended April 30, 2000,          common    common   contributed                   total
+May 2, 1999 and May 3, 1998                   stock     stock   in excess of   retained   shareholders'
+(dollars in thousands, except share data)    shares    amount   par value      earnings      equity
+- ----------------------------------------------------------------------------------------------------
+<S>                                      <C>         <C>          <C>            <C>        <C>
+balance, April 27, 1997                   12,608,759  $  630       33,899         76,260     110,789
+   cash dividends ($0.14 per share)                                               (1,786)     (1,786)
+   net income (restated)                                                          16,067      16,067
+   common stock issued in connection
+      with stock option plans                114,051       6          997                      1,003
+   common stock issued in connection
+      with acquisition of Artee
+      Industries, Incorporated's assets      284,211      14        5,386                      5,400
+   stock options issued in connection
+      with acquisition of Phillips' assets                            600                        600
+- ----------------------------------------------------------------------------------------------------
+balance, May 3, 1998 (restated)           13,007,021     650       40,882         90,541     132,073
+   cash dividends ($0.14 per share)                                               (1,788)     (1,788)
+   net income (restated)                                                           3,650       3,650
+   common stock issued in connection
+      with stock option plans                 10,750       1           34                         35
+   common stock purchased                   (938,600)    (47)      (2,950)        (2,545)     (5,542)
+- ----------------------------------------------------------------------------------------------------
+balance, May 2, 1999 (restated)           12,079,171     604       37,966         89,858     128,428
+   cash dividends ($0.14 per share)                                               (1,611)     (1,611)
+   net income                                                                      9,380       9,380
+   common stock issued in connection
+      with stock option plans                 13,813       1           78                         79
+   common stock purchased                   (884,264)    (45)      (2,778)        (3,813)     (6,636)
+- ----------------------------------------------------------------------------------------------------
+balance, April 30, 2000 (restated)        11,208,720  $  560       35,266         93,814     129,640
+- ----------------------------------------------------------------------------------------------------
+
+The accompanying notes are an integral part of the consolidated financial statements.
+
+</TABLE>
+<PAGE>
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+
+For the years ended April 30, 2000, May 2, 1999,
+ and May 3, 1998
+<TABLE>
+<CAPTION>
+                                                                                     1999         1998
+(dollars in thousands)                                                      2000  (restated)  (restated)
+- --------------------------------------------------------------------------------------------------------
+<S>                                                                <C>                 <C>        <C>
+cash flows from operating activities:
+   net income                                                      $       9,380       3,650      16,067
+   adjustments to reconcile net income to net cash provided by
+     operating activities:
+       depreciation                                                       19,462      18,549      14,808
+       amortization of intangible assets                                   1,596       1,570       1,371
+       provision for deferred income taxes                                 2,176       1,064       1,416
+       changes in assets and liabilities, net of effects of
+         businesses acquired:
+         accounts receivable                                              (4,720)      3,133     (13,207)
+         inventories                                                      (7,401)     12,124     (17,684)
+         other current assets                                                (16)        522        (660)
+         other assets                                                       (770)       (654)       (934)
+         accounts payable                                                  1,029      (8,893)      6,477
+         accrued expenses                                                  1,082       2,736       1,506
+         income taxes payable                                                  -      (1,282)       (298)
+- --------------------------------------------------------------------------------------------------------
+            net cash provided by operating activities                     21,818      32,519       8,862
+- --------------------------------------------------------------------------------------------------------
+
+cash flows from investing activities:
+   capital expenditures                                                  (22,559)    (10,689)    (35,879)
+   purchase of restricted investments                                        (40)       (119)     (8,770)
+   purchase of investments to fund deferred compensation liability             -        (735)       (581)
+   sale of restricted investments                                          3,380         800      15,767
+   payments for businesses acquired                                            -           -     (42,966)
+- --------------------------------------------------------------------------------------------------------
+            net cash used in investing activities                        (19,219)    (10,743)    (72,429)
+- --------------------------------------------------------------------------------------------------------
+
+cash flows from financing activities:
+   proceeds from issuance of long-term debt                                9,543       2,637      86,246
+   principal payments on long-term debt                                  (14,047)    (16,284)    (17,100)
+   cash dividends paid                                                    (1,611)     (1,788)     (1,786)
+   proceeds from common stock issued                                          79          35         562
+   payments to acquire common stock                                       (6,636)     (5,542)          -
+   change in accounts payable - capital expenditures                      10,571      (2,637)     (2,873)
+- --------------------------------------------------------------------------------------------------------
+            net cash provided by (used in) financing activities           (2,101)    (23,579)     65,049
+- --------------------------------------------------------------------------------------------------------
+
+increase (decrease) in cash and cash investments                             498      (1,803)      1,482
+cash and cash investments, beginning of year                                 509       2,312         830
+- --------------------------------------------------------------------------------------------------------
+cash and cash investments, end of year                                   $ 1,007         509       2,312
+- --------------------------------------------------------------------------------------------------------
+
+The accompanying notes are an integral part of the consolidated financial
+statements.
+
+</TABLE>
+<PAGE>
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+1.  GENERAL AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+    Principles of Consolidation - The consolidated financial statements
+    include the accounts of the company and its subsidiary, which is
+    wholly-owned.  All significant intercompany balances and transactions
+    are eliminated in consolidation.
+
+    Description of Business - The company primarily manufactures and markets
+    furniture upholstery fabrics and mattress ticking for the furniture,
+    bedding, and related industries, with the majority of its business
+    conducted in the United States.
+
+    Fiscal Year - The company's fiscal year is the 52 or 53 week period
+    ending on the Sunday closest to April 30.  Fiscal years 2000 and 1999
+    included 52 weeks and fiscal year 1998 included 53 weeks.
+
+    Statements of Cash Flows - For purposes of reporting cash flows, the
+    company considers all highly liquid debt instruments purchased with a
+    maturity of three months or less to be cash investments.
+
+    Accounts Receivable - Substantially all of the company's accounts
+    receivable are due from manufacturers and distributors in the markets
+    noted above.  The company grants credit to customers, a substantial
+    number of which are located in the United States.  Management performs
+    credit evaluations of the company's customers and generally does not
+    require collateral.
+
+    Inventories - Principally all inventories are valued at the lower of
+    last-in, first-out (LIFO) cost or market.
+
+    Restricted Investments - Restricted investments were purchased with
+    proceeds from industrial revenue bond issues and are invested pending
+    application of such proceeds to project costs or repayment of the
+    bonds.  The investments are stated at cost which approximates market
+    value.
+
+    Property, Plant and Equipment - Property, plant and equipment is
+    recorded at cost.  Depreciation is generally computed using the
+    straight-line method over the estimated useful lives of the respective
+    assets.  Major renewals and betterments are capitalized.  Maintenance,
+    repairs and minor renewals are expensed as incurred.  When properties
+    are retired or otherwise disposed of, the related cost and accumulated
+    depreciation are removed from the accounts.  Amounts received on
+    disposal less the book value of assets sold are charged or credited to
+    income.
+
+    Interest costs of $146,000, $365,000 and $678,000 incurred during the
+    years ended April 30, 2000, May 2, 1999 and May 3, 1998, respectively,
+    for the purchase and construction of qualifying fixed assets were
+    capitalized and are being amortized over the related assets' estimated
+    useful lives.
+
+    Foreign Currency Translation - The United States dollar is the
+    functional currency for the company's Canadian subsidiary.  Translation
+    gains or losses for this subsidiary are reflected in net income.
+
+    Goodwill and Other Intangible Assets - Goodwill, which represents the
+    unamortized excess of the purchase price over the fair values of the net
+    assets acquired, is being amortized using the straight-line method over
+    40 years.  The company assesses the recoverability of goodwill by
+    determining whether the amortization of the balance over its remaining
+    life can be recovered through undiscounted future operating cash flows
+    of the acquired businesses.  The assessment of the recoverability of
+    goodwill will be impacted if estimated cash flows are not achieved.
+
+    Other intangible assets are included in other assets and consist
+    principally of debt issue costs.  Amortization is computed using the
+    straight-line method over the respective terms of the debt agreements.
+
+    Income Taxes - Deferred taxes are recognized for the temporary
+    differences between the financial statement carrying amounts and the tax
+    bases of the company's assets and liabilities and operating loss and tax
+    credit carryforwards at income tax rates expected to be in effect when
+    such amounts are realized or settled.  The effect on deferred taxes of a
+    change in tax rates is recognized in income in the period that includes
+    the enactment date.
+
+    No provision is made for income taxes which may be payable if
+    undistributed income of the company's Canadian subsidiary were to be
+    paid as dividends to the company, since the company intends that such
+    earnings will continue to be invested.  At April 30, 2000, the amount of
+    such undistributed income was $18.5 million.  Foreign tax credits may be
+    available as a reduction of United States income taxes in the event of
+    such distributions.
+
+    Revenue Recognition - Revenue is recognized when products are shipped to
+    customers.  Provision is made currently for estimated product returns,
+    claims and allowances.
+
+    Stock Option Plans - On April 29, 1996, the company adopted SFAS No.
+    123, Accounting for Stock-Based Compensation, which requires disclosure
+    of the fair value and other characteristics of stock options (see note
+    12).  The company has chosen under the provisions of SFAS No. 123 to
+    continue using the intrinsic-value method of accounting for employee
+    stock-based compensation in accordance with Accounting Principles Board
+    ("APB") Opinion No. 25, Accounting for Stock Issued to Employees.
+
+    Fair Value of Financial Instruments - The carrying amount of cash and
+    cash investments, accounts receivable, other current assets, accounts
+    payable and accrued expenses approximates fair value because of the
+    short maturity of these financial instruments.
+
+    The fair value of the company's long-term debt is estimated by
+    discounting the future cash flows at rates currently offered to the
+    company for similar debt instruments of comparable maturities.  The fair
+    value of the company's long-term debt approximates the carrying value of
+    the debt at April 30, 2000.
+
+    Interest Rate Swap Agreements - Interest rate swap agreements generally
+    involve the exchange of fixed and floating rate interest payment
+    obligations without the exchange of the underlying principal amounts.
+    These agreements are used to effectively fix the interest rates on
+    certain variable rate borrowings. Net amounts paid or received are
+    reflected as adjustments to interest expense.
+
+    Forward Contracts - Gains and losses related to qualifying hedges of
+    firm commitments are deferred and included in the measurement of the
+    related foreign currency transaction when the hedged transaction occurs.
+
+    Per Share Data - During fiscal 1998, the company adopted Statement of
+    Financial Accounting Standards No. 128 that requires the reporting of
+    both net income per share and net income per share, assuming dilution.
+    The following table reconciles the numerators and denominators of net
+    income per share and net income per share, assuming dilution:
+<TABLE>
+<CAPTION>
+
+                                           2000                   1999 (restated)               1998 (restated)
+ -----------------------------------------------------------------------------------------------------------------------------------
+    (Amounts in thousands,        Income     Shares    Per Share  Income       Shares     Per Share  Income      Shares    Per Share
+      except per share data)   (Numerator)(Denominator) Amount   (Numerator) (Denominator) Amount  (Numerator)(Denominator) Amount
+ -----------------------------------------------------------------------------------------------------------------------------------
+<S>                              <C>         <C>       <C>         <C>          <C>        <C>       <C>          <C>       <C>
+    Net income per share         $  9,380    11,580    $ 0.81      $3,650       12,909     $  0.28   $ 16,067     12,744    $1.26
+                                                       ======                              =======                          =====
+    Effect of dilutive securities:
+      Options                           0       101                     0          155                      0        298
+                                    -----    ------                 -----       ------                 ------     ------
+    Net income per share,
+      assuming dilution          $  9,380    11,681    $ 0.80      $3,650       13,064     $  0.28   $ 16,067     13,042    $1.23
+                                    =====    ======    ======      ======       ======     =======   ========     ======    =====
+</TABLE>
+
+    Use of Estimates - The preparation of financial statements in conformity
+    with generally accepted accounting principles requires management to
+    make estimates and assumptions that affect the reported amounts of
+    assets and liabilities and disclosure of contingent assets and
+    liabilities at the date of the financial statements and the reported
+    amounts of revenues and expenses during the reporting period.  Actual
+    results could differ from those estimates.
+
+    Reclassification - Certain items in the 1999 consolidated financial
+    statements have been reclassified to conform with the presentation
+    adopted in the current year.  The reclassifications did not impact net
+    income as previously reported.
+
+2.  ACQUISITIONS
+    On August 5, 1997, the company purchased the operations and certain
+    assets relating to an upholstery fabric business operating as Phillips
+    Weaving Mills, Phillips Velvet Mills, Phillips Printing and Phillips
+    Mills (Phillips).  The transaction was valued at approximately $39.5
+    million and involved the purchase of assets for cash, the assumption of
+    certain notes, liabilities and contracts, the payments under the terms
+    of certain obligations to Phillips and the issuance of an option for
+    100,000 shares of common stock.  Goodwill on the transaction was
+    approximately $30.8 million, which is being amortized on the
+    straight-line method over 40 years.
+
+    On December 30, 1997, the company purchased the operations and certain
+    assets relating to the Wetumpka spun yarn operation of Dan River Inc.
+    The transaction was valued at approximately $1.4 million and involved
+    the purchase of assets for cash.
+
+    On February 2, 1998, the company purchased the operations and certain
+    assets relating to a yarn manufacturing business operating as Artee
+    Industries, Incorporated (Artee).  The transaction was valued at
+    approximately $17.9 million and involved the purchase of assets for
+    cash, the assumption of certain liabilities and the issuance of a note
+    payable and common stock of the company.  Goodwill on the transaction
+    was approximately $800,000, which is being amortized on the
+    straight-line method over 40 years.
+
+    The three acquisitions mentioned above were accounted for as purchases,
+    and accordingly, the net assets and operations have been included in the
+    company's consolidated financial statements since the dates of the
+    acquisitions.
+
+
+
+
+3.  ACCOUNTS RECEIVABLE
+    A summary of accounts receivable follows:
+
+    (dollars in thousands)                             2000        1999
+- -----------------------------------------------------------------------
+    customers                                     $  77,981      73,089
+    allowance for doubtful accounts                  (1,477)     (1,452)
+    reserve for returns and allowances               (1,281)     (1,134)
+- -----------------------------------------------------------------------
+                                                  $  75,223      70,503
+- -----------------------------------------------------------------------
+
+4.  INVENTORIES
+    A summary of inventories follows:
+
+    (dollars in thousands)                             2000        1999
+- -----------------------------------------------------------------------
+    inventories on the FIFO cost method
+       raw materials                              $  43,661      38,248
+       work-in-process                                5,970       6,418
+       finished goods                                25,733      23,882
+- -----------------------------------------------------------------------
+          total inventories on the FIFO cost method  75,364      68,548
+    adjustments of certain inventories to the LIFO
+       cost method                                     (893)     (1,478)
+- -----------------------------------------------------------------------
+                                                  $  74,471      67,070
+- -----------------------------------------------------------------------
+
+5.  PROPERTY, PLANT AND EQUIPMENT
+    A summary of property, plant and equipment follows:
+
+                             depreciable lives
+    (dollars in thousands)       (in years)           2000        1999
+- -----------------------------------------------------------------------
+    land and improvements            10           $   2,325       2,227
+    buildings and improvements     7-40              31,065      30,098
+    leasehold improvements         7-10               2,659       2,511
+    machinery and equipment        3-12             195,387     182,189
+    office furniture and equipment 3-10              11,583      15,548
+    capital projects in progress                      7,930       2,788
+- -----------------------------------------------------------------------
+                                                    250,949     235,361
+    accumulated depreciation                       (124,542)   (112,051)
+- -----------------------------------------------------------------------
+                                                  $ 126,407     123,310
+- -----------------------------------------------------------------------
+
+6.  GOODWILL
+    A summary of goodwill follows:
+
+    (dollars in thousands)                            2000        1999
+- -----------------------------------------------------------------------
+    goodwill                                      $  55,547      55,547
+    accumulated amortization                         (5,674)     (4,278)
+- -----------------------------------------------------------------------
+                                                  $  49,873      51,269
+- -----------------------------------------------------------------------
+
+
+7.  ACCOUNTS PAYABLE
+    A summary of accounts payable follows:
+
+    (dollars in thousands)                             2000        1999
+- -----------------------------------------------------------------------
+    accounts payable - trade                      $  26,479      25,450
+    accounts payable - capital expenditures          10,808         237
+- -----------------------------------------------------------------------
+                                                  $  37,287      25,687
+- -----------------------------------------------------------------------
+
+8.  ACCRUED EXPENSES
+    A summary of accrued expenses follows:
+
+    (dollars in thousands)                             2000        1999
+- -----------------------------------------------------------------------
+    compensation and benefits                     $  14,748      13,136
+    other                                             7,360       7,890
+- -----------------------------------------------------------------------
+                                                  $  22,108      21,026
+- -----------------------------------------------------------------------
+
+9.  INCOME TAXES
+    A summary of income taxes follows:
+
+    (dollars in thousands)                 2000        1999        1998
+- -----------------------------------------------------------------------
+    current
+      federal                           $   657      (1,508)      2,698
+      state                                  45        (442)        493
+      Canadian                            1,436       2,092       1,729
+- -----------------------------------------------------------------------
+                                          2,138         142       4,920
+- -----------------------------------------------------------------------
+    deferred
+      federal                             1,514         612         563
+      state                                 378         279         102
+      Canadian                              284         173         751
+- -----------------------------------------------------------------------
+                                          2,176       1,064       1,416
+- -----------------------------------------------------------------------
+                                         $4,314       1,206       6,336
+- -----------------------------------------------------------------------
+
+     Income before income taxes related to the company's  Canadian operation
+     for  the years ended  April 30, 2000,  May 2, 1999, and May 3, 1998 was
+     $4,900,000, $6,900,000 and $8,000,000, respectively.
+
+    The following schedule summarizes the principal differences between
+    income taxes at the federal income tax rate and the effective income tax
+    rate reflected in the consolidated financial statements:
+                                                         1999        1998
+                                                2000  (restated)  (restated)
+- ----------------------------------------------------------------------------
+    federal income tax rate                     35.0%       35.0%       35.0%
+    state income taxes, net of federal
+      income tax benefit                         2.0        (2.2)        1.7
+    exempt income of foreign sales corporation  (3.6)       (2.8)       (6.2)
+    gains on life insurance contracts           (1.5)       (3.9)       (0.9)
+    other                                       (0.4)       (1.3)       (1.3)
+- ----------------------------------------------------------------------------
+                                                31.5%       24.8%       28.3%
+- ----------------------------------------------------------------------------
+
+    The tax effects of temporary differences that give rise to significant
+    portions of the deferred tax assets and liabilities consist of the
+    following:
+
+    (dollars in thousands)                              2000        1999
+- -------------------------------------------------------------------------
+    deferred tax liabilities:
+       property, plant and equipment, net           $ (14,987)    (13,038)
+       goodwill                                        (3,175)     (2,431)
+       other                                           (1,324)       (108)
+- -------------------------------------------------------------------------
+          total deferred tax liabilities              (19,486)    (15,577)
+    deferred tax assets:
+       accounts receivable                                843         840
+       inventories                                      2,396       1,733
+       compensation                                     2,358       1,995
+       liabilities and reserves                         1,381       1,841
+       alternative minimum tax                          1,485         849
+       net operating loss carryforwards                   528           0
+- -------------------------------------------------------------------------
+          gross deferred tax assets                     8,991       7,258
+          valuation allowance                               0           0
+- -------------------------------------------------------------------------
+          total deferred tax assets                     8,991       7,258
+- -------------------------------------------------------------------------
+                                                    $ (10,495)     (8,319)
+- -------------------------------------------------------------------------
+
+    Deferred taxes are classified in the accompanying consolidated balance
+    sheet captions as follows:
+
+    (dollars in thousands)                              2000        1999
+- ------------------------------------------------------------------------
+    other current assets                           $   6,964       6,264
+    deferred income taxes                            (17,459)    (14,583)
+- ------------------------------------------------------------------------
+                                                   $ (10,495)     (8,319)
+- ------------------------------------------------------------------------
+
+    At April 30, 2000, the company had an alternative minimum tax credit
+    carryforward of approximately $1,485,000 for federal income tax
+    purposes.  Federal and state net operating loss carryforwards with
+    related tax benefits of $528,000 at April 30, 2000 expire in varying
+    amounts through fiscal 2020.  The company believes that it is more
+    likely than not that the results of future operations will generate
+    sufficient taxable income to realize the existing deferred tax assets.
+
+    Income taxes paid, net of income tax refunds, were $2,027,000 in 2000;
+    $2,217,000 in 1999; and $5,218,000 in 1998.
+
+10. LONG-TERM DEBT
+    A summary of long-term debt follows:
+
+    (dollars in thousands)                               2000        1999
+- -------------------------------------------------------------------------
+    senior unsecured notes                          $  75,000      75,000
+    industrial revenue bonds and other obligations     32,452      35,278
+    revolving credit facility                          25,000      25,000
+    obligations to sellers                              5,034       6,712
+- -------------------------------------------------------------------------
+                                                      137,486     141,990
+    current maturities                                 (1,678)     (1,678)
+- -------------------------------------------------------------------------
+                                                    $ 135,808     140,312
+- -------------------------------------------------------------------------
+
+    The senior unsecured notes have a fixed coupon rate of 6.76% and an
+    average remaining term of 8 years.  The principal payments become due
+    from March 2006 to March 2010 with interest payable semi-annually.
+
+    The company's revolving credit agreement (the "Credit Agreement")
+    provides an unsecured multi-currency revolving credit facility, which
+    expires in April 2002, with a syndicate of banks in the United States.
+    The Credit Agreement provides for a revolving loan commitment of
+    $88,000,000.  The agreement requires payment of a quarterly facility fee
+    in advance.  In April 2000, the company amended the Credit Agreement to
+    amend certain covenants.  Additionally, the amendment increased the
+    interest rate from LIBOR plus 0.55% to LIBOR plus 0.80% to 0.90%.  The
+    specified pricing matrix will be in effect for fiscal 2001 and is based
+    on the company's debt to EBITDA and interest and leases coverage ratios,
+    as defined by the agreement.  On borrowings outstanding at April 30,
+    2000, the interest rate was 6.69% (LIBOR plus 0.55%).
+
+    The company's $6,000,000 revolving line of credit expires on May 31,
+    2001.  However, the line of credit will automatically be extended for an
+    additional three-month period on each August 31, November 30, February
+    28 and May 31 unless the bank notifies the company that the line of
+    credit will not be extended.  At April 30, 2000, no borrowings were
+    outstanding under the revolving line of credit.
+
+    The industrial revenue bonds (IRB) are generally due in balloon
+    maturities which occur at various dates from 2006 to 2013.  All of the
+    bonds bear interest at variable rates of approximately 71% of the prime
+    rate (prime at April 30, 2000 was 9.0%). The IRBs are collateralized by
+    letters of credit for the outstanding balance of the IRBs and certain
+    interest payments due thereunder.
+
+    The company's loan agreements require, among other things, that the
+    company maintain compliance with certain financial ratios.  At April 30,
+    2000, the company was in compliance with these financial covenants.
+
+    At April 30, 2000, the company had two interest rate swap agreements
+    with a bank in order to reduce its exposure to floating interest rates
+    on a portion of its variable rate borrowings.
+
+    The following table summarizes certain data regarding the interest rate
+    swaps:
+
+    notional amount    interest rate    expiration date
+    ---------------------------------------------------
+      $5,000,000            6.9%          June 2002
+      $5,000,000            6.6%          July 2002
+
+    The company could terminate these agreements as of April 30, 2000 and
+    receive approximately $166,000.  Net amounts paid under interest rate
+    swap agreements increased interest expense by approximately $262,000 in
+    2000; $308,000 in 1999; and $232,000 in 1998.  Management believes the
+    risk of incurring losses resulting from the inability of the bank to
+    fulfill its obligation under the interest rate swap agreements to be
+    remote and that any losses incurred would be immaterial.
+
+    The principal payment requirements of long-term debt during the next
+    five years are: 2001 - $1,678,000; 2002 - $27,046,000; 2003 -
+    $2,046,000; 2004 - $368,000; and 2005 - $368,000.
+
+    Interest paid during 2000, 1999 and 1998 totaled $9,920,000, $9,579,000,
+    and $7,067,000, respectively.
+
+
+
+11. COMMITMENTS AND CONTINGENCIES
+    The company leases certain office, manufacturing and warehouse
+    facilities and equipment, primarily computer, and vehicles, under
+    noncancellable operating leases. Lease terms related to real estate
+    range from five to ten years with renewal options for additional periods
+    ranging from five to fifteen years. The leases generally require the
+    company to pay real estate taxes, maintenance, insurance and other
+    expenses. Rental expense for operating leases, net of sublease income,
+    was $8,162,000 in 2000; $7,440,000 in 1999; and $6,065,000 in 1998.
+    Future minimum rental commitments for noncancellable operating leases
+    are $6,560,000 in 2001; $4,718,000 in 2002; $3,495,000 in 2003;
+    $2,637,000 in 2004; $2,357,000 in 2005; and $3,800,000 in later years.
+
+    The company is involved in several legal proceedings and claims which
+    have arisen in the ordinary course of its business.  These actions, when
+    ultimately concluded and settled, will not, in the opinion of
+    management, have a material adverse effect upon the financial position,
+    results of operations or liquidity of the company.
+
+    The company has outstanding capital expenditure commitments of
+    approximately $1,345,000 as of April 30, 2000.
+
+12. STOCK OPTION PLANS
+    The company has a fixed stock option plan under which options to
+    purchase common stock may be granted to officers, directors and key
+    employees.  At April 30, 2000, 782,614 shares of common stock were
+    authorized for issuance under the plan.  Options are generally
+    exercisable one year after the date of grant and generally expire
+    beginning ten years after the date of grant.
+
+    No compensation cost has been recognized for this stock option plan as
+    options are granted under the plan at an option price not less than fair
+    market value at the date of grant.
+
+<PAGE>
+    A summary of the status of the plan as of April 30, 2000, May 2, 1999
+    and May 3, 1998 and changes during the years ended on those dates is
+    presented below:
+<TABLE>
+<CAPTION>
+
+                                              2000              1999              1998
+- ------------------------------------------------------------------------------------------
+                                              Weighted-         Weighted-         Weighted-
+                                              Average           Average           Average
+                                              Exercise          Exercise          Exercise
+                                  Shares        Price   Shares    Price   Shares    Price
+- ------------------------------------------------------------------------------------------
+ <S>                                <C>       <C>      <C>      <C>       <C>      <C>
+ Outstanding at beginning
+    of year                         622,052  $ 10.04   429,427  $11.06    407,228  $ 8.69
+ Granted                             49,375     8.80   209,375    7.62     87,250   20.34
+ Exercised                           (7,313)    2.82   (10,750)   3.28    (65,051)   8.63
+ Canceled/expired                    (3,000)   20.25    (6,000)  10.56        -       -
+- -----------------------------------------------------------------------------------------
+ Outstanding at end of year         661,114     9.98   622,052   10.04    429,427   11.06
+- -----------------------------------------------------------------------------------------
+ Options exercisable at
+    year-end                        461,114    10.88   422,052   11.18    353,427    9.08
+ Weighted-average fair value
+    of options granted during the
+    year                              $3.54              $2.88              $7.53
+- -----------------------------------------------------------------------------------------
+</TABLE>
+<TABLE>
+<CAPTION>
+
+                           Options Outstanding                              Options Exercisable
+- ---------------------------------------------------------------------------------------------------
+                         Number       Weighted-Avg.                       Number
+       Range of        Outstanding   Remaining         Weighted-Avg.     Exercisable  Weighted-Avg.
+Exercise Prices       at 4/30/00     Contractual Life  Exercise Price    at 4/30/00  Exercise Price
+- ---------------------------------------------------------------------------------------------------
+<S>                     <C>           <C>                  <C>             <C>             <C>
+   $  2.82 - $ 7.50     110,114       3.3 years            $4.96           110,114         $4.96
+   $  7.63 - $ 7.63     200,000       8.4                   7.63            40,000          7.63
+   $  7.75 - $12.13     192,375       5.6                   9.52           152,375          9.63
+   $ 12.75 - $20.94     158,625       5.9                  17.00           158,625         17.00
+                        -------       ---                  -----           -------         -----
+                        661,114       6.1                   9.98           461,114         10.88
+                        -------       ---                  -----           -------         -----
+</TABLE>
+
+    During fiscal 1995, the company adopted a stock option plan which
+    provided for the one-time grant to officers and certain senior managers
+    of options to purchase 121,000 shares of the company's common stock at
+    $.05 (par value) per share.  Coincident with the adoption of this plan,
+    the company's 1993 stock option plan was amended to reduce the number of
+    shares issuable under that plan by 128,000 shares.  The accelerated
+    vesting provisions of this plan were achieved and all options vested 45
+    days after the end of fiscal 1997 and, as a result, the compensation
+    expense recorded under APB Opinion No. 25 was approximately $1,026,000
+    for the three-year period ended April 27, 1997.  Since these options
+    were granted in fiscal 1995, the provisions of SFAS No. 123 are not
+    applicable.  As of April 30, 2000, the 58,500 options outstanding under
+    the plan have exercise prices of $0.05 and a weighted-average remaining
+    contractual life of 3.7 years.  Options exercised during fiscal 2000,
+    1999 and 1998 were 6,500, 0 and 49,000, respectively.
+
+    During September 1997, the company's shareholders approved the 1997
+    performance-based option plan which provides for the one-time grant to
+    certain officers and certain senior managers of options to purchase
+    106,000 shares of the company's common stock at $1.00 per share.
+    Options under the plan are exercisable on January 1, 2006 due to the
+    company not achieving net income per share of $1.50 for fiscal 1999.
+    During fiscal 2000, 1999 and 1998, the compensation expense recorded
+    under APB Opinion No. 25 was $250,000 in each year.
+
+    As of April 30, 2000, the 106,000 options outstanding under the plan
+    have exercise prices of $1.00 and a weighted-average remaining
+    contractual life of 6.7 years.  The weighted-average fair value of the
+    106,000 options granted during 1998 was $19.10.  Had compensation cost
+    for this stock-based compensation plan and the fixed stock option plan
+    with 661,114 options outstanding at April 30, 2000 been determined
+    consistent with SFAS No. 123, the company's net income, net income per
+    share and net income per share, assuming dilution would have been
+    reduced to the pro forma amounts indicated below:
+<PAGE>
+
+                                                              1999       1998
+    (in thousands, except per share data)       2000       (restated) (restated
+- --------------------------------------------------------------------------------
+    Net income              As reported            $9,380      3,650     16,067
+                            Pro forma               9,145      3,375     15,931
+- --------------------------------------------------------------------------------
+    Net income per share    As reported            $ 0.81       0.28       1.26
+                            Pro forma                0.79       0.26       1.25
+- --------------------------------------------------------------------------------
+    Net income per share,   As reported            $ 0.80       0.28       1.23
+      assuming dilution     Pro forma                0.78       0.26       1.22
+- --------------------------------------------------------------------------------
+
+    The fair value of each option grant is estimated on the date of grant
+    using the Black Scholes option-pricing model with the following
+    weighted-average assumptions used for grants in 2000, 1999 and 1998,
+    respectively:  dividend yield of 1.5%, 1.5% and 1%; risk-free interest
+    rates of 5.7%, 5.4% and 5.5%; expected volatility of 49%, 47% and 42%;
+    and expected lives of 4 years, 4 years and 5.3 years.
+
+13. BENEFIT PLANS
+    The company has a defined contribution plan which covers substantially
+    all employees and provides for participant contributions on a pre-tax
+    basis and discretionary matching contributions by the company, which are
+    determined annually.  Company contributions to the plan were $2,423,000
+    in 2000; $1,612,000 in 1999; and $1,103,000 in 1998.
+
+    In addition to the defined contribution plan, the company has a
+    nonqualified deferred compensation plan covering officers and certain
+    other associates.  The company's nonqualified plan liability of
+    $4,788,000 and $4,044,000 at April 30, 2000 and May 2, 1999,
+    respectively, is included in accrued expenses in the accompanying
+    consolidated balance sheets.  As restated (see note 17 to the
+    consolidated financial statements), the company also had assets related
+    to the nonqualified plan of $4,864,000 and $4,193,000 at April 30, 2000
+    and May 2, 1999, respectively, which are included in other assets in the
+    accompanying consolidated balance sheets.
+
+14. SEGMENT INFORMATION
+    The company's operations are classified into two business segments:
+    upholstery fabrics and mattress ticking.  The upholstery fabrics segment
+    principally manufactures and sells woven jacquards and dobbies, wet and
+    heat-transfer prints, and woven and tufted velvets primarily to
+    residential and commercial (contract) furniture manufacturers.  The
+    mattress ticking segment principally manufactures and sells woven
+    jacquards, heat-transfer prints and pigment prints to bedding
+    manufacturers.
+
+    International sales, of which 94% were denominated in U.S. dollars in
+    2000, 1999, and 1998, accounted for 23% of net sales in 2000 and 1999
+    and 29% in 1998, and are summarized by geographic area as follows:
+
+    (dollars in thousands)                     2000        1999        1998
+- ------------------------------------------------------------------------------
+    North America (excluding USA)            $  36,032      31,102      31,160
+    Europe                                      16,351      19,578      30,775
+    Middle East                                 32,929      33,996      34,412
+    Asia and Pacific Rim                        19,102      21,371      32,344
+    South America                                2,343       3,484       5,158
+    All other areas                              4,347       3,823       3,374
+- ------------------------------------------------------------------------------
+                                             $ 111,104     113,354     137,223
+- ------------------------------------------------------------------------------
+
+    In 2000, 1999 and 1998, no customer represented over 10% of consolidated
+    net sales.  In addition, company assets located outside the United
+    States are not material for any of the three years presented.
+
+    The company internally manages and reports selling, general and
+    administrative expenses, interest expense, interest income, other
+    expense and income taxes on a total company basis.  Thus, profit by
+    business segment represents gross profit.  In addition, the company
+    internally manages and reports cash and cash investments, accounts
+    receivable, other current assets, restricted investments, property,
+    plant and equipment, goodwill and other assets on a total company
+    basis.  Thus, identifiable assets by business segment represent
+    inventories.
+<PAGE>
+
+    Sales, gross profit and inventories for the company's operating segments
+    are as follows:
+
+    (dollars in thousands)                     2000        1999        1998
+- ------------------------------------------------------------------------------
+    Net sales
+        Upholstery Fabrics                   $ 382,310     387,644     389,430
+        Mattress Ticking                       105,769      95,440      87,285
+- ------------------------------------------------------------------------------
+                                             $ 488,079     483,084     476,715
+- ------------------------------------------------------------------------------
+
+    Gross profit
+        Upholstery Fabrics                   $  58,547      52,286      61,922
+        Mattress Ticking                        26,118      23,822      21,639
+- ------------------------------------------------------------------------------
+                                             $  84,665      76,108      83,561
+- ------------------------------------------------------------------------------
+
+    Inventories
+
+        Upholstery Fabrics                   $  60,305      55,565      66,336
+        Mattress Ticking                        14,166      11,505      12,258
+- ------------------------------------------------------------------------------
+                                             $  74,471      67,070      78,594
+- ------------------------------------------------------------------------------
+
+15. RELATED PARTY TRANSACTIONS
+    A director of the company is also an officer and director of a major
+    customer of the company. The amount of sales to this customer was
+    approximately $39,479,000 in 2000; $34,313,000 in 1999; and $30,545,000
+    in 1998.  The amount due from this customer at April 30, 2000 was
+    approximately $3,797,000 and at May 2, 1999 was approximately $4,517,000.
+
+    A director of the company is also an officer and director of the lessor
+    of the company's office facilities in High Point.  Rent expense for the
+    company's office facilities was approximately $522,000 in 2000; $555,000
+    in 1999; and $482,000 in 1998.
+
+    Rents paid to entities owned by certain shareholders and officers of the
+    company and their immediate families were $695,000 in 2000; $752,000 in
+    1999; and $724,000 in 1998.
+
+16. FOREIGN EXCHANGE FORWARD CONTRACTS
+    The company generally enters into foreign exchange forward and option
+    contracts as a hedge against its exposure to currency fluctuations on
+    firm commitments to purchase certain machinery and equipment and raw
+    materials.  The company had $4,761,000 and $0 of outstanding foreign
+    exchange forward contracts as of April 30, 2000 and May 2, 1999,
+    respectively (denominated in Euros, German deutsche marks and Swiss
+    francs at April 30, 2000).  Due to the short maturity of these financial
+    instruments, the fair values of these contracts approximate the contract
+    amounts at April 30, 2000 and May 2, 1999, respectively.
+
+17. RESTATEMENT
+    During January 2001, the company terminated the nonqualified deferred
+    compensation plan covering officers and certain other associates.  As a
+    result, the company surrendered the life insurance contracts related to
+    the nonqualified plan in order to pay the participants.  The proceeds
+    from those life insurance contracts resulted in an amount greater than
+    had previously been recorded by the company attributable to gains that
+    occurred in 1999 and 1998.  In order to properly reflect these gains,
+    the company is restating its financial statements and certain
+    disclosures previously reported in its financial statements for the
+    years ended April 30, 2000, May 2, 1999 and May 3, 1998.  The effect of
+    the correction for these gains was a reduction of other expense and, as
+    a result, an increase in income before income taxes and net income by
+    $548,000 in 1999 and $554,000 in 1998.  The effect of the correction
+    increased other assets and retained earnings in the consolidated balance
+    sheets as of April 30, 2000, May 2, 1999 and May 3, 1998 by $1,102,000,
+    $1,102,000 and $554,000, respectively.
+
+<PAGE>
+ SELECTED QUARTERLY DATA
+<TABLE>
+<CAPTION>
+
+                                       fiscal       fiscal      fiscal       fiscal      fiscal       fiscal       fiscal   fiscal
+                                         2000         2000        2000         2000        1999         1999         1999     1999
+(amounts in thousands,              4th quarter 3rd quarter 2nd quarter  1st quarter 4th quarter 3rd quarter 2nd quarter 1st quarter
+except per share amounts)             (restated)  (restated)  (restated)   (restated)  (restated)  (restated)  (restated) (restated)
+- ------------------------------------------------------------------------------------------------------------------------------------
+INCOME STATEMENT DATA
+<S>                                      <C>        <C>        <C>          <C>          <C>          <C>        <C>       <C>
+   net sales                             $129,419   113,181    129,542      115,937      132,165      112,093    128,159   110,667
+   cost of sales                          107,342    94,712    105,835       95,525      109,324       92,911    107,685    97,056
+- ------------------------------------------------------------------------------------------------------------------------------------
+      gross profit                         22,077    18,469     23,707       20,412       22,841       19,182     20,474    13,611
+   SG & A expenses                         14,913    13,949     16,035       15,038       15,921       14,100     15,474    14,473
+- ------------------------------------------------------------------------------------------------------------------------------------
+      income (loss) from operations         7,164     4,520      7,672        5,374        6,920        5,082      5,000      (862)
+   interest expense                         2,255     2,366      2,484        2,416        2,482        2,308      2,464     2,361
+   interest income                            (10)       (8)       (16)         (17)        (113)         (10)       (19)      (53)
+   other expense (income) (6)                 366       229        416          555          397          (96)       755       808
+- ------------------------------------------------------------------------------------------------------------------------------------
+      income (loss) before income taxes (6) 4,553     1,933      4,788        2,420        4,154        2,880      1,800    (3,978)
+   income taxes                             1,362       501      1,628          823        1,109          753        644    (1,300)
+- ------------------------------------------------------------------------------------------------------------------------------------
+      net income (loss) (6)                 3,191     1,432      3,160        1,597        3,045        2,127      1,156    (2,678)
+- ------------------------------------------------------------------------------------------------------------------------------------
+   EBITDA (3) (6)                        $ 12,178     9,655     12,412        9,977       11,683       10,110      9,498     3,104
+   depreciation                             4,981     4,965      4,757        4,759        4,764        4,587      4,822     4,376
+   cash dividends                             393       396        399          423          423          455        455       455
+- ------------------------------------------------------------------------------------------------------------------------------------
+   weighted average shares outstanding     11,213    11,296     11,749       12,063       12,645       12,995     12,995    13,000
+   weighted average shares outstanding,
+      assuming dilution                    11,298    11,389     11,868       12,219       12,742       13,124     13,120    13,000
+- ------------------------------------------------------------------------------------------------------------------------------------
+PER SHARE DATA
+   net income (loss) (6)                 $   0.28      0.13       0.27         0.13         0.24         0.16       0.09     (0.21)
+   net income (loss), assuming dilution (6)  0.28      0.13       0.27         0.13         0.24         0.16       0.09     (0.21)
+   cash dividends                           0.035     0.035      0.035        0.035        0.035        0.035      0.035     0.035
+   book value (6)                           11.57     11.31      11.17        10.73        10.63        10.09       9.96      9.91
+- ------------------------------------------------------------------------------------------------------------------------------------
+BALANCE SHEET DATA
+   working capital                       $  99,977    97,440     92,800      100,394       99,324       95,712    102,336  103,406
+   property, plant and equipment, net      126,407   123,303    124,318      120,971      123,310      125,885    126,050  127,287
+   total assets (6)                        343,980   337,308    339,778      328,924      331,714      327,401    342,387  343,214
+   capital expenditures                      8,085     3,950      8,104        2,420        2,189        2,057      3,585    2,858
+   long-term debt                          135,808   137,052    133,875      136,228      140,312      140,210    150,210  154,383
+   funded debt (1)                         137,486   137,683    134,468      136,222      138,650      138,472    148,479  153,559
+   shareholders' equity (6)                129,640   126,867    126,482      129,229      128,428      131,161    129,489  128,788
+   capital employed (4) (6)                267,126   264,550    260,950      265,451      267,078      269,633    277,968  282,347
+- ------------------------------------------------------------------------------------------------------------------------------------
+RATIOS & OTHER DATA
+   gross profit margin                       17.1%     16.3%      18.3%        17.6%        17.3%        17.1%      16.0%     12.3%
+   operating income (loss) margin             5.5       4.0        5.9          4.6          5.2          4.5        3.9      (0.8)
+   net income (loss) margin (6)               2.5       1.3        2.4          1.4          2.3          1.9        0.9      (2.4)
+   EBITDA margin (6)                          9.4       8.5        9.6          8.6          8.8          9.0        7.4       2.8
+   effective income tax rate (6)             29.9      25.9       34.0         34.0         26.7         26.1       35.8      32.7
+   funded debt-to-total capital ratio (1)(6) 51.5      52.0       51.5         51.3         51.9         51.4       53.4      54.4
+   working capital turnover                   4.4       4.5        4.4          4.4          4.3          4.4        4.4       4.5
+   days sales in receivables                   53        49         49           45           49           47         52        48
+   inventory turnover                         5.5       4.8        5.5          5.4          6.4          5.2        5.7       4.9
+- ------------------------------------------------------------------------------------------------------------------------------------
+STOCK DATA
+   stock price
+      high                                $  9.88      7.50      10.31        11.06         8.50         8.94      10.44     19.13
+      low                                    5.00      5.88       6.69         7.25         5.13         6.50       5.94      9.19
+      close                                  5.81      6.00       6.94        10.13         8.25         6.56       7.25      9.19
+   P/E ratio (2)
+      high (6)                               12.2       9.7       12.8         17.7         30.1         23.1       19.3      23.9
+      low (6)                                 6.2       7.6        8.3         11.6         18.1         16.8       11.0      11.5
+   daily average trading volume (shares)     12.0      10.0       18.8         21.9         34.9         20.3       27.5      38.5
+- ------------------------------------------------------------------------------------------------------------------------------------
+(1)   Funded debt includes long- and short-term debt, less restricted investments.
+(2)   P/E ratios based on trailing 12-month net income per share.
+(3)   EBITDA represents earnings before interest, income taxes, depreciation and amortization.
+(4)   Capital employed includes funded debt and shareholders' equity.
+(5)   Phillips, Wetumpka and Artee included in consolidated results from their August 5, 1997, December 30, 1997
+      and February 2, 1998 acquisitions by Culp, respectively.
+(6)   As restated (see note 17 to the consolidated financial statements)
+
+</TABLE>
+<PAGE>
+
+
+            ITEM 9.  CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS
+                       ON ACCOUNTING AND FINANCIAL DISCLOSURE
+
+            During  the two  years  ended  April 30,  2000 and any  subsequent
+interim periods,  there were no changes of accountants and/or disagreements on
+any matters of  accounting  principles  or practices  or  financial  statement
+disclosures.
+
+                                    PART III
+
+         ITEM 10.  DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+            Information  with respect to executive  officers and  directors of
+the Company is included in the  Company's  definitive  Proxy  Statement  filed
+within  120 days  after  the end of the  Company's  fiscal  year  pursuant  to
+Regulation 14A of the Securities  and Exchange  Commission,  under the caption
+"Nominees,  Directors and Executive  Officers,"  which  information  is herein
+incorporated by reference.
+
+
+                       ITEM 11.  EXECUTIVE COMPENSATION
+
+            Information with respect to executive  compensation is included in
+the Company's  definitive  Proxy Statement filed within 120 days after the end
+of the Company's  fiscal year pursuant to Regulation 14A of the Securities and
+Exchange  Commission,   under  the  caption  "Executive  Compensation,"  which
+information is herein incorporated by reference.
+
+
+             ITEM  12.   SECURITY OWNERSHIP OF CERTAIN BENEFICIAL
+                             OWNERS AND MANAGEMENT
+
+            Information  with  respect to the  security  ownership  of certain
+beneficial  owners and  management  is  included in the  Company's  definitive
+Proxy  Statement  filed within 120 days after the end of the Company's  fiscal
+year pursuant to Regulation  14A of the  Securities  and Exchange  Commission,
+under  the  caption   "Voting   Securities,"   which   information  is  herein
+incorporated by reference.
+
+           ITEM 13.  CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+            Information  with  respect to certain  relationships  and  related
+transactions  is included in the Company's  definitive  Proxy  Statement filed
+within  120 days  after  the end of the  Company's  fiscal  year  pursuant  to
+Regulation  14A  of  the  Securities  and  Exchange   Commission,   under  the
+subcaption   "Certain   Relationships   and   Related   Transactions,"   which
+information is herein incorporated by reference.
+
+<PAGE>
+
+                                    PART IV
+
+               ITEM 14.  EXHIBITS, FINANCIAL STATEMENT SCHEDULES
+                            AND REPORTS ON FORM 8-K
+
+a)    DOCUMENTS FILED AS PART OF THIS REPORT:
+
+      1.    Consolidated Financial Statements
+
+            The following  consolidated financial statements of Culp, Inc. and
+subsidiary are filed as part of this report.
+
+                                                             Page of Annual
+                                                                Report on
+Item                                                           Form 10-K
+- ----                                                           ---------
+Consolidated Balance Sheets - April 30, 2000 and.................    27
+   May 2, 1999
+
+Consolidated Statements of Income -
+  for the years ended April 30, 2000,
+  May 2, 1999, and May 3, 1998 ..................................    28
+
+Consolidated Statements of Shareholders' Equity -
+  for the years ended April 30, 2000,
+  May 2, 1999 and May 3, 1998 ...................................    29
+
+Consolidated Statements of Cash Flows -
+  for the years ended April 30, 2000,
+  May 2, 1999, and May 3, 1998 ..................................    30
+
+Consolidated Notes to Financial Statements.......................    31
+
+Report of Independent Auditors ..................................    26
+
+
+     2.    Financial Statement Schedules
+
+      All financial  statement  schedules  are omitted  because they are
+not  applicable,  or not  required,  or because the  required  information  is
+included in the consolidated financial statements or notes thereto.
+
+
+
+
+<PAGE>
+
+     3.    Exhibits
+
+           The following  exhibits are attached at the end of this report, or
+incorporated by reference herein.  Management  contracts,  compensatory plans,
+and arrangements are marked with an asterisk (*).
+
+
+     3(i)       Articles  of   Incorporation    of   the   Company,   as
+                amended,  were  filed as Exhibit  3(i) to the  Company's
+                Form 10-Q for the quarter ended January 29, 1995,  filed
+                March  15,  1995,   and  are   incorporated   herein  by
+                reference.
+
+     3(ii)      Restated  and  Amended   Bylaws  of  the   Company,  as
+                amended,  were  filed as Exhibit  3(b) to the  Company's
+                Form 10-K for the year ended April 28, 1991,  filed July
+                25, 1991, and are incorporated herein by reference.
+
+     3(iii)     Articles of Amendment  of Culp,  Inc.  dated  October 5,
+                1999 for the purpose of amending  its  Restated  Charter
+                to fix the  designation,  preferences,  limitations  and
+                relative  rights  of a series  of its  Preferred  Stock.
+                The Articles of Amendment  of Culp,  Inc.  were filed as
+                Exhibit  3(iii)  to the  Company's  Form  10-Q  for  the
+                quarter  ended  October 31,  1999,  filed  December  15,
+                1999, and are incorporated herein by reference.
+
+     10(a)      Loan Agreement dated December 1, 1988 with  Chesterfield
+                County,   South   Carolina   relating   to  Series  1988
+                Industrial  Revenue  Bonds in the  principal  amount  of
+                $3,377,000  was filed as Exhibit  10(n) to the Company's
+                Form  10-K for the year  ended  April 29,  1989,  and is
+                incorporated herein by reference.
+
+     10(b)      Loan Agreement  dated November 1, 1988 with the Alamance
+                County  Industrial   Facilities  and  Pollution  Control
+                Financing   Authority   relating   to  Series  A  and  B
+                Industrial  Revenue  Refunding  Bonds  in the  principal
+                amount of $7,900,000,  was filed as exhibit 10(o) to the
+                Company's  Form 10-K for the year ended April 29,  1990,
+                and is incorporated herein by reference.
+
+     10(c)      Loan  Agreement  dated January 5, 1990 with the Guilford
+                County  Industrial   Facilities  and  Pollution  Control
+                Financing Authority, North Carolina,  relating to Series
+                1989  Industrial  Revenue Bonds in the principal  amount
+                of  $4,500,000,  was  filed  as  Exhibit  10(d)  to  the
+                Company's  Form 10-K for the year ended April 29,  1990,
+                filed on July 25, 1990,  and is  incorporated  herein by
+                reference.
+
+     10(d)      Loan  Agreement  dated as of  December  1, 1993  between
+                Anderson   County,   South   Carolina  and  the  Company
+                relating to $6,580,000  Anderson County,  South Carolina
+                Industrial  Revenue Bonds (Culp,  Inc.  Project)  Series
+                1993,  was filed as Exhibit 10(o) to the Company's  Form
+                10-Q for the  quarter  ended  January  30,  1994,  filed
+                March 16, 1994, and is incorporated herein by reference.
+
+     10(e)      Form of Severance Protection Agreement,  dated September
+                21, 1989,  was filed as Exhibit  10(f) to the  Company's
+                Form 10-K for the year ended  April 29,  1990,  filed on
+                July 25, 1990, and is incorporated  herein by reference.
+                (*)
+
+     10(f)      Lease  Agreement,  dated January 19, 1990, with Phillips
+                Interests,  Inc.  was  filed  as  Exhibit  10(g)  to the
+                Company's  Form 10-K for the year ended April 29,  1990,
+                filed on July 25, 1990,  and is  incorporated  herein by
+                reference.
+
+     10(g)      Management  Incentive Plan of the Company,  dated August
+                1986 and amended  July 1989,  filed as Exhibit  10(o) to
+                the Company's  Form 10-K for the year ended May 3, 1992,
+                filed on August 4, 1992, and is  incorporated  herein by
+                reference.  (*)
+
+     10(h)      Lease   Agreement,   dated   September  6,  1988,   with
+                Partnership  74  was  filed  as  Exhibit  10(h)  to  the
+                Company's  Form 10-K for the year ended April 28,  1991,
+                filed on July 25, 1990,  and is  incorporated  herein by
+                reference.
+
+     10(i)      Amendment and  Restatement of the Employee's  Retirement
+                Builder  Plan of the  Company  dated  May 1,  1981  with
+                amendments  dated  January  1, 1990 and  January 8, 1990
+                were filed as Exhibit 10(p) to the  Company's  Form 10-K
+                for the year  ended  May 3,  1992,  filed on  August  4,
+                1992, and is incorporated herein by reference. (*)
+
+     10(j)      First  Amendment of Lease  Agreement dated July 27, 1992
+                with  Partnership  74  Associates  was filed as  Exhibit
+                10(n) to the Company's  Form 10-K for the year ended May
+                2, 1993,  filed on July 29,  1993,  and is  incorporated
+                herein by reference.
+
+     10(k)      Second  Amendment  of Lease  Agreement  dated  April 16,
+                1993,  with  Partnership  52  Associates  was  filed  as
+                Exhibit  10(l) to the  Company's  Form 10-K for the year
+                ended  May 2,  1993,  filed  on July  29,  1993,  and is
+                incorporated herein by reference.
+
+     10(l)      1993 Stock  Option  Plan was filed as  Exhibit  10(o) to
+                the Company's  Form 10-K for the year ended May 2, 1993,
+                filed on July 29, 1993,  and is  incorporated  herein by
+                reference.  (*)
+
+     10(m)      First  Amendment to Loan Agreement  dated as of December
+                1, 1993 by and between The  Guilford  County  Industrial
+                Facilities  and Pollution  Control  Financing  Authority
+                and the  Company  was  filed  as  Exhibit  10(p)  to the
+                Company's  Form 10-Q,  filed on March 15,  1994,  and is
+                incorporated herein by reference.
+
+     10(n)      First  Amendment to Loan Agreement  dated as of December
+                16, 1993 by and between The Alamance  County  Industrial
+                Facilities  and Pollution  Control  Financing  Authority
+                and the  Company  was  filed  as  Exhibit  10(q)  to the
+                Company's  Form 10-Q,  filed on March 15,  1994,  and is
+                incorporated herein by reference.
+
+     10(o)      First  Amendment to Loan Agreement  dated as of December
+                16,  1993  by and  between  Chesterfield  County,  South
+                Carolina  and the Company was filed as Exhibit  10(r) to
+                the Company's  Form 10-Q,  filed on March 15, 1994,  and
+                is incorporated herein by reference.
+
+     10(p)      Amendment to Lease dated as of November 4, 1994,  by and
+                between the Company and RDC,  Inc.  was filed as Exhibit
+                10(w) to the Company's  Form 10-Q, for the quarter ended
+                January  29,  1995,  filed on  March  15,  1995,  and is
+                incorporated herein by reference.
+
+     10(q)      Amendment  to Lease  Agreement  dated as of December 14,
+                1994,   by  and  between   the  Company  and   Rossville
+                Investments,  Inc.  (formerly  known  as  A & E Leasing,
+                Inc.), was filed as Exhibit 10(y) to the Company's  Form
+                10-Q,  for the  quarter  ended  January 29, 1995,  filed
+                on  March  15,  1995,  and  is  incorporated  herein  by
+                reference.
+
+     10(r)      Interest Rate Swap Agreement  between  Company and First
+                Union  National Bank of North  Carolina  dated April 17,
+                1995,  was filed as Exhibit 10(aa) to the Company's Form
+                10-K for the year ended  April 30,  1995,  filed on July
+                26, 1995, and is incorporated herein by reference.
+
+     10(s)      Performance-Based  Stock  Option  Plan,  dated  June 21,
+                1994,  was filed as Exhibit 10(bb) to the Company's Form
+                10-K for the year ended  April 30,  1995,  filed on July
+                26, 1995, and is incorporated herein by reference. (*)
+
+     10(t)      Interest Rate Swap Agreement  between  Company and First
+                Union  National  Bank of North  Carolina,  dated May 31,
+                1995 was filed as exhibit  10(w) to the  Company's  Form
+                10-Q  for the  quarter  ended  July 30,  1995,  filed on
+                September  12,  1995,  and  is  incorporated  herein  by
+                reference.
+
+     10(u)      Interest Rate Swap Agreement  between  Company and First
+                Union  National  Bank of North  Carolina,  dated July 7,
+                1995 was filed as exhibit  10(x) to the  Company's  Form
+                10-Q  for the  quarter  ended  July 30,  1995,  filed on
+                September  12,  1995,  and  is  incorporated  herein  by
+                reference.
+
+     10(v)      Second  Amendment of Lease Agreement dated June 15, 1994
+                with  Partnership  74  Associates  was filed as  Exhibit
+                10(v) to the  Company's  Form 10-Q for the quarter ended
+                October 29, 1995,  filed on December  12,  1995,  and is
+                incorporated herein by reference.
+
+     10(w)      Lease  Agreement  dated  November 1, 1993 by and between
+                the Company  and  Chromatex,  Inc.  was filed as Exhibit
+                10(w) to the  Company's  Form 10-Q for the quarter ended
+                October 29, 1995,  filed on December  12,  1995,  and is
+                incorporated herein by reference.
+
+     10(x)      Lease  Agreement  dated  November 1, 1993 by and between
+                the Company and Chromatex Properties,  Inc. was filed as
+                Exhibit  10(x)  to  the  Company's  Form  10-Q  for  the
+                quarter  ended  October 29, 1995,  filed on December 12,
+                1995, and is incorporated herein by reference.
+
+     10(y)      Amendment  to Lease  Agreement  dated May 1, 1994 by and
+                between the Company and Chromatex  Properties,  Inc. was
+                filed as Exhibit  10(y) to the  Company's  Form 10-Q for
+                the quarter  ended  October 29, 1995,  filed on December
+                12, 1995, and is incorporated herein by reference.
+
+     10(z)      Canada-Quebec    Subsidiary   Agreement   on  Industrial
+                Development (1991),  dated January 4, 1995, was filed as
+                Exhibit  10(z)  to  the  Company's  Form  10-Q  for  the
+                quarter  ended  October 29, 1995,  filed on December 12,
+                1995, and is incorporated herein by reference.
+
+     10(aa)     Loan  Agreement  between   Chesterfield   County,  South
+                Carolina  and the  Company  dated as of  April  1,  1996
+                relating  to  Tax  Exempt   Adjustable  Mode  Industrial
+                Development  Bonds (Culp,  Inc.  Project) Series 1996 in
+                the aggregate  principal  amount of $6,000,000 was filed
+                as  Exhibit  10(aa) to the  Company's  Form 10-K for the
+                year ended April 28, 1996,  and is  incorporated  herein
+                by reference.
+
+     10(bb)     Loan Agreement  between the Alamance  County  Industrial
+                Facilities and Pollution  Control  Financing  Authority,
+                North Carolina and the Company,  dated December 1, 1996,
+                relating  to  Tax  Exempt   Adjustable  Mode  Industrial
+                Development  Revenue Bonds,  (Culp,  Inc. Project Series
+                1996) in the aggregate  amount of  $6,000,000  was filed
+                as  Exhibit  10(cc) to the  Company's  Form 10-Q for the
+                quarter  ended  January 26,  1997,  and is  incorporated
+                herein by reference.
+
+     10(cc)     Loan Agreement between Luzerne County,  Pennsylvania and
+                the Company,  dated as of December 1, 1996,  relating to
+                Tax-Exempt   Adjustable  Mode   Industrial   Development
+                Revenue Bonds (Culp,  Inc.  Project)  Series 1996 in the
+                aggregate  principal  amount of $3,500,000  was filed as
+                Exhibit  10(dd)  to the  Company's  Form  10-Q  for  the
+                quarter  ended  January 26,  1997,  and is  incorporated
+                herein by reference.
+
+     10(dd)     Second  Amendment to Lease Agreement  between  Chromatex
+                Properties,  Inc. and the Company,  dated April 17, 1997
+                was filed as Exhibit  10(dd) to the Company's  Form 10-K
+                for the year ended April 27, 1997,  and is  incorporated
+                herein by reference.
+
+     10(ee)     Lease   Agreement   between  Joseph  E.  Proctor  (doing
+                business  as JEPCO)  and the  Company,  dated  April 21,
+                1997 was filed as Exhibit  10(ee) to the Company's  Form
+                10-K  for  the  year  ended  April  27,  1997,   and  is
+                incorporated herein by reference.
+
+     10(ff)     $125,000,000  Revolving  Loan  Facility  dated April 23,
+                1997 by and  among  the  Company  and  Wachovia  Bank of
+                Georgia,  N.A., as agent,  and First Union National Bank
+                of North Carolina,  as documentation  agent was filed as
+                Exhibit  10(ff) to the Company's  Form 10-K for the year
+                ended  April 27,  1997,  and is  incorporated  herein by
+                reference.
+
+     10(gg)    Revolving Line of Credit for  $4,000,000  dated April 23,
+               1997 by and  between the  Company  and  Wachovia  Bank of
+               North  Carolina,  N.A. was filed as Exhibit 10(gg) to the
+               Company's  Form 10-K for the year ended  April 27,  1997,
+               and is incorporated herein by reference.
+
+     10(hh)    Reimbursement  and Security  Agreement between Culp, Inc.
+               and Wachovia Bank of North  Carolina,  N.A.,  dated as of
+               April 1, 1997,  relating to $3,337,000  Principal Amount,
+               Chesterfield  County,  South Carolina  Industrial Revenue
+               Bonds  (Culp,  Inc.  Project)  Series  1988 was  filed as
+               Exhibit  10(hh) to the  Company's  Form 10-K for the year
+               ended  April  27,  1997,  and is  incorporated  herein by
+               reference.
+
+               Additionally,   there  are   Reimbursement  and  Security
+               Agreements  between Culp, Inc. and Wachovia Bank of North
+               Carolina,  N.A.,  dated  as  of  April  1,  1997  in  the
+               following amounts and with the following facilities:
+
+               $7,900,000  Principal Amount,  Alamance County Industrial
+               Facilities  and  Pollution  Control  Financing  Authority
+               Industrial  Revenue  Refunding Bonds (Culp, Inc. Project)
+               Series A and B.
+
+               $4,500,000  Principal Amount,  Guilford County Industrial
+               Facilities  and  Pollution  Control  Financing  Authority
+               Industrial   Development   Revenue   Bonds  (Culp,   Inc.
+               Project) Series 1989.
+
+               $6,580,000   Principal  Amount,   Anderson  County  South
+               Carolina  Industrial  Revenue Bonds (Culp,  Inc. Project)
+               Series 1993.
+
+               $6,000,000  Principal Amount,  Chesterfield County, South
+               Carolina    Tax-Exempt    Adjustable    Mode   Industrial
+               Development  Revenue Bonds (Culp,  Inc.  Project)  Series
+               1996.
+
+               $6,000,000   Principal   Amount,   The  Alamance   County
+               Industrial  Facilities  and Pollution  Control  Financing
+               Authority    Tax-exempt    Adjustable   Mode   Industrial
+               Development  Revenue Bonds (Culp,  Inc.  Project)  Series
+               1996.
+
+               $3,500,000  Principal  Amount,  Luzerne County Industrial
+               Development    Authority   Tax-Exempt   Adjustable   Mode
+               Industrial   Development   Revenue   Bonds  (Culp,   Inc.
+               Project) Series 1996.
+
+     10(ii)    Loan Agreement and Reimbursement  and Security  Agreement
+               dated July 1, 1997 with the  Robeson  County   Industrial
+               Facilities  and  Pollution  Control  Financing  Authority
+               relating to the issuance of  Tax-Exempt  Adjustable  Mode
+               Industrial   Development   Revenue   Bonds  (Culp,   Inc.
+               Project),  Series 1997 in the aggregate  principal amount
+               of  $8,500,000   was  filed  as  Exhibit  10(ii)  to  the
+               Company's  Form  10-Q for the  quarter  ended  August  3,
+               1997, and is incorporated herein by reference.
+
+     10(jj)    Asset  Purchase  Agreement  dated as of August 4, 1997 by
+               and between Culp,  Inc.,  Phillips  Weaving Mills,  Inc.,
+               Phillips  Printing  Mills,  Inc.,  Phillips Velvet Mills,
+               Inc.,  Phillips Mills,  Inc.,  Phillips Property Company,
+               LLC, Phillips Industries, Inc. and S. Davis Phillips  was
+               filed as Exhibit (10jj) to the  Company's Form  10-Q  for
+               the quarter ended November 2, 1997,  and is  incorporated
+               herein by reference.
+
+     10(kk)    Asset  Purchase  Agreement  dated as of October  14, 1997
+               among Culp, Inc., Artee Industries,  Incorporated, Robert
+               T.  Davis,  Robert L. Davis,  Trustee u/a dated  8/25/94,
+               Robert L. Davis,  Louis W. Davis,  Kelly D.  England,  J.
+               Marshall  Bradley,  Frankie  S.  Bradley  and  Mickey  R.
+               Bradley  was filed as  Exhibit  10(kk)  to the  Company's
+               Form 10-Q for the quarter ended  November 2, 1997, and is
+               incorporated herein by reference.
+
+<PAGE>
+
+     10(ll)     Form  of  Note  Purchase  Agreement  (providing  for the
+                issuance by Culp,  Inc. of its $20 million  6.76% Series
+                A Senior  Notes due 3/15/08  and its $55  million  6.76%
+                Series B Senior Notes due 3/15/10),  each dated March 4,
+                1998, between Culp, Inc. and each of the following:
+                1.  Connecticut General Life Insurance Company;
+                2.  The Mutual Life Insurance Company of New York;
+                3.  United of Omaha Life Insurance Company;
+                4.  Mutual of Omaha Insurance Company;
+                5.  The Prudential Insurance Company of  America;
+                6.  Allstate Life Insurance Company;
+                7.  Life Insurance Company of North America;  and
+                8.  CIGNA Property and Casualty Insurance Company
+                This  agreement  was  filed  as  Exhibit  10(ll)  to the
+                Company's  Form 10-K for the year ended May 3, 1998, and
+                is incorporated herein by reference.
+
+     10(mm)     First Amendment to Credit  Agreement dated July 22, 1998
+                among Culp, Inc.,  Wachovia Bank, N.A., as agent,  First
+                Union  National  Bank,  as   documentation   agent,  and
+                Wachovia   Bank,   N.A.,   First  Union  National  Bank,
+                SunTrust  Bank,  Atlanta,   and  Cooperatieve   Centrale
+                Raiffeisen-Boerenleeenbank   B.A.,  Rabobank  Nederland,
+                New York Branch,  as lenders.  This  amendment was filed
+                as  Exhibit  10(mm) to the  Company's  Form 10-Q for the
+                quarter  ended  August  2,  1998,  and  is  incorporated
+                herein by reference.
+
+     10(nn)     Second  Amendment to Credit  Agreement dated October 26,
+                1998, among Culp,  Inc.,  Wachovia Bank, N.A., as agent,
+                First Union National Bank, as  documentation  agent, and
+                Wachovia  Bank,  N.A.,  First Union  National  Bank, and
+                SunTrust Bank, Atlanta,  as lenders.  This amendment was
+                filed as Exhibit  10(nn) to the Company's  Form 10-Q for
+                the quarter ended November 1, 1998, and is  incorporated
+                herein by reference.
+
+     10(oo)     Rights Agreement,  dated as of October 8, 1999,  between
+                Culp, Inc. and EquiServe Trust Company,  N.A., as Rights
+                Agent,  including the form of Articles of Amendment with
+                respect to the Series A  Participating  Preferred  Stock
+                included  as  Exhibit  A to the  Rights  Agreement,  the
+                forms of Rights  Certificate  included  as  Exhibit B to
+                the Rights Agreement,  and the form of Summary of Rights
+                included  as  Exhibit  C to the  Rights  Agreement.  The
+                Rights  Agreement  was  filed  as  Exhibit  99.1  to the
+                Company's  Form  8-K  dated  October  12,  1999,  and is
+                incorporated herein by reference.
+
+     10(pp)     Third  Amendment  to Credit  Agreement  dated  April 28,
+                2000, among Culp,  Inc.,  Wachovia Bank, N.A., as agent,
+                First Union National Bank, as  documentation  agent, and
+                Wachovia  Bank,  N.A.,  First Union  National  Bank, and
+                Suntrust  Bank, as lenders.  This amendment was filed as
+                Exhibit  10(pp) to the Company's  Form 10-K for the year
+                ended  April 30,  2000,  and is  incorporated  herein by
+                reference.
+
+     22         List of subsidiaries of the Company.
+
+
+
+     24(a)     Consent of  Independent  Public  Auditors in connection  with
+               the  registration  statements  of  Culp,  Inc.  on  Form  S-8
+               (File Nos. 33-13310, 33-37027,   33-80206,    33-62843,   and
+               333-27519),  dated March 20, 1987,  September 18, 1990,  June
+               13, 1994, September 22, 1995, and May 21, 1997.
+
+     25(a)     Power of Attorney of Robert T. Davis, dated June 22, 2000
+
+     25(b)     Power of Attorney of Howard L. Dunn, Jr., dated June 21, 2000
+
+     25(c)     Power of Attorney of Patrick B. Flavin, dated June 27, 2000
+
+     25(d)     Power of Attorney of Patrick H. Norton, dated June 29, 2000
+
+     25(e)     Power of Attorney of Earl N. Phillips, Jr., dated June 22, 2000
+
+     25(f)     Power of Attorney of Franklin N. Saxon, dated July 7, 2000
+
+     25(g)     Power of Attorney of Judith C. Walker, dated June 23,  2000
+
+     27        Financial Data Schedule
+
+b)    Reports on Form 8-K:
+
+      The  Company  filed  the  following  report  on Form  8-K  during  the
+quarter ended April 30, 2000:
+
+      (1)Form 8-K dated  February 14, 2000,  included under Item 5,
+         Other Events, included The Company's press release for  quarterly
+         earnings and the Financial Information Release relating to certain
+         financial information for the quarter ended  January 30, 2000.
+
+c)    Exhibits:
+
+      The  exhibits  to this  Form  10-K are  filed at the end of this  Form
+      10-K immediately preceded by  an  index. A list of the exhibits begins on
+      page 54 under the subheading "Exhibits Index".
+
+d)    Financial Statement Schedules:
+
+      See Item 14(a) (2)
+
+
+<PAGE>
+                               SIGNATURES
+
+                 Pursuant  to  the   requirements   of  Section  13  of  the
+Securities  Exchange  Act of 1934,  CULP,  INC. has caused this report to be
+signed on its behalf by the undersigned,  thereunto duly authorized,  on the
+25th day of April 2001.
+
+                        CULP, INC.
+                        By /s/    Robert G. Culp, III
+                                  Robert G. Culp, III
+                                 (Chairman and Chief Executive Officer)
+
+                        By: /s/   Phillip W. Wilson
+                                  Phillip W. Wilson
+                                 (Vice  President  and  Chief  Financial  and
+                                  Accounting Officer)
+
+            Pursuant to the  requirements of the Securities  Exchange Act of
+1934,  this report has been signed below by the following  persons on behalf
+of the registrant  and in the capacities  indicated on the 25th day of April
+2001.
+
+/s/   Robert G. Culp, III           /s/   Franklin N. Saxon *
+      Robert G. Culp, III                 Franklin N. Saxon
+      (Chairman of the                    (Director)
+       Board of Directors)
+
+/s/   Earl N. Phillips, Jr.*        /s/   Judith C. Walker *
+      Earl N. Phillips, Jr.               Judith C. Walker
+         (Director)                         (Director)
+
+/s/   Howard L. Dunn, Jr.*          /s/   Robert T. Davis *
+      Howard L. Dunn, Jr.                 Robert T. Davis
+         (Director)                         (Director)
+
+/s/   Patrick B. Flavin*
+      Patrick B. Flavin
+         (Director)
+
+/s/   Patrick H. Norton*
+      Patrick H. Norton
+         (Director)
+
+*     By  Phillip  W.  Wilson,  Attorney-in-Fact,   pursuant  to  Powers  of
+Attorney filed with the Securities and Exchange Commission.
+
+
+
+
+
+                             EXHIBITS INDEX
+
+
+Exhibit Number  Exhibit
+
+     24(a)     Consent of  Independent  Public  Auditors in connection  with
+               the  registration  statements of Culp, Inc. on Form S-8 (File
+               Nos. 33-13310, 33-37027,   33-80206,       33-62843,      and
+               333-27519),  dated March 20, 1987,  September 18, 1990,  June
+               13, 1994, September 22, 1995, and May 21, 1997.
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>2
+<FILENAME>a10kacon.txt
+<DESCRIPTION>CONSENT OF INDEPENDENT AUDITORS
+<TEXT>
+
+                                 Exhibit 24(a)
+
+                         CONSENT OF INDEPENDENT AUDITORS
+
+
+
+
+To the Board of Directors and Shareholders of Culp, Inc.:
+
+
+We consent to incorporation by reference in the registration  statement  numbers
+333-27519,  33-13310, 33-37027, 33-80206, and 33-62843 on Form S-8 of Culp, Inc.
+of our  report  dated  May 31,  2000,  except  for  note 17 to the  consolidated
+financial statements, as to which the date is February 19, 2001, relating to the
+consolidated  balance  sheets of Culp,  Inc. and subsidiary as of April 30, 2000
+and May 2, 1999,  (as  restated),  and the related  consolidated  statements  of
+income,  shareholders'  equity  and  cash  flows  for  each of the  years in the
+three-year  period  ended April 30, 2000 (as restated for the years ended May 2,
+1999 and May 3, 1998),  which report appears in the April 30, 2000 annual report
+on Form 10-K/A of Culp, Inc.
+
+As discussed in note 17 to the consolidated  financial  statements,  the company
+has restated its previously  issued 2000, 1999 and 1998  consolidated  financial
+statements.
+
+                                        KPMG LLP
+
+Charlotte, North Carolina
+April 25, 2001
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>3
+<FILENAME>afdsfy00.xfd
+<DESCRIPTION>FINANCIAL DATA SCHEDULE
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE>    5
+<RESTATED>
+<MULTIPLIER>    1,000
+<CURRENCY>    U.S.DOLLARS
+
+<S>                                                      <C>
+<PERIOD-TYPE>                                         12-MOS
+<PERIOD-START>                                   May-03-1999
+<FISCAL-YEAR-END>                                Apr-30-2000
+<PERIOD-END>                                     Apr-30-2000
+<EXCHANGE-RATE>                                            1
+<CASH>                                                 1,007
+<SECURITIES>                                               0
+<RECEIVABLES>                                         75,223
+<ALLOWANCES>                                               0
+<INVENTORY>                                           74,471
+<CURRENT-ASSETS>                                     161,050
+<PP&E>                                               250,949
+<DEPRECIATION>                                     (124,542)
+<TOTAL-ASSETS>                                       343,980
+<CURRENT-LIABILITIES>                                 61,073
+<BONDS>                                                    0
+<PREFERRED-MANDATORY>                                      0
+<PREFERRED>                                                0
+<COMMON>                                                 560
+<OTHER-SE>                                           129,080
+<TOTAL-LIABILITY-AND-EQUITY>                         343,980
+<SALES>                                              488,079
+<TOTAL-REVENUES>                                     488,079
+<CGS>                                                403,414
+<TOTAL-COSTS>                                        403,414
+<OTHER-EXPENSES>                                      59,935
+<LOSS-PROVISION>                                           0
+<INTEREST-EXPENSE>                                     9,521
+<INCOME-PRETAX>                                       13,694
+<INCOME-TAX>                                           4,314
+<INCOME-CONTINUING>                                    9,380
+<DISCONTINUED>                                             0
+<EXTRAORDINARY>                                            0
+<CHANGES>                                                  0
+<NET-INCOME>                                           9,380
+<EPS-BASIC>                                             0.81
+<EPS-DILUTED>                                            0.8
+<FN>
+</FN>
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----
