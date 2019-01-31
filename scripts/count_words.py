@@ -11,7 +11,7 @@ def main():
     print(cpu_count() - 1)
     pool = Pool(processes=cpu_count() - 1)
 
-    files = glob.glob('{}/*.txt'.format(INPUT_FOLDER_10K))[:10]
+    files = glob.glob('{}/*.txt'.format(INPUT_FOLDER_10K)
 
     headers = ["cik", "filing_date", "period_of_report", "id", "doc_type"]
     headers.extend([rule[0] for rule in RULES])
