@@ -105,3 +105,6 @@ venv.bak/
 
 # idea
 .idea/
+
+# 10K files
+./10K_files/
