@@ -15,11 +15,10 @@ def download_10ks(cik_list_path, output_path):
     s = requests.Session()
     s.mount('https://www.sec.gov/', adapter)
     with open(cik_list_path, 'r') as cik_file:
-        ciks = cik_file.read().split('\n')[:20]
+        ciks = cik_file.read().split('\n')
     keys = sorted([(s, i, output_path) for i in ciks])
-    print(keys)
     pool = Pool(processes=min(8, multiprocessing.cpu_count() - 1))
-    print(list(tqdm(pool.imap_unordered(_fetch_helper, keys), total=len(keys))))
+    list(tqdm(pool.imap_unordered(_fetch_helper, keys), total=len(keys)))
     pool.close()
 
 
