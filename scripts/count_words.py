@@ -11,7 +11,11 @@ from scripts.input.rules import rules_2
 def main(rules):
     pool = Pool(processes=cpu_count() - 1)
 
+<<<<<<< HEAD
     files = glob.glob('{}/*.txt'.format(INPUT_FOLDER_10K))
+=======
+    files = glob.glob('{}/*.txt'.format(INPUT_FOLDER_10K)
+>>>>>>> df3607816a34d6440531dd441ebb7f7b3d9d0628
 
     headers = ["cik", "filing_date", "period_of_report", "id", "doc_type"]
     headers.extend([rule[0] for rule in rules])

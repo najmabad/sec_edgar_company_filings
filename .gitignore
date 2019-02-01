@@ -105,3 +105,11 @@ venv.bak/
 
 # idea
 .idea/
+
+# 10K files
+10K_files/
+
+# Pipfile lock
+Pipfile.lock
+words_count.csv
+nohup.out
