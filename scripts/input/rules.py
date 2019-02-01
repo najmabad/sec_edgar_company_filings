@@ -1,6 +1,6 @@
 import re
 
-RULES = [
+rules_1 = [
     ('total_words', re.compile(r"\b\w+\b")),
     ('variable_cost_ct', re.compile(r"\bvariable\b \bcosts?\b")),
     ('variable_exp_ct', re.compile(r"\bvariable\b \bexpenses?\b")),
@@ -20,4 +20,9 @@ RULES = [
     ('econ_of_scope_ct', re.compile(r"\beconomies\b \bof\b \bscope\b")),
     ('unv_ct', re.compile(r"\buniversity\b \bof\b")),
     ('outsource_ct', re.compile(r"\boutsource\b|\boutsourcing\b|\boutsourced\b")),
+]
+
+
+rules_2 = [
+    ('founded_in', re.compile(r"((?:\w+\s+){0,5}\bfounded\b \bin\b \d{0,4}(?:\s+\w+){0,5})")),
 ]
