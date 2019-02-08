@@ -18,9 +18,8 @@ def main(rules):
 
     csv_lines = [",".join(headers)]
     for file_name, counts, doc_type in tqdm(pool.imap_unordered(process_file, [(file, rules) for file in files]), total=len(files)):
-        print(counts)
         csv_lines.append(
-            f"{file_name.replace('_', ',')},{doc_type},{','.join([str(counts[rule[0]+suffix]) for rule in rules for suffix in ['_clean', '_no_clean']])}"
+            f"{file_name.replace('_', ',')},{doc_type},{','.join([str(counts[rule[0]+suffix]) for rule in rules for suffix in ['_clean', '_not_clean']])}"
         )
 
     with open('{}/words_count.csv'.format(OUTPUT_FOLDER), 'w') as f:
