@@ -14,7 +14,7 @@ def main(rules):
     files = glob.glob('{}/*.txt'.format(INPUT_FOLDER_10K))
 
     headers = ["cik", "filing_date", "period_of_report", "id", "doc_type"]
-    headers.extend([rule[0] for rule in rules])
+    headers.extend([rule[0]+suffix for rule in rules for suffix in ['_clean', '_not_clean']])
 
     csv_lines = [",".join(headers)]
     for file_name, counts, doc_type in tqdm(pool.imap_unordered(process_file, [(file, rules) for file in files]), total=len(files)):
