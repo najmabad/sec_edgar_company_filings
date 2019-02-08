@@ -53,7 +53,15 @@ def find_special_words(doc, rules):
     """
     counts = {}
     for rule_name, rule in rules:
-        counts[rule_name] = re.findall(rule, doc)
+        for clean_suffix in ['_not_clean', '_clean']:
+            if clean_suffix == '_clean':
+                cur_doc = clean_text(doc)
+            else:
+                cur_doc = str(doc)
+            if isinstance(rule, tuple):
+                counts[rule_name + clean_suffix] = len(re.findall(rule[0], re.sub(rule[1], "", cur_doc)))
+            else:
+                counts[rule_name + clean_suffix] = len(re.findall(rule, cur_doc))
 
     return counts
 
@@ -62,8 +70,7 @@ def process_file(args):
     file_path, rules = args
     with open(file_path, 'r') as f:
         raw_text = f.read()
-        text = raw_text#clean_text(raw_text)
-        # counts = {k: len(v) for k, v in find_special_words(text, rules).items()}
+        text = raw_text  # clean_text(raw_text)
         doc_type = _find_doc_type(raw_text.lower())
 
     return file_path.replace('.txt', '').split('/')[-1], find_special_words(text, rules), doc_type
