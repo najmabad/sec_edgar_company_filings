@@ -5,17 +5,13 @@ import glob
 from tqdm import tqdm
 
 from count_words_helpers import process_file
-from scripts.input.rules import rules_2
+from scripts.input.rules import rules
 
 
 def main(rules):
     pool = Pool(processes=cpu_count() - 1)
 
-<<<<<<< HEAD
     files = glob.glob('{}/*.txt'.format(INPUT_FOLDER_10K))
-=======
-    files = glob.glob('{}/*.txt'.format(INPUT_FOLDER_10K)
->>>>>>> df3607816a34d6440531dd441ebb7f7b3d9d0628
 
     headers = ["cik", "filing_date", "period_of_report", "id", "doc_type"]
     headers.extend([rule[0] for rule in rules])
@@ -33,4 +29,4 @@ def main(rules):
 if __name__ == '__main__':
     INPUT_FOLDER_10K = sys.argv[1] if len(sys.argv) > 1 else '10K_files'
     OUTPUT_FOLDER = sys.argv[2] if len(sys.argv) > 2 else '10K_files'
-    main(rules_2)
+    main(rules)
