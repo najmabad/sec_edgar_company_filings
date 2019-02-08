@@ -30,5 +30,5 @@ import re
 #
 rules = [
     ('total_words', re.compile(r"\b\w+\b")),
-    ('competition_words', [re.compile(r"competitions?|competitors?|competitives?|competes?|competings?"), "(few|less|not|limited)(\s\w+){0,3}"]),
+    ('competition_words', (re.compile(r"competitions?|competitors?|competitives?|competes?|competings?"), "(few|less|not|limited)(\s\w+){0,3}")),
 ]
